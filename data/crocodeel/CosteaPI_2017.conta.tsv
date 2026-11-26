@@ -1,0 +1,17 @@
+# CroCoDeEL 1.3.1, default settings
+source	target	rate	probability
+mickey5-11-7-0	mickey3-11-0-0	8.38e-01	0.83
+donald1-11-30-0	mickey5-11-7-0	7.81e-01	0.62
+donald1-11-30-0	mickey3-11-0-0	7.72e-01	0.61
+alien-11-902-0	alien-11-904-0	7.71e-01	0.95
+tigress-11-0-0	tigress-11-2-0	7.22e-01	0.52
+donald4-11-30-0	donald4-11-7-0	7.19e-01	0.99
+donald4-11-7-0	donald5-11-0-0	7.11e-01	0.67
+bugkiller-11-392-1	bugkiller-11-392-3	6.83e-01	0.8
+daisy-11-388-0	daisy-11-389-0	6.65e-01	0.56
+peacemaker-11-392-1	peacemaker-11-392-2	6.62e-01	1.0
+donald4-11-30-0	donald5-11-0-0	6.46e-01	0.56
+daisy-11-389-0	daisy-11-390-0	6.09e-01	0.84
+tigress-11-60-0	tigress-11-0-0	5.63e-01	0.58
+daisy-11-0-0	daisy-11-60-0	4.80e-01	0.64
+SID713B033-11-90-0	SID713B033-11-0-0	1.32e-01	0.52

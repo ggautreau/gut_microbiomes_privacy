@@ -1,0 +1,318 @@
+{
+ "cohorts": {
+  "Vincent": {
+   "donors": 61,
+   "samples": 122,
+   "median_more_human_sample_percent": 48.405405797732584,
+   "q25_percent": 8.689461133318465,
+   "q75_percent": 73.64794132953682,
+   "max_percent": 95.62878787878788,
+   "median_of_all_samples_percent": 12.981294617759445,
+   "donors_5_percent_or_more": 50,
+   "donors_50_percent_or_more": 28
+  },
+  "Hansen": {
+   "donors": 46,
+   "samples": 92,
+   "median_more_human_sample_percent": 0.8430815730520931,
+   "q25_percent": 0.2917981713119765,
+   "q75_percent": 1.644496030772221,
+   "max_percent": 9.53257855188131,
+   "median_of_all_samples_percent": 0.4847259095568792,
+   "donors_5_percent_or_more": 2,
+   "donors_50_percent_or_more": 0
+  },
+  "Mehta": {
+   "donors": 242,
+   "samples": 484,
+   "median_more_human_sample_percent": 0.04638080894768133,
+   "q25_percent": 0.023782960383889228,
+   "q75_percent": 0.12281110792748764,
+   "max_percent": 53.36254185367244,
+   "median_of_all_samples_percent": 0.02804254951863879,
+   "donors_5_percent_or_more": 7,
+   "donors_50_percent_or_more": 1
+  },
+  "Bengtsson-Palme": {
+   "donors": 33,
+   "samples": 66,
+   "median_more_human_sample_percent": 0.027527973058492455,
+   "q25_percent": 0.010666919512166214,
+   "q75_percent": 0.07656152320385277,
+   "max_percent": 7.035896051513732,
+   "median_of_all_samples_percent": 0.013618975817571294,
+   "donors_5_percent_or_more": 1,
+   "donors_50_percent_or_more": 0
+  },
+  "Raymond": {
+   "donors": 24,
+   "samples": 48,
+   "median_more_human_sample_percent": 0.017904257525364405,
+   "q25_percent": 0.012203106355243706,
+   "q75_percent": 0.02970679697845307,
+   "max_percent": 0.05314378715913243,
+   "median_of_all_samples_percent": 0.012184533674000145,
+   "donors_5_percent_or_more": 0,
+   "donors_50_percent_or_more": 0
+  },
+  "HMP IBD": {
+   "donors": 48,
+   "samples": 96,
+   "median_more_human_sample_percent": 0.02253594387676367,
+   "q25_percent": 0.00740138894718538,
+   "q75_percent": 0.12452631978869785,
+   "max_percent": 18.009998780636508,
+   "median_of_all_samples_percent": 0.01209833473511225,
+   "donors_5_percent_or_more": 3,
+   "donors_50_percent_or_more": 0
+  },
+  "Heintz-Buschart": {
+   "donors": 13,
+   "samples": 26,
+   "median_more_human_sample_percent": 0.004240597358814611,
+   "q25_percent": 0.0029071774577459925,
+   "q75_percent": 0.011398609369656901,
+   "max_percent": 0.07856703116296795,
+   "median_of_all_samples_percent": 0.0029734379598292853,
+   "donors_5_percent_or_more": 0,
+   "donors_50_percent_or_more": 0
+  },
+  "Costea": {
+   "donors": 91,
+   "samples": 182,
+   "median_more_human_sample_percent": 0.004412506303580433,
+   "q25_percent": 0.001570158730482166,
+   "q75_percent": 0.010891531147065682,
+   "max_percent": 1.0928532117304819,
+   "median_of_all_samples_percent": 0.001857667750146952,
+   "donors_5_percent_or_more": 0,
+   "donors_50_percent_or_more": 0
+  }
+ },
+ "linked_by_human_share": [
+  {
+   "label": "<0.5",
+   "donors": 441,
+   "linked": 408,
+   "percent": 92.51700680272108,
+   "wilson_low": 89.67729114202845,
+   "wilson_high": 94.62237867302483
+  },
+  {
+   "label": "0.5\u20135",
+   "donors": 54,
+   "linked": 45,
+   "percent": 83.33333333333333,
+   "wilson_low": 71.26323220121027,
+   "wilson_high": 90.97571001338962
+  },
+  {
+   "label": "5\u201350",
+   "donors": 34,
+   "linked": 23,
+   "percent": 67.6470588235294,
+   "wilson_low": 50.84258404811939,
+   "wilson_high": 80.86854867354143
+  },
+  {
+   "label": "\u226550",
+   "donors": 29,
+   "linked": 4,
+   "percent": 13.793103448275861,
+   "wilson_low": 5.497350852047822,
+   "wilson_high": 30.559357712699324
+  }
+ ],
+ "pool_rank1_percent": {
+  "All hashes": {
+   "under_5_percent_human": {
+    "n": 495,
+    "top1": 468,
+    "percent": 94.54545454545455
+   },
+   "five_percent_or_more": {
+    "n": 63,
+    "top1": 32,
+    "percent": 50.79365079365079
+   }
+  },
+  "Human hashes removed": {
+   "under_5_percent_human": {
+    "n": 495,
+    "top1": 468,
+    "percent": 94.54545454545455
+   },
+   "five_percent_or_more": {
+    "n": 63,
+    "top1": 39,
+    "percent": 61.904761904761905
+   }
+  },
+  "Human hashes only": {
+   "under_5_percent_human": {
+    "n": 495,
+    "top1": 5,
+    "percent": 1.0101010101010102
+   },
+   "five_percent_or_more": {
+    "n": 63,
+    "top1": 4,
+    "percent": 6.349206349206349
+   }
+  }
+ },
+ "stat_comparison": {
+  "runs": 1116,
+  "spearman": 0.9037317089857939,
+  "spearman_11_or_more_human_hashes": {
+   "runs": 800,
+   "value": 0.9263965583806165
+  },
+  "spearman_under_11_human_hashes": {
+   "runs": 316,
+   "value": 0.4474387179997893
+  },
+  "thresholds": {
+   "1": {
+    "both_high": 133,
+    "only_stat_high": 8,
+    "only_ours_high": 25,
+    "both_low": 950,
+    "kappa": 0.8726238897650869
+   },
+   "5": {
+    "both_high": 83,
+    "only_stat_high": 5,
+    "only_ours_high": 15,
+    "both_low": 1013,
+    "kappa": 0.8827287629775968
+   },
+   "10": {
+    "both_high": 64,
+    "only_stat_high": 3,
+    "only_ours_high": 10,
+    "both_low": 1039,
+    "kappa": 0.9016006511123166
+   },
+   "50": {
+    "both_high": 33,
+    "only_stat_high": 5,
+    "only_ours_high": 5,
+    "both_low": 1073,
+    "kappa": 0.8637828337076453
+   }
+  },
+  "median_ratio_stat_over_ours_when_ours_20_or_more": {
+   "runs": 53,
+   "value": 0.9897199145081361
+  },
+  "median_ratio_stat_over_ours_when_ours_0_1_to_5": {
+   "runs": 223,
+   "value": 0.39836164720309547
+  },
+  "donors_5_percent_or_more": {
+   "vincent": {
+    "donors": 61,
+    "ours": 50,
+    "stat": 49
+   },
+   "others": {
+    "donors": 497,
+    "ours": 13,
+    "stat": 6
+   }
+  },
+  "by_cohort": {
+   "Vincent": {
+    "runs": 122,
+    "max_ours_percent": 95.62878787878788,
+    "max_stat_percent": 96.31040673413186,
+    "runs_5_percent_or_more_ours": 80,
+    "runs_5_percent_or_more_stat": 80
+   },
+   "Hansen": {
+    "runs": 92,
+    "max_ours_percent": 9.53257855188131,
+    "max_stat_percent": 5.317751043619952,
+    "runs_5_percent_or_more_ours": 2,
+    "runs_5_percent_or_more_stat": 1
+   },
+   "Mehta": {
+    "runs": 484,
+    "max_ours_percent": 53.36254185367244,
+    "max_stat_percent": 50.6760954891419,
+    "runs_5_percent_or_more_ours": 9,
+    "runs_5_percent_or_more_stat": 5
+   },
+   "Bengtsson-Palme": {
+    "runs": 66,
+    "max_ours_percent": 7.035896051513732,
+    "max_stat_percent": 3.7220647681136003,
+    "runs_5_percent_or_more_ours": 1,
+    "runs_5_percent_or_more_stat": 0
+   },
+   "Raymond": {
+    "runs": 48,
+    "max_ours_percent": 0.05314378715913243,
+    "max_stat_percent": 0.04929428469848693,
+    "runs_5_percent_or_more_ours": 0,
+    "runs_5_percent_or_more_stat": 0
+   },
+   "HMP IBD": {
+    "runs": 96,
+    "max_ours_percent": 18.009998780636508,
+    "max_stat_percent": 23.73696344274893,
+    "runs_5_percent_or_more_ours": 6,
+    "runs_5_percent_or_more_stat": 2
+   },
+   "Heintz-Buschart": {
+    "runs": 26,
+    "max_ours_percent": 0.07856703116296795,
+    "max_stat_percent": 0.03510212374785853,
+    "runs_5_percent_or_more_ours": 0,
+    "runs_5_percent_or_more_stat": 0
+   },
+   "Costea": {
+    "runs": 182,
+    "max_ours_percent": 1.0928532117304819,
+    "max_stat_percent": 0.29032897768532906,
+    "runs_5_percent_or_more_ours": 0,
+    "runs_5_percent_or_more_stat": 0
+   }
+  },
+  "linked_by_stat_human_share": [
+   {
+    "label": "<0.5",
+    "donors": 462,
+    "linked": 427,
+    "percent": 92.42424242424242,
+    "wilson_low": 89.64611262602175,
+    "wilson_high": 94.5026624082388
+   },
+   {
+    "label": "0.5\u20135",
+    "donors": 41,
+    "linked": 33,
+    "percent": 80.48780487804878,
+    "wilson_low": 65.9861176474433,
+    "wilson_high": 89.76568425079408
+   },
+   {
+    "label": "5\u201350",
+    "donors": 23,
+    "linked": 14,
+    "percent": 60.869565217391305,
+    "wilson_low": 40.78517960374599,
+    "wilson_high": 77.84262201761787
+   },
+   {
+    "label": "\u226550",
+    "donors": 32,
+    "linked": 6,
+    "percent": 18.75,
+    "wilson_low": 8.889423936162782,
+    "wilson_high": 35.30949575492244
+   }
+  ]
+ }
+}

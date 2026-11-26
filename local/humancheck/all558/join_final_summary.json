@@ -1,0 +1,152 @@
+{
+ "n": 558,
+ "rank1": 480,
+ "rank1_percent": 86.02150537634408,
+ "by_human_share": {
+  "0-0.5%": {
+   "donors": 441,
+   "rank1": 408,
+   "percent": 92.51700680272108,
+   "cohorts": {
+    "Bengtsson-PalmeJ_2015": 32,
+    "CosteaPI_2017": 89,
+    "HMP_2019_ibdmdb": 42,
+    "HansenLBS_2018": 17,
+    "Heitz-BuschartA_2016": 13,
+    "MehtaRS_2018": 222,
+    "RaymondF_2016": 24,
+    "VincentC_2016": 2
+   }
+  },
+  "0.5-5%": {
+   "donors": 54,
+   "rank1": 45,
+   "percent": 83.33333333333334,
+   "cohorts": {
+    "CosteaPI_2017": 2,
+    "HMP_2019_ibdmdb": 3,
+    "HansenLBS_2018": 27,
+    "MehtaRS_2018": 13,
+    "VincentC_2016": 9
+   }
+  },
+  "5-50%": {
+   "donors": 34,
+   "rank1": 23,
+   "percent": 67.64705882352942,
+   "cohorts": {
+    "Bengtsson-PalmeJ_2015": 1,
+    "HMP_2019_ibdmdb": 3,
+    "HansenLBS_2018": 2,
+    "MehtaRS_2018": 6,
+    "VincentC_2016": 22
+   }
+  },
+  "50-100%": {
+   "donors": 29,
+   "rank1": 4,
+   "percent": 13.793103448275861,
+   "cohorts": {
+    "MehtaRS_2018": 1,
+    "VincentC_2016": 28
+   }
+  }
+ },
+ "by_cohort": {
+  "Bengtsson-PalmeJ_2015": {
+   "donors": 33,
+   "rank1": 32,
+   "percent": 96.96969696969697,
+   "human_share_median": 0.027527973058492455,
+   "human_share_max": 7.035896051513732
+  },
+  "CosteaPI_2017": {
+   "donors": 91,
+   "rank1": 72,
+   "percent": 79.12087912087912,
+   "human_share_median": 0.004412506303580433,
+   "human_share_max": 1.0928532117304819
+  },
+  "HMP_2019_ibdmdb": {
+   "donors": 48,
+   "rank1": 47,
+   "percent": 97.91666666666666,
+   "human_share_median": 0.02253594387676367,
+   "human_share_max": 18.009998780636508
+  },
+  "HansenLBS_2018": {
+   "donors": 46,
+   "rank1": 42,
+   "percent": 91.30434782608695,
+   "human_share_median": 0.8430815730520931,
+   "human_share_max": 9.53257855188131
+  },
+  "Heitz-BuschartA_2016": {
+   "donors": 13,
+   "rank1": 13,
+   "percent": 100.0,
+   "human_share_median": 0.004240597358814611,
+   "human_share_max": 0.07856703116296795
+  },
+  "MehtaRS_2018": {
+   "donors": 242,
+   "rank1": 228,
+   "percent": 94.21487603305785,
+   "human_share_median": 0.04638080894768133,
+   "human_share_max": 53.36254185367244
+  },
+  "RaymondF_2016": {
+   "donors": 24,
+   "rank1": 23,
+   "percent": 95.83333333333334,
+   "human_share_median": 0.017904257525364405,
+   "human_share_max": 0.05314378715913243
+  },
+  "VincentC_2016": {
+   "donors": 61,
+   "rank1": 23,
+   "percent": 37.704918032786885,
+   "human_share_median": 48.405405797732584,
+   "human_share_max": 95.62878787878788
+  }
+ },
+ "vincent": {
+  "donors": 61,
+  "rank1": 23,
+  "human_share_median": 48.405405797732584,
+  "human_share_median_rank1": 9.491999635782694,
+  "human_share_median_failures": 67.64756695197929,
+  "mannwhitney_p_share_rank1_vs_failures": 1.3443299970150346e-05,
+  "spearman_share_vs_service_similarity": {
+   "rho": -0.4505719366687785,
+   "p": 0.0002686219275367374,
+   "n": 61
+  },
+  "spearman_share_query_vs_partner": {
+   "rho": 0.3887890005288207,
+   "p": 0.0019579970826228863
+  },
+  "pairs_with_a_share_ratio_over_2": 37,
+  "pairs_one_sample_below_20_one_above_60": 12,
+  "rank1_by_share_tercile": {
+   "lowest third": {
+    "donors": 20,
+    "rank1": 14
+   },
+   "middle third": {
+    "donors": 21,
+    "rank1": 8
+   },
+   "highest third": {
+    "donors": 20,
+    "rank1": 1
+   }
+  },
+  "similarity_median": {
+   "all_hashes": 0.15375347579469958,
+   "exact_human_removed": 0.15707457385931733,
+   "exact_and_near_removed": 0.14033428187247882
+  },
+  "days_between_samples_median": 4.0
+ }
+}

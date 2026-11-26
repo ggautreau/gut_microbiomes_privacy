@@ -1,0 +1,81 @@
+{
+ "hmp_links": {
+  "runs": 618,
+  "participants": 88,
+  "donors": 41,
+  "runs_in_the_lists": 234
+ },
+ "stock": {
+  "runs": 291881,
+  "first": 454,
+  "threshold": 0.23384,
+  "absent": 59,
+  "other_at_or_above": 424,
+  "other_at_or_above_first": 423,
+  "other_at_or_above_first_pct": 87.5776397515528,
+  "runs_above": 4917,
+  "line_8e9": 90.67810155631719
+ },
+ "stock_without_two_projects": {
+  "runs": 290425,
+  "first": 454,
+  "threshold": 0.23309,
+  "absent": 59,
+  "other_at_or_above": 424,
+  "other_at_or_above_first": 423,
+  "other_at_or_above_first_pct": 87.5776397515528,
+  "runs_above": 4905,
+  "line_8e9": 90.67279561924455
+ },
+ "stock_without_three_projects": {
+  "runs": 290150,
+  "first": 454,
+  "threshold": 0.23309,
+  "absent": 59,
+  "other_at_or_above": 424,
+  "other_at_or_above_first": 423,
+  "other_at_or_above_first_pct": 87.5776397515528,
+  "runs_above": 4905,
+  "line_8e9": 90.67279561924455
+ },
+ "stock_without_four_projects": {
+  "runs": 289859,
+  "first": 454,
+  "threshold": 0.23177,
+  "absent": 59,
+  "other_at_or_above": 424,
+  "other_at_or_above_first": 423,
+  "other_at_or_above_first_pct": 87.5776397515528,
+  "runs_above": 4904,
+  "line_8e9": 90.67090133451
+ },
+ "index": {
+  "runs": 4791208,
+  "first": 454,
+  "threshold": 0.23473,
+  "absent": 60,
+  "other_at_or_above": 423,
+  "other_at_or_above_first": 422,
+  "other_at_or_above_first_pct": 87.37060041407867,
+  "runs_above": 5169,
+  "line_8e9": 90.77250680722113
+ },
+ "labelled": {
+  "runs": 172075,
+  "first": 454,
+  "threshold": 0.23177,
+  "absent": 59,
+  "other_at_or_above": 424,
+  "other_at_or_above_first": 423,
+  "other_at_or_above_first_pct": 87.5776397515528,
+  "runs_above": 2872,
+  "line_8e9": 90.16121256626694
+ },
+ "scale_of_the_pools": {
+  "172075": 90.72257090680664,
+  "220000": 90.65540342055722,
+  "255120": 90.66686994263307,
+  "291881": 90.67810155631719,
+  "350000": 90.61481168908992
+ }
+}

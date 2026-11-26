@@ -1,0 +1,128 @@
+[
+{
+"study": "HMP_2019_ibdmdb",
+"subject": "M2064",
+"new": "SRR5950538",
+"old": "SRR5946962",
+"old_visit": "M2064C21",
+"new_visit": "M2064C23",
+"reads": 9755580
+},
+{
+"study": "HMP_2019_ibdmdb",
+"subject": "M2042",
+"new": "SRR5950520",
+"old": "SRR5935989",
+"old_visit": "M2042C22",
+"new_visit": "M2042C23",
+"reads": 15797767
+},
+{
+"study": "HMP_2019_ibdmdb",
+"subject": "C3015",
+"new": "SRR5950771",
+"old": "SRR5935974",
+"old_visit": "C3015C20",
+"new_visit": "C3015C23",
+"reads": 8905513
+},
+{
+"study": "HMP_2019_ibdmdb",
+"subject": "C3016",
+"new": "SRR5950766",
+"old": "SRR5947014",
+"old_visit": "C3016C15",
+"new_visit": "C3016C23",
+"reads": 2256712
+},
+{
+"study": "HMP_2019_ibdmdb",
+"subject": "C3028",
+"new": "SRR5950750",
+"old": "SRR5946801",
+"old_visit": "C3028C8",
+"new_visit": "C3028C17",
+"reads": 10674803
+},
+{
+"study": "HMP_2019_ibdmdb",
+"subject": "C3027",
+"new": "SRR5950539",
+"old": "SRR5946648",
+"old_visit": "C3027C10",
+"new_visit": "C3027C24",
+"reads": 7107253
+},
+{
+"study": "HMP_2019_ibdmdb",
+"subject": "C3029",
+"new": "SRR5950756",
+"old": "SRR5946980",
+"old_visit": "C3029C18",
+"new_visit": "C3029C19",
+"reads": 11357435
+},
+{
+"study": "HMP_2019_ibdmdb",
+"subject": "M2068",
+"new": "SRR5950541",
+"old": "SRR5947020",
+"old_visit": "M2068C19",
+"new_visit": "M2068C24",
+"reads": 8879758
+},
+{
+"study": "HMP_2019_ibdmdb",
+"subject": "C3032",
+"new": "SRR5950551",
+"old": "SRR5946843",
+"old_visit": "C3032C19",
+"new_visit": "C3032C21",
+"reads": 11010806
+},
+{
+"study": "HMP_2019_ibdmdb",
+"subject": "C3030",
+"new": "SRR5950493",
+"old": "SRR5946853",
+"old_visit": "C3030C6",
+"new_visit": "C3030C17",
+"reads": 2909162
+},
+{
+"study": "HMP_2019_ibdmdb",
+"subject": "C3017",
+"new": "SRR5950790",
+"old": "SRR5947013",
+"old_visit": "C3017C15",
+"new_visit": "C3017C21",
+"reads": 11786981
+},
+{
+"study": "HMP_2019_ibdmdb",
+"subject": "C3023",
+"new": "SRR5950760",
+"old": "SRR5947074",
+"old_visit": "C3023C9",
+"new_visit": "C3023C24",
+"reads": 8913414
+},
+{
+"study": "HMP_2019_ibdmdb",
+"subject": "C3022",
+"new": "SRR5950543",
+"old": "SRR5946780",
+"old_visit": "C3022C12",
+"new_visit": "C3022C24",
+"reads": 9177770
+},
+{
+"study": "HMP_2019_ibdmdb",
+"subject": "C3021",
+"new": "SRR5950775",
+"old": "SRR5946941",
+"old_visit": "C3021C9",
+"new_visit": "C3021C20",
+"reads": 9675106
+}
+]

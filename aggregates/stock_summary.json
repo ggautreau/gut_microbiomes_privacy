@@ -1,0 +1,50 @@
+{
+ "queries": 851,
+ "neighbours": 244745,
+ "neighbours_outside_labelled": 119021,
+ "not_known_to_the_ena": 702,
+ "stock": 291881,
+ "labelled": 172075,
+ "curated_added": 13232,
+ "neighbours_added": 69835,
+ "gut_labels_added": 36739,
+ "neighbours_left_out": {
+  "a non-human host": 6491,
+  "another library": 8618,
+  "another organism label": 20987,
+  "another part of the body as source": 1714
+ },
+ "curated_added_by_label": {
+  "Homo sapiens": 3160,
+  "gut or feces metagenome": 7572,
+  "other labels": 1158,
+  "metagenome, no host declared": 496,
+  "human metagenome": 795,
+  "metagenome, human host declared": 38,
+  "human gut or feces metagenome, WGS": 13
+ },
+ "neighbours_added_by_label": {
+  "gut or feces metagenome": 20057,
+  "Homo sapiens": 9453,
+  "human metagenome": 12476,
+  "human gut or feces metagenome, library other than WGS": 7195,
+  "metagenome, human host declared": 10427,
+  "metagenome, no host declared": 10219,
+  "human gut or feces metagenome, WGS": 8
+ },
+ "gut_labels_added_by_label": {
+  "gut or feces metagenome": 17502,
+  "human gut or feces metagenome, library other than WGS": 19172,
+  "human gut or feces metagenome, WGS": 65
+ },
+ "gut_labels_added_no_host_gut_or_feces": 12115,
+ "gut_labels_added_host_none": 8338,
+ "gut_labels_added_host_text": 3777,
+ "added_projects": 1387,
+ "neighbours_source_declared": 21204,
+ "neighbours_source_gut": 18278,
+ "curated_stool_listed": 34531,
+ "curated_stool_listed_labelled": 21992,
+ "cohort_runs_indexed": 7417,
+ "cohort_runs_labelled": 3251
+}

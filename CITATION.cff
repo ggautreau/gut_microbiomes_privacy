@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Reproduction code and data for: Adult gut microbiomes single out individuals at population scale"
+type: software
+authors:
+  - family-names: Gautreau
+    given-names: Guillaume
+    email: guillaume.gautreau@inrae.fr
+    affiliation: "Université Paris-Saclay, INRAE, MaIAGE, Jouy-en-Josas, France"
+  - family-names: Kon Kam King
+    given-names: Guillaume
+    affiliation: "Université Paris-Saclay, INRAE, MaIAGE, Jouy-en-Josas, France"
+  - family-names: Pons
+    given-names: Nicolas
+    affiliation: "Université Paris-Saclay, INRAE, MetaGenoPolis, Jouy-en-Josas, France"
+  - family-names: Faure
+    given-names: Roland
+    affiliation: "Institut Pasteur, Université Paris Cité, CNRS UMR3525, Paris, France"
+repository-code: "https://github.com/ggautreau/gut_microbiomes_privacy"
+license: GPL-3.0-or-later
+keywords: [microbiome, metagenomics, privacy, sketch index, reproducibility]
+preferred-citation:
+  type: article
+  title: "Adult gut microbiomes single out individuals at population scale"
+  status: in-preparation
+  year: 2026
+  authors:
+    - family-names: Gautreau
+      given-names: Guillaume
+    - family-names: Kon Kam King
+      given-names: Guillaume
+    - family-names: Pons
+      given-names: Nicolas
+    - family-names: Faure
+      given-names: Roland

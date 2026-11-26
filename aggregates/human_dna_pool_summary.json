@@ -1,0 +1,252 @@
+{
+ "pool": {
+  "donors": 558,
+  "runs": 1116,
+  "donors_with_human_share_5_percent_or_more": 63
+ },
+ "definitions": {
+  "all hashes": {
+   "same_person": {
+    "median": 0.3461797515976186,
+    "p2_5": 0.04125181692749607,
+    "p97_5": 0.4971772698579926
+   },
+   "unrelated_same_cohort": {
+    "median": 0.08974362603737121,
+    "p97_5": 0.1506827996907979,
+    "n": 152524
+   },
+   "unrelated_other_cohort": {
+    "median": 0.058085873828637946,
+    "p97_5": 0.12927122956761344,
+    "n": 469088
+   },
+   "auc_vs_same_cohort": 0.9422390215056583,
+   "auc_vs_other_cohort": 0.9620865706071673,
+   "auc_vs_same_cohort_human_share_below_5": 0.9682872447834866,
+   "auc_vs_same_cohort_human_share_5_or_more": 0.8167291967291967,
+   "top1": 500,
+   "top1_percent": 89.6057347670251,
+   "top10": 521,
+   "top10_percent": 93.36917562724014,
+   "median_rank_optimistic": 1.0,
+   "top1_human_share_below_5": {
+    "n": 495,
+    "top1": 468,
+    "percent": 94.54545454545455
+   },
+   "top1_human_share_5_or_more": {
+    "n": 63,
+    "top1": 32,
+    "percent": 50.79365079365079
+   },
+   "margin_partner_minus_best_other_median": 0.19502098523836386
+  },
+  "exact human removed": {
+   "same_person": {
+    "median": 0.3485895398622766,
+    "p2_5": 0.04611774457956014,
+    "p97_5": 0.4972051620090982
+   },
+   "unrelated_same_cohort": {
+    "median": 0.08975512225308686,
+    "p97_5": 0.15054317253852503,
+    "n": 152524
+   },
+   "unrelated_other_cohort": {
+    "median": 0.05869702672123078,
+    "p97_5": 0.1296211758925695,
+    "n": 469088
+   },
+   "auc_vs_same_cohort": 0.9404593850157573,
+   "auc_vs_other_cohort": 0.9607178428557841,
+   "auc_vs_same_cohort_human_share_below_5": 0.9682509552559474,
+   "auc_vs_same_cohort_human_share_5_or_more": 0.8257832291165624,
+   "top1": 507,
+   "top1_percent": 90.86021505376344,
+   "top10": 522,
+   "top10_percent": 93.54838709677419,
+   "median_rank_optimistic": 1.0,
+   "top1_human_share_below_5": {
+    "n": 495,
+    "top1": 468,
+    "percent": 94.54545454545455
+   },
+   "top1_human_share_5_or_more": {
+    "n": 63,
+    "top1": 39,
+    "percent": 61.904761904761905
+   },
+   "margin_partner_minus_best_other_median": 0.19572865191097943
+  },
+  "exact human only": {
+   "same_person": {
+    "median": 0.023488544353911775,
+    "p2_5": 0.0,
+    "p97_5": 0.2673563218390798
+   },
+   "unrelated_same_cohort": {
+    "median": 0.015545662293255463,
+    "p97_5": 0.13043478260869565,
+    "n": 152524
+   },
+   "unrelated_other_cohort": {
+    "median": 0.00032594751780914337,
+    "p97_5": 0.072,
+    "n": 469088
+   },
+   "auc_vs_same_cohort": 0.5760056716851142,
+   "auc_vs_other_cohort": 0.7265360244669684,
+   "auc_vs_same_cohort_human_share_below_5": 0.5617742661073377,
+   "auc_vs_same_cohort_human_share_5_or_more": 0.6508698092031425,
+   "top1": 9,
+   "top1_percent": 1.6129032258064515,
+   "top10": 38,
+   "top10_percent": 6.810035842293908,
+   "median_rank_optimistic": 137.0,
+   "top1_human_share_below_5": {
+    "n": 495,
+    "top1": 5,
+    "percent": 1.0101010101010102
+   },
+   "top1_human_share_5_or_more": {
+    "n": 63,
+    "top1": 4,
+    "percent": 6.349206349206349
+   },
+   "margin_partner_minus_best_other_median": -0.07114410102545274
+  },
+  "exact and near human removed": {
+   "same_person": {
+    "median": 0.3486114966142849,
+    "p2_5": 0.042674219169068175,
+    "p97_5": 0.49722955835054516
+   },
+   "unrelated_same_cohort": {
+    "median": 0.08976242427646505,
+    "p97_5": 0.15063158867620047,
+    "n": 152524
+   },
+   "unrelated_other_cohort": {
+    "median": 0.05878658296743093,
+    "p97_5": 0.12966945205397956,
+    "n": 469088
+   },
+   "auc_vs_same_cohort": 0.939649558882513,
+   "auc_vs_other_cohort": 0.9594303411228401,
+   "auc_vs_same_cohort_human_share_below_5": 0.9682505161554971,
+   "auc_vs_same_cohort_human_share_5_or_more": 0.8185281385281385,
+   "top1": 507,
+   "top1_percent": 90.86021505376344,
+   "top10": 521,
+   "top10_percent": 93.36917562724014,
+   "median_rank_optimistic": 1.0,
+   "top1_human_share_below_5": {
+    "n": 495,
+    "top1": 468,
+    "percent": 94.54545454545455
+   },
+   "top1_human_share_5_or_more": {
+    "n": 63,
+    "top1": 39,
+    "percent": 61.904761904761905
+   },
+   "margin_partner_minus_best_other_median": 0.19573268588269654
+  },
+  "exact and near human only": {
+   "same_person": {
+    "median": 0.05487940026075619,
+    "p2_5": 0.0,
+    "p97_5": 0.3333333333333333
+   },
+   "unrelated_same_cohort": {
+    "median": 0.019704433497536946,
+    "p97_5": 0.13725490196078433,
+    "n": 152524
+   },
+   "unrelated_other_cohort": {
+    "median": 0.002150537634408602,
+    "p97_5": 0.07692307692307693,
+    "n": 469088
+   },
+   "auc_vs_same_cohort": 0.7299301225195278,
+   "auc_vs_other_cohort": 0.8560253732492376,
+   "auc_vs_same_cohort_human_share_below_5": 0.7382050607601707,
+   "auc_vs_same_cohort_human_share_5_or_more": 0.6510413660413661,
+   "top1": 55,
+   "top1_percent": 9.85663082437276,
+   "top10": 135,
+   "top10_percent": 24.193548387096776,
+   "median_rank_optimistic": 56.5,
+   "top1_human_share_below_5": {
+    "n": 495,
+    "top1": 51,
+    "percent": 10.303030303030303
+   },
+   "top1_human_share_5_or_more": {
+    "n": 63,
+    "top1": 4,
+    "percent": 6.349206349206349
+   },
+   "margin_partner_minus_best_other_median": -0.057695383815978746
+  },
+  "near human only": {
+   "same_person": {
+    "median": 0.1813045711350796,
+    "p2_5": 0.0,
+    "p97_5": 0.5714285714285714
+   },
+   "unrelated_same_cohort": {
+    "median": 0.004032800180416171,
+    "p97_5": 0.25,
+    "n": 152524
+   },
+   "unrelated_other_cohort": {
+    "median": 0.0,
+    "p97_5": 0.15905373831775949,
+    "n": 469088
+   },
+   "auc_vs_same_cohort": 0.7964128026293811,
+   "auc_vs_other_cohort": 0.862411183946716,
+   "auc_vs_same_cohort_human_share_below_5": 0.8178871180392664,
+   "auc_vs_same_cohort_human_share_5_or_more": 0.6949214365881032,
+   "top1": 117,
+   "top1_percent": 20.967741935483872,
+   "top10": 238,
+   "top10_percent": 42.65232974910394,
+   "median_rank_optimistic": 12.5,
+   "top1_human_share_below_5": {
+    "n": 495,
+    "top1": 106,
+    "percent": 21.41414141414141
+   },
+   "top1_human_share_5_or_more": {
+    "n": 63,
+    "top1": 11,
+    "percent": 17.46031746031746
+   },
+   "margin_partner_minus_best_other_median": -0.08212121212121212
+  }
+ },
+ "rank_unchanged_when_removed": {
+  "exact human removed": {
+   "n": 515,
+   "of": 558
+  },
+  "exact and near human removed": {
+   "n": 513,
+   "of": 558
+  }
+ },
+ "human_share_percent_of_donors": {
+  "median": 0.04191896902552494,
+  "n_5_or_more": 63,
+  "cohorts_with_5_or_more": {
+   "Bengtsson-PalmeJ_2015": 1,
+   "HMP_2019_ibdmdb": 3,
+   "HansenLBS_2018": 2,
+   "MehtaRS_2018": 7,
+   "VincentC_2016": 50
+  }
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "donors": 483,
+ "other_sample_score_known": 468,
+ "other_sample_below_the_list": 15,
+ "threshold_equal_error": 0.23384,
+ "error_rate_at_threshold": 0.12215,
+ "other_sample_at_or_above": 424,
+ "other_sample_at_or_above_and_top_hit": 423,
+ "absent_person_at_or_above": 59,
+ "median_other_sample": 0.369,
+ "median_closest_other_person": 0.189,
+ "auc": 0.9068,
+ "auc_when_the_other_sample_is_returned": 0.9358
+}

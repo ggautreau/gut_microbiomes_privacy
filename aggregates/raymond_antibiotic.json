@@ -1,0 +1,20 @@
+{
+ "study": "RaymondF_2016",
+ "group": "study_condition of the last stool sample of the donor in curatedMetagenomicData: cephalosporins (a course between the first and the last sample) or control",
+ "donors": 24,
+ "groups": {
+  "cephalosporins": {
+   "donors": 18,
+   "other_sample_first": 17,
+   "first_sample_first": 17
+  },
+  "control": {
+   "donors": 6,
+   "other_sample_first": 6,
+   "first_sample_first": 6
+  }
+ },
+ "days_of_the_samples": {
+  "0,7,90": 24
+ }
+}

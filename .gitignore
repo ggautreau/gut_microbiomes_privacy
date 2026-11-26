@@ -1,0 +1,13 @@
+output/
+w/
+local/adultes_data_v2/
+local/adultes/results.jsonl
+local/adultes/results_pass2.jsonl
+local/adultes/ena_stock_candidates.tsv
+local/adultes/biosample_runs.json
+local/work/results_largest.jsonl
+local/nielsen_li_validation/reverse/answers.jsonl
+local/hmp2_metadata_2018-08-20.csv
+__pycache__/
+*.pyc
+.DS_Store

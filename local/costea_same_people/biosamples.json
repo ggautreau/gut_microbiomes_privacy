@@ -1,0 +1,4246 @@
+{
+"SAMEA4545463": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545463{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545463/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545463/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545463"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA4545463"
+}
+},
+"accession": "SAMEA4545463",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2017-12-01T17:02:42Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2016-11-15T11:25:54Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA4545463"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2017-12-01T17:02:42Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2016-11-15T11:25:54Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS1444642"
+}
+],
+"Submitter Id": [
+{
+"tag": "Namespace:EMBL",
+"text": "alien-11-918-0"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2014-05-05"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "Human"
+}
+],
+"description": [
+{
+"text": "Stool sample"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "Homo sapiens"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Global subspecies distribution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "Homo sapiens"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "alien-11-918-0"
+}
+]
+},
+"create": "2018-12-07T07:00:10.774Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA4545463"
+}
+],
+"name": "alien-11-918-0",
+"release": "2017-12-01T17:02:42Z",
+"sraAccession": "ERS1444642",
+"status": "PUBLIC",
+"submitted": "2016-11-11T22:00:23Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 9606,
+"update": "2024-02-03T00:43:25.542Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA4545488": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545488{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545488/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545488/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545488"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA4545488"
+}
+},
+"accession": "SAMEA4545488",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2017-12-01T17:02:42Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2016-11-15T11:25:54Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA4545488"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2017-12-01T17:02:42Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2016-11-15T11:25:54Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS1444667"
+}
+],
+"Submitter Id": [
+{
+"tag": "Namespace:EMBL",
+"text": "donald1-11-30-0"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013-04-12"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "Human"
+}
+],
+"description": [
+{
+"text": "Stool sample"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "Homo sapiens"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Global subspecies distribution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "Homo sapiens"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "donald1-11-30-0"
+}
+]
+},
+"create": "2018-12-07T07:00:11.077Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA4545488"
+}
+],
+"name": "donald1-11-30-0",
+"release": "2017-12-01T17:02:42Z",
+"sraAccession": "ERS1444667",
+"status": "PUBLIC",
+"submitted": "2016-11-11T22:00:23Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 9606,
+"update": "2024-02-03T00:43:31.798Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA4545491": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545491{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545491/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545491/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545491"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA4545491"
+}
+},
+"accession": "SAMEA4545491",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2017-12-01T17:02:42Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2016-11-15T11:25:54Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA4545491"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2017-12-01T17:02:42Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2016-11-15T11:25:54Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS1444670"
+}
+],
+"Submitter Id": [
+{
+"tag": "Namespace:EMBL",
+"text": "donald2-11-30-0"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013-04-12"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "Human"
+}
+],
+"description": [
+{
+"text": "Stool sample"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "Homo sapiens"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Global subspecies distribution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "Homo sapiens"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "donald2-11-30-0"
+}
+]
+},
+"create": "2018-12-07T07:00:11.099Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA4545491"
+}
+],
+"name": "donald2-11-30-0",
+"release": "2017-12-01T17:02:42Z",
+"sraAccession": "ERS1444670",
+"status": "PUBLIC",
+"submitted": "2016-11-11T22:00:23Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 9606,
+"update": "2024-02-03T00:43:32.021Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA4545509": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545509{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545509/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545509/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545509"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA4545509"
+}
+},
+"accession": "SAMEA4545509",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2017-12-01T17:02:42Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2016-11-15T11:25:54Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA4545509"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2017-12-01T17:02:42Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2016-11-15T11:25:54Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS1444688"
+}
+],
+"Submitter Id": [
+{
+"tag": "Namespace:EMBL",
+"text": "mickey1-11-30-0"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013-04-12"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "Human"
+}
+],
+"description": [
+{
+"text": "Stool sample"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "Homo sapiens"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Global subspecies distribution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "Homo sapiens"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "mickey1-11-30-0"
+}
+]
+},
+"create": "2018-12-07T07:00:11.429Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA4545509"
+}
+],
+"name": "mickey1-11-30-0",
+"release": "2017-12-01T17:02:42Z",
+"sraAccession": "ERS1444688",
+"status": "PUBLIC",
+"submitted": "2016-11-11T22:00:24Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 9606,
+"update": "2024-02-03T00:43:34.362Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA4545512": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545512{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545512/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545512/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545512"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA4545512"
+}
+},
+"accession": "SAMEA4545512",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2017-12-01T17:02:42Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2016-11-15T11:25:55Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA4545512"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2017-12-01T17:02:42Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2016-11-15T11:25:55Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS1444691"
+}
+],
+"Submitter Id": [
+{
+"tag": "Namespace:EMBL",
+"text": "mickey2-11-30-0"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013-04-12"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "Human"
+}
+],
+"description": [
+{
+"text": "Stool sample"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "Homo sapiens"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Global subspecies distribution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "Homo sapiens"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "mickey2-11-30-0"
+}
+]
+},
+"create": "2018-12-07T07:00:11.502Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA4545512"
+}
+],
+"name": "mickey2-11-30-0",
+"release": "2017-12-01T17:02:42Z",
+"sraAccession": "ERS1444691",
+"status": "PUBLIC",
+"submitted": "2016-11-11T22:00:24Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 9606,
+"update": "2024-02-03T00:43:56.190Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA4545532": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545532{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545532/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545532/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545532"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA4545532"
+}
+},
+"accession": "SAMEA4545532",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2017-12-01T17:02:42Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2016-11-15T11:25:55Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA4545532"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2017-12-01T17:02:42Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2016-11-15T11:25:55Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS1444711"
+}
+],
+"Submitter Id": [
+{
+"tag": "Namespace:EMBL",
+"text": "peacemaker-11-918-0"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2014-05-07"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "Human"
+}
+],
+"description": [
+{
+"text": "Stool sample"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "Homo sapiens"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Global subspecies distribution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "Homo sapiens"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "peacemaker-11-918-0"
+}
+]
+},
+"create": "2018-12-07T07:00:11.825Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA4545532"
+}
+],
+"name": "peacemaker-11-918-0",
+"release": "2017-12-01T17:02:42Z",
+"sraAccession": "ERS1444711",
+"status": "PUBLIC",
+"submitted": "2016-11-11T22:00:24Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 9606,
+"update": "2024-02-03T00:43:56.219Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA4545537": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545537{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545537/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545537/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA4545537"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA4545537"
+}
+},
+"accession": "SAMEA4545537",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2017-12-01T17:02:42Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2016-11-15T11:25:53Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA4545537"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2017-12-01T17:02:42Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2016-11-15T11:25:53Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS1444716"
+}
+],
+"Submitter Id": [
+{
+"tag": "Namespace:EMBL",
+"text": "pluto1-11-30-0"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013-07-14"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "Human"
+}
+],
+"description": [
+{
+"text": "Stool sample"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "Homo sapiens"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Global subspecies distribution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "Homo sapiens"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "pluto1-11-30-0"
+}
+]
+},
+"create": "2018-12-07T07:00:12.009Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA4545537"
+}
+],
+"name": "pluto1-11-30-0",
+"release": "2017-12-01T17:02:42Z",
+"sraAccession": "ERS1444716",
+"status": "PUBLIC",
+"submitted": "2016-11-11T22:00:24Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 9606,
+"update": "2024-02-03T00:42:59.082Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA7519170": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519170{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519170/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519170/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519170"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA7519170"
+}
+},
+"accession": "SAMEA7519170",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2020-11-04T12:43:46Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA7519170"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2020-11-04T12:43:46Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS5275652"
+}
+],
+"Submitter Id": [
+{
+"tag": "Namespace:EMBL",
+"text": "MM25"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2014"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "human"
+}
+],
+"description": [
+{
+"text": "Human gut metagenome"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"host age": [
+{
+"tag": "attribute",
+"text": "51",
+"unit": "year"
+}
+],
+"host family relationship": [
+{
+"tag": "attribute",
+"text": "Father"
+}
+],
+"host sex": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/PATO_0000384"
+],
+"tag": "attribute",
+"text": "male"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Persistence and dispersal strategies shape gut microbial strain evolution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "Sample MM25 from subject HD.S1"
+}
+]
+},
+"create": "2020-09-30T02:44:01.887Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA7519170"
+}
+],
+"name": "MM25",
+"release": "2020-11-04T17:09:53Z",
+"sraAccession": "ERS5275652",
+"status": "PUBLIC",
+"submitted": "2020-11-04T12:43:46Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 408170,
+"update": "2024-02-07T09:16:11.804Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA7519201": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519201{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519201/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519201/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519201"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA7519201"
+}
+},
+"accession": "SAMEA7519201",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2020-11-04T12:43:46Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA7519201"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2020-11-04T12:43:46Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS5275683"
+}
+],
+"Submitter Id": [
+{
+"ontologyTerms": [
+"http://www.ebi.ac.uk/efo/EFO_0005724"
+],
+"tag": "Namespace:EMBL",
+"text": "MM350"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "human"
+}
+],
+"description": [
+{
+"text": "Human gut metagenome"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"host age": [
+{
+"tag": "attribute",
+"text": "36",
+"unit": "year"
+}
+],
+"host family relationship": [
+{
+"tag": "attribute",
+"text": "Father"
+}
+],
+"host sex": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/PATO_0000384"
+],
+"tag": "attribute",
+"text": "male"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Persistence and dispersal strategies shape gut microbial strain evolution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "Sample MM350 from subject HD.S6"
+}
+]
+},
+"create": "2020-09-30T02:44:21.006Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA7519201"
+}
+],
+"name": "MM350",
+"release": "2020-11-04T17:09:53Z",
+"sraAccession": "ERS5275683",
+"status": "PUBLIC",
+"submitted": "2020-11-04T12:43:46Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 408170,
+"update": "2024-02-07T09:16:07.223Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA7519202": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519202{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519202/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519202/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519202"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA7519202"
+}
+},
+"accession": "SAMEA7519202",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2020-11-04T12:43:46Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA7519202"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2020-11-04T12:43:46Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS5275684"
+}
+],
+"Submitter Id": [
+{
+"ontologyTerms": [
+"http://www.ebi.ac.uk/efo/EFO_0005724"
+],
+"tag": "Namespace:EMBL",
+"text": "MM351"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "human"
+}
+],
+"description": [
+{
+"text": "Human gut metagenome"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"host age": [
+{
+"tag": "attribute",
+"text": "36",
+"unit": "year"
+}
+],
+"host family relationship": [
+{
+"tag": "attribute",
+"text": "Father"
+}
+],
+"host sex": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/PATO_0000384"
+],
+"tag": "attribute",
+"text": "male"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Persistence and dispersal strategies shape gut microbial strain evolution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "Sample MM351 from subject HD.S6"
+}
+]
+},
+"create": "2020-09-30T02:44:21.618Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA7519202"
+}
+],
+"name": "MM351",
+"release": "2020-11-04T17:09:53Z",
+"sraAccession": "ERS5275684",
+"status": "PUBLIC",
+"submitted": "2020-11-04T12:43:46Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 408170,
+"update": "2024-02-07T09:16:13.493Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA7519203": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519203{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519203/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519203/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519203"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA7519203"
+}
+},
+"accession": "SAMEA7519203",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2020-11-04T12:43:46Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA7519203"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2020-11-04T12:43:46Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS5275685"
+}
+],
+"Submitter Id": [
+{
+"tag": "Namespace:EMBL",
+"text": "MM352"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "human"
+}
+],
+"description": [
+{
+"text": "Human gut metagenome"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"host age": [
+{
+"tag": "attribute",
+"text": "36",
+"unit": "year"
+}
+],
+"host family relationship": [
+{
+"tag": "attribute",
+"text": "Father"
+}
+],
+"host sex": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/PATO_0000384"
+],
+"tag": "attribute",
+"text": "male"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Persistence and dispersal strategies shape gut microbial strain evolution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "Sample MM352 from subject HD.S6"
+}
+]
+},
+"create": "2020-09-30T02:44:22.172Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA7519203"
+}
+],
+"name": "MM352",
+"release": "2020-11-04T17:09:53Z",
+"sraAccession": "ERS5275685",
+"status": "PUBLIC",
+"submitted": "2020-11-04T12:43:46Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 408170,
+"update": "2024-02-07T09:16:13.604Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA7519204": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519204{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519204/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519204/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519204"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA7519204"
+}
+},
+"accession": "SAMEA7519204",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2020-11-04T12:43:46Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA7519204"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2020-11-04T12:43:46Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS5275686"
+}
+],
+"Submitter Id": [
+{
+"ontologyTerms": [
+"http://www.ebi.ac.uk/efo/EFO_0005724"
+],
+"tag": "Namespace:EMBL",
+"text": "MM360"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "human"
+}
+],
+"description": [
+{
+"text": "Human gut metagenome"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"host age": [
+{
+"tag": "attribute",
+"text": "36",
+"unit": "year"
+}
+],
+"host family relationship": [
+{
+"tag": "attribute",
+"text": "Mother"
+}
+],
+"host sex": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/PATO_0000383"
+],
+"tag": "attribute",
+"text": "female"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Persistence and dispersal strategies shape gut microbial strain evolution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "Sample MM360 from subject HD.S6"
+}
+]
+},
+"create": "2020-09-30T02:44:22.841Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA7519204"
+}
+],
+"name": "MM360",
+"release": "2020-11-04T17:09:53Z",
+"sraAccession": "ERS5275686",
+"status": "PUBLIC",
+"submitted": "2020-11-04T12:43:46Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 408170,
+"update": "2024-02-07T09:16:13.650Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA7519205": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519205{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519205/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519205/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519205"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA7519205"
+}
+},
+"accession": "SAMEA7519205",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2020-11-04T12:43:46Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA7519205"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2020-11-04T12:43:46Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS5275687"
+}
+],
+"Submitter Id": [
+{
+"ontologyTerms": [
+"http://www.ebi.ac.uk/efo/EFO_0005724"
+],
+"tag": "Namespace:EMBL",
+"text": "MM361"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "human"
+}
+],
+"description": [
+{
+"text": "Human gut metagenome"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"host age": [
+{
+"tag": "attribute",
+"text": "36",
+"unit": "year"
+}
+],
+"host family relationship": [
+{
+"tag": "attribute",
+"text": "Mother"
+}
+],
+"host sex": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/PATO_0000383"
+],
+"tag": "attribute",
+"text": "female"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Persistence and dispersal strategies shape gut microbial strain evolution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "Sample MM361 from subject HD.S16"
+}
+]
+},
+"create": "2020-09-30T02:44:23.471Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA7519205"
+}
+],
+"name": "MM361",
+"release": "2020-11-04T17:09:53Z",
+"sraAccession": "ERS5275687",
+"status": "PUBLIC",
+"submitted": "2020-11-04T12:43:46Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 408170,
+"update": "2024-02-07T09:16:13.705Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA7519249": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519249{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519249/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519249/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519249"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA7519249"
+}
+},
+"accession": "SAMEA7519249",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2020-11-04T12:43:47Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA7519249"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2020-11-04T12:43:47Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS5275731"
+}
+],
+"Submitter Id": [
+{
+"ontologyTerms": [
+"http://www.ebi.ac.uk/efo/EFO_0002529"
+],
+"tag": "Namespace:EMBL",
+"text": "IN25"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "human"
+}
+],
+"description": [
+{
+"text": "Human gut metagenome"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"host age": [
+{
+"tag": "attribute",
+"text": "40",
+"unit": "year"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Persistence and dispersal strategies shape gut microbial strain evolution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "Sample IN25 from subject HD.S10"
+}
+]
+},
+"create": "2020-09-30T02:44:50.305Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA7519249"
+}
+],
+"name": "IN25",
+"release": "2020-11-04T17:09:53Z",
+"sraAccession": "ERS5275731",
+"status": "PUBLIC",
+"submitted": "2020-11-04T12:43:47Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 408170,
+"update": "2024-02-07T09:16:16.188Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA7519268": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519268{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519268/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519268/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519268"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA7519268"
+}
+},
+"accession": "SAMEA7519268",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2020-11-04T12:43:47Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA7519268"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2020-11-04T12:43:47Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS5275750"
+}
+],
+"Submitter Id": [
+{
+"ontologyTerms": [
+"http://www.ebi.ac.uk/efo/EFO_0002529"
+],
+"tag": "Namespace:EMBL",
+"text": "IN48"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2014"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "human"
+}
+],
+"description": [
+{
+"text": "Human gut metagenome"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"host age": [
+{
+"tag": "attribute",
+"text": "38",
+"unit": "year"
+}
+],
+"host family relationship": [
+{
+"tag": "attribute",
+"text": "Father"
+}
+],
+"host sex": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/PATO_0000384"
+],
+"tag": "attribute",
+"text": "male"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Persistence and dispersal strategies shape gut microbial strain evolution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "Sample IN48 from subject HD.S19"
+}
+]
+},
+"create": "2020-09-30T02:45:02.021Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA7519268"
+}
+],
+"name": "IN48",
+"release": "2020-11-04T17:09:53Z",
+"sraAccession": "ERS5275750",
+"status": "PUBLIC",
+"submitted": "2020-11-04T12:43:47Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 408170,
+"update": "2024-02-07T09:16:10.987Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA7519283": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519283{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519283/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519283/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519283"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA7519283"
+}
+},
+"accession": "SAMEA7519283",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2020-11-04T12:43:47Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA7519283"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2020-11-04T12:43:47Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS5275765"
+}
+],
+"Submitter Id": [
+{
+"ontologyTerms": [
+"http://www.ebi.ac.uk/efo/EFO_0002529"
+],
+"tag": "Namespace:EMBL",
+"text": "IN66"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "human"
+}
+],
+"description": [
+{
+"text": "Human gut metagenome"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"host age": [
+{
+"tag": "attribute",
+"text": "38",
+"unit": "year"
+}
+],
+"host family relationship": [
+{
+"tag": "attribute",
+"text": "Father"
+}
+],
+"host sex": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/PATO_0000384"
+],
+"tag": "attribute",
+"text": "male"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Persistence and dispersal strategies shape gut microbial strain evolution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "Sample IN66 from subject HD.S23"
+}
+]
+},
+"create": "2020-09-30T02:45:11.141Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA7519283"
+}
+],
+"name": "IN66",
+"release": "2020-11-04T17:09:53Z",
+"sraAccession": "ERS5275765",
+"status": "PUBLIC",
+"submitted": "2020-11-04T12:43:47Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 408170,
+"update": "2024-02-07T09:16:18.037Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA7519286": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519286{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519286/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519286/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519286"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA7519286"
+}
+},
+"accession": "SAMEA7519286",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2020-11-04T12:43:47Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA7519286"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2020-11-04T12:43:47Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS5275768"
+}
+],
+"Submitter Id": [
+{
+"ontologyTerms": [
+"http://www.ebi.ac.uk/efo/EFO_0002529"
+],
+"tag": "Namespace:EMBL",
+"text": "IN69"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "human"
+}
+],
+"description": [
+{
+"text": "Human gut metagenome"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"host age": [
+{
+"tag": "attribute",
+"text": "38",
+"unit": "year"
+}
+],
+"host family relationship": [
+{
+"tag": "attribute",
+"text": "Mother"
+}
+],
+"host sex": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/PATO_0000383"
+],
+"tag": "attribute",
+"text": "female"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Persistence and dispersal strategies shape gut microbial strain evolution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "Sample IN69 from subject HD.S24"
+}
+]
+},
+"create": "2020-09-30T02:45:13.101Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA7519286"
+}
+],
+"name": "IN69",
+"release": "2020-11-04T17:09:53Z",
+"sraAccession": "ERS5275768",
+"status": "PUBLIC",
+"submitted": "2020-11-04T12:43:47Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 408170,
+"update": "2024-02-07T09:16:12.082Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA7519295": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519295{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519295/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519295/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519295"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA7519295"
+}
+},
+"accession": "SAMEA7519295",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2020-11-04T12:43:47Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA7519295"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2020-11-04T12:43:47Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS5275777"
+}
+],
+"Submitter Id": [
+{
+"ontologyTerms": [
+"http://www.ebi.ac.uk/efo/EFO_0002529"
+],
+"tag": "Namespace:EMBL",
+"text": "IN78"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "human"
+}
+],
+"description": [
+{
+"text": "Human gut metagenome"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"host age": [
+{
+"tag": "attribute",
+"text": "4",
+"unit": "year"
+}
+],
+"host family relationship": [
+{
+"tag": "attribute",
+"text": "Child"
+}
+],
+"host sex": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/PATO_0000383"
+],
+"tag": "attribute",
+"text": "female"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Persistence and dispersal strategies shape gut microbial strain evolution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "Sample IN78 from subject HD.S27"
+}
+]
+},
+"create": "2020-09-30T02:45:18.418Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA7519295"
+}
+],
+"name": "IN78",
+"release": "2020-11-04T17:09:53Z",
+"sraAccession": "ERS5275777",
+"status": "PUBLIC",
+"submitted": "2020-11-04T12:43:47Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 408170,
+"update": "2024-02-07T09:16:18.661Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA7519296": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519296{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519296/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519296/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519296"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA7519296"
+}
+},
+"accession": "SAMEA7519296",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2020-11-04T12:43:47Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA7519296"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2020-11-04T12:43:47Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS5275778"
+}
+],
+"Submitter Id": [
+{
+"ontologyTerms": [
+"http://www.ebi.ac.uk/efo/EFO_0002529"
+],
+"tag": "Namespace:EMBL",
+"text": "IN79"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "human"
+}
+],
+"description": [
+{
+"text": "Human gut metagenome"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"host age": [
+{
+"tag": "attribute",
+"text": "4",
+"unit": "year"
+}
+],
+"host family relationship": [
+{
+"tag": "attribute",
+"text": "Child"
+}
+],
+"host sex": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/PATO_0000383"
+],
+"tag": "attribute",
+"text": "female"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Persistence and dispersal strategies shape gut microbial strain evolution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "Sample IN79 from subject HD.S27"
+}
+]
+},
+"create": "2020-09-30T02:45:18.973Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA7519296"
+}
+],
+"name": "IN79",
+"release": "2020-11-04T17:09:53Z",
+"sraAccession": "ERS5275778",
+"status": "PUBLIC",
+"submitted": "2020-11-04T12:43:47Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 408170,
+"update": "2024-02-07T09:16:12.565Z",
+"webinSubmissionAccountId": "Webin-41971"
+},
+"SAMEA7519297": {
+"_links": {
+"applyCurations": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519297{?applyCurations}",
+"templated": true
+},
+"curationLink": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519297/curationlinks/{hash}",
+"templated": true
+},
+"curationLinks": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519297/curationlinks"
+},
+"self": {
+"href": "https://www.ebi.ac.uk/biosamples/samples/SAMEA7519297"
+},
+"structuredData": {
+"href": "https://www.ebi.ac.uk/biosamples/structureddata/SAMEA7519297"
+}
+},
+"accession": "SAMEA7519297",
+"characteristics": {
+"ENA-CHECKLIST": [
+{
+"tag": "attribute",
+"text": "ERC000015"
+}
+],
+"ENA-FIRST-PUBLIC": [
+{
+"tag": "attribute",
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"ENA-LAST-UPDATE": [
+{
+"tag": "attribute",
+"text": "2020-11-04T12:43:47Z"
+}
+],
+"External Id": [
+{
+"tag": "Namespace:BioSample",
+"text": "SAMEA7519297"
+}
+],
+"INSDC center name": [
+{
+"text": "EMBL"
+}
+],
+"INSDC first public": [
+{
+"text": "2020-11-04T17:09:53Z"
+}
+],
+"INSDC last update": [
+{
+"text": "2020-11-04T12:43:47Z"
+}
+],
+"INSDC status": [
+{
+"text": "public"
+}
+],
+"SRA accession": [
+{
+"text": "ERS5275779"
+}
+],
+"Submitter Id": [
+{
+"ontologyTerms": [
+"http://www.ebi.ac.uk/efo/EFO_0002529"
+],
+"tag": "Namespace:EMBL",
+"text": "IN80"
+}
+],
+"collection date": [
+{
+"tag": "attribute",
+"text": "2013"
+}
+],
+"common name": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/NCBITaxon_9606"
+],
+"text": "human"
+}
+],
+"description": [
+{
+"text": "Human gut metagenome"
+}
+],
+"environment (biome)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (feature)": [
+{
+"tag": "attribute",
+"text": "Stool sample"
+}
+],
+"environment (material)": [
+{
+"tag": "attribute",
+"text": "Microbial DNA"
+}
+],
+"geographic location (country and/or sea)": [
+{
+"tag": "attribute",
+"text": "Germany"
+}
+],
+"geographic location (latitude)": [
+{
+"tag": "attribute",
+"text": "49.3988",
+"unit": "DD"
+}
+],
+"geographic location (longitude)": [
+{
+"tag": "attribute",
+"text": "8.6724",
+"unit": "DD"
+}
+],
+"host age": [
+{
+"tag": "attribute",
+"text": "4",
+"unit": "year"
+}
+],
+"host family relationship": [
+{
+"tag": "attribute",
+"text": "Child"
+}
+],
+"host sex": [
+{
+"ontologyTerms": [
+"http://purl.obolibrary.org/obo/PATO_0000383"
+],
+"tag": "attribute",
+"text": "female"
+}
+],
+"human gut environmental package": [
+{
+"tag": "attribute",
+"text": "human-gut"
+}
+],
+"investigation type": [
+{
+"tag": "attribute",
+"text": "metagenome"
+}
+],
+"organism": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"project name": [
+{
+"tag": "attribute",
+"text": "Persistence and dispersal strategies shape gut microbial strain evolution"
+}
+],
+"scientific_name": [
+{
+"ontologyTerms": [
+""
+],
+"text": "human gut metagenome"
+}
+],
+"sequencing method": [
+{
+"tag": "attribute",
+"text": "Illumina"
+}
+],
+"title": [
+{
+"text": "Sample IN80 from subject HD.S27"
+}
+]
+},
+"create": "2020-09-30T02:45:19.530Z",
+"externalReferences": [
+{
+"duo": [],
+"url": "https://www.ebi.ac.uk/ena/browser/view/SAMEA7519297"
+}
+],
+"name": "IN80",
+"release": "2020-11-04T17:09:53Z",
+"sraAccession": "ERS5275779",
+"status": "PUBLIC",
+"submitted": "2020-11-04T12:43:47Z",
+"submittedVia": "PIPELINE_IMPORT",
+"taxId": 408170,
+"update": "2024-02-07T09:16:18.717Z",
+"webinSubmissionAccountId": "Webin-41971"
+}
+}

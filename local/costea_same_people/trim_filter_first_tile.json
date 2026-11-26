@@ -1,0 +1,352 @@
+[
+ {
+  "subject": "DEU1",
+  "reads_q": 48917,
+  "reads_n": 54475,
+  "common": 48240,
+  "only_in_q": 677,
+  "only_in_n": 6235,
+  "relation": {
+   "identical": 0,
+   "queried_inside_matched": 48240,
+   "matched_inside_queried": 0,
+   "neither": 0,
+   "ambiguous_position": 0
+  },
+  "same_quality_on_kept_bases": {
+   "same": 48240,
+   "checked": 48240
+  },
+  "length_matched": {
+   "min": 94,
+   "median": 94.0,
+   "max": 94
+  },
+  "length_queried": {
+   "min": 45,
+   "median": 93.0,
+   "max": 93
+  },
+  "cut_5prime": {
+   "share_of_common_reads": 1.0,
+   "median_bases": 1.0,
+   "median_quality_of_the_bases_cut": 37.0
+  },
+  "cut_3prime": {
+   "share_of_common_reads": 0.12524875621890547,
+   "median_bases": 21.0,
+   "median_quality_of_the_tail": 25.666666666666668,
+   "median_quality_of_the_bases_kept_in_these_reads": 37.53498043052838
+  },
+  "absent_from_queried_run": {
+   "reads": 6235,
+   "share_of_matched_reads": 0.11445617255621846,
+   "median_mean_quality": 30.78723404255319,
+   "share_below_q30": 0.4511627906976744
+  },
+  "present_in_both_runs": {
+   "median_mean_quality": 38.06382978723404,
+   "share_below_q30": 0.026140132669983416
+  }
+ },
+ {
+  "subject": "DEU7",
+  "reads_q": 92897,
+  "reads_n": 117078,
+  "common": 92872,
+  "only_in_q": 25,
+  "only_in_n": 24206,
+  "relation": {
+   "identical": 0,
+   "queried_inside_matched": 92872,
+   "matched_inside_queried": 0,
+   "neither": 0,
+   "ambiguous_position": 0
+  },
+  "same_quality_on_kept_bases": {
+   "same": 92871,
+   "checked": 92872
+  },
+  "length_matched": {
+   "min": 94,
+   "median": 94.0,
+   "max": 94
+  },
+  "length_queried": {
+   "min": 45,
+   "median": 90.0,
+   "max": 90
+  },
+  "cut_5prime": {
+   "share_of_common_reads": 1.0,
+   "median_bases": 4.0,
+   "median_quality_of_the_bases_cut": 38.0
+  },
+  "cut_3prime": {
+   "share_of_common_reads": 0.18829141183564477,
+   "median_bases": 19.0,
+   "median_quality_of_the_tail": 30.0,
+   "median_quality_of_the_bases_kept_in_these_reads": 37.28767123287671
+  },
+  "absent_from_queried_run": {
+   "reads": 24206,
+   "share_of_matched_reads": 0.20675105485232068,
+   "median_mean_quality": 32.244680851063826,
+   "share_below_q30": 0.3440056184417087
+  },
+  "present_in_both_runs": {
+   "median_mean_quality": 37.712765957446805,
+   "share_below_q30": 0.004048582995951417
+  }
+ },
+ {
+  "subject": "DEU8",
+  "reads_q": 71319,
+  "reads_n": 89030,
+  "common": 71307,
+  "only_in_q": 12,
+  "only_in_n": 17723,
+  "relation": {
+   "identical": 0,
+   "queried_inside_matched": 71307,
+   "matched_inside_queried": 0,
+   "neither": 0,
+   "ambiguous_position": 0
+  },
+  "same_quality_on_kept_bases": {
+   "same": 71307,
+   "checked": 71307
+  },
+  "length_matched": {
+   "min": 94,
+   "median": 94.0,
+   "max": 94
+  },
+  "length_queried": {
+   "min": 45,
+   "median": 90.0,
+   "max": 90
+  },
+  "cut_5prime": {
+   "share_of_common_reads": 1.0,
+   "median_bases": 4.0,
+   "median_quality_of_the_bases_cut": 38.5
+  },
+  "cut_3prime": {
+   "share_of_common_reads": 0.14350624763347217,
+   "median_bases": 17.0,
+   "median_quality_of_the_tail": 29.63157894736842,
+   "median_quality_of_the_bases_kept_in_these_reads": 36.932432432432435
+  },
+  "absent_from_queried_run": {
+   "reads": 17723,
+   "share_of_matched_reads": 0.19906772997865887,
+   "median_mean_quality": 33.5,
+   "share_below_q30": 0.28240139931162894
+  },
+  "present_in_both_runs": {
+   "median_mean_quality": 37.702127659574465,
+   "share_below_q30": 0.004585805040178383
+  }
+ },
+ {
+  "subject": "DEU13",
+  "reads_q": 76245,
+  "reads_n": 89545,
+  "common": 76227,
+  "only_in_q": 18,
+  "only_in_n": 13318,
+  "relation": {
+   "identical": 0,
+   "queried_inside_matched": 76227,
+   "matched_inside_queried": 0,
+   "neither": 0,
+   "ambiguous_position": 0
+  },
+  "same_quality_on_kept_bases": {
+   "same": 76227,
+   "checked": 76227
+  },
+  "length_matched": {
+   "min": 94,
+   "median": 94.0,
+   "max": 94
+  },
+  "length_queried": {
+   "min": 45,
+   "median": 90.0,
+   "max": 90
+  },
+  "cut_5prime": {
+   "share_of_common_reads": 1.0,
+   "median_bases": 4.0,
+   "median_quality_of_the_bases_cut": 38.5
+  },
+  "cut_3prime": {
+   "share_of_common_reads": 0.16616159628478097,
+   "median_bases": 15.0,
+   "median_quality_of_the_tail": 28.733333333333334,
+   "median_quality_of_the_bases_kept_in_these_reads": 36.96600539291217
+  },
+  "absent_from_queried_run": {
+   "reads": 13318,
+   "share_of_matched_reads": 0.1487296889831928,
+   "median_mean_quality": 32.787234042553195,
+   "share_below_q30": 0.3123592130950593
+  },
+  "present_in_both_runs": {
+   "median_mean_quality": 37.62765957446808,
+   "share_below_q30": 0.004735854749629396
+  }
+ },
+ {
+  "subject": "DEU14",
+  "reads_q": 18270,
+  "reads_n": 24782,
+  "common": 18269,
+  "only_in_q": 1,
+  "only_in_n": 6513,
+  "relation": {
+   "identical": 0,
+   "queried_inside_matched": 18269,
+   "matched_inside_queried": 0,
+   "neither": 0,
+   "ambiguous_position": 0
+  },
+  "same_quality_on_kept_bases": {
+   "same": 18269,
+   "checked": 18269
+  },
+  "length_matched": {
+   "min": 94,
+   "median": 94.0,
+   "max": 94
+  },
+  "length_queried": {
+   "min": 45,
+   "median": 93.0,
+   "max": 93
+  },
+  "cut_5prime": {
+   "share_of_common_reads": 1.0,
+   "median_bases": 1.0,
+   "median_quality_of_the_bases_cut": 36.0
+  },
+  "cut_3prime": {
+   "share_of_common_reads": 0.17045267940226613,
+   "median_bases": 16.0,
+   "median_quality_of_the_tail": 29.142857142857142,
+   "median_quality_of_the_bases_kept_in_these_reads": 37.302173913043475
+  },
+  "absent_from_queried_run": {
+   "reads": 6513,
+   "share_of_matched_reads": 0.26281171818255183,
+   "median_mean_quality": 29.97872340425532,
+   "share_below_q30": 0.5043758636573008
+  },
+  "present_in_both_runs": {
+   "median_mean_quality": 37.5,
+   "share_below_q30": 0.005747441020307625
+  }
+ },
+ {
+  "subject": "DEU18",
+  "reads_q": 49988,
+  "reads_n": 56273,
+  "common": 49740,
+  "only_in_q": 248,
+  "only_in_n": 6533,
+  "relation": {
+   "identical": 0,
+   "queried_inside_matched": 49740,
+   "matched_inside_queried": 0,
+   "neither": 0,
+   "ambiguous_position": 0
+  },
+  "same_quality_on_kept_bases": {
+   "same": 49740,
+   "checked": 49740
+  },
+  "length_matched": {
+   "min": 94,
+   "median": 94.0,
+   "max": 94
+  },
+  "length_queried": {
+   "min": 45,
+   "median": 90.0,
+   "max": 90
+  },
+  "cut_5prime": {
+   "share_of_common_reads": 1.0,
+   "median_bases": 4.0,
+   "median_quality_of_the_bases_cut": 38.5
+  },
+  "cut_3prime": {
+   "share_of_common_reads": 0.10032167269802976,
+   "median_bases": 20.0,
+   "median_quality_of_the_tail": 28.727272727272727,
+   "median_quality_of_the_bases_kept_in_these_reads": 37.280800315395226
+  },
+  "absent_from_queried_run": {
+   "reads": 6533,
+   "share_of_matched_reads": 0.11609475236792068,
+   "median_mean_quality": 32.41489361702128,
+   "share_below_q30": 0.34027246288075924
+  },
+  "present_in_both_runs": {
+   "median_mean_quality": 38.06382978723404,
+   "share_below_q30": 0.01162042621632489
+  }
+ },
+ {
+  "subject": "DEU22",
+  "reads_q": 86089,
+  "reads_n": 106830,
+  "common": 86075,
+  "only_in_q": 14,
+  "only_in_n": 20755,
+  "relation": {
+   "identical": 0,
+   "queried_inside_matched": 86075,
+   "matched_inside_queried": 0,
+   "neither": 0,
+   "ambiguous_position": 0
+  },
+  "same_quality_on_kept_bases": {
+   "same": 86075,
+   "checked": 86075
+  },
+  "length_matched": {
+   "min": 94,
+   "median": 94.0,
+   "max": 94
+  },
+  "length_queried": {
+   "min": 45,
+   "median": 91.0,
+   "max": 91
+  },
+  "cut_5prime": {
+   "share_of_common_reads": 1.0,
+   "median_bases": 3.0,
+   "median_quality_of_the_bases_cut": 38.333333333333336
+  },
+  "cut_3prime": {
+   "share_of_common_reads": 0.13948300900377578,
+   "median_bases": 14.0,
+   "median_quality_of_the_tail": 28.43095238095238,
+   "median_quality_of_the_bases_kept_in_these_reads": 37.01298920377867
+  },
+  "absent_from_queried_run": {
+   "reads": 20755,
+   "share_of_matched_reads": 0.194280632781054,
+   "median_mean_quality": 29.74468085106383,
+   "share_below_q30": 0.5287400626355095
+  },
+  "present_in_both_runs": {
+   "median_mean_quality": 37.691489361702125,
+   "share_below_q30": 0.0034853325588149867
+  }
+ }
+]

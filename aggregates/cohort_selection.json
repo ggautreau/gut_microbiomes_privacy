@@ -1,0 +1,532 @@
+{
+ "catalogue": {
+  "studies": 93,
+  "samples": 22588,
+  "stool": 21030,
+  "stool_studies": 86
+ },
+ "two_stool": {
+  "studies": 32,
+  "donors": 2044
+ },
+ "longitudinal": {
+  "min_donors": 5,
+  "cohorts": 30,
+  "donors": 2038,
+  "below_threshold_studies": 2,
+  "below_threshold_donors": 6
+ },
+ "labels": {
+  "infants": {
+   "cohorts": 7,
+   "donors": 867
+  },
+  "adults": {
+   "cohorts": 14,
+   "donors": 949
+  },
+  "not recorded": {
+   "cohorts": 8,
+   "donors": 211
+  },
+  "mixed": {
+   "cohorts": 1,
+   "donors": 11
+  }
+ },
+ "not_recorded_adult_category": {
+  "cohorts": 5,
+  "donors": 84,
+  "names": [
+   "HallAB_2017",
+   "LiSS_2016",
+   "LouisS_2016",
+   "RosaBA_2018",
+   "YassourM_2016"
+  ]
+ },
+ "excluded": {
+  "candidates": 497,
+  "contamination": 8,
+  "contamination_query": 4,
+  "contamination_no_other": 4,
+  "samples_removed": 9,
+  "re_deposit": 6,
+  "recovered_contamination": 3,
+  "recovered_re_deposit": 0,
+  "min_rate": 0.271,
+  "max_rate": 0.897,
+  "by_cohort": {
+   "MehtaRS_2018": [
+    1,
+    0
+   ],
+   "CosteaPI_2017": [
+    1,
+    6
+   ],
+   "HansenLBS_2018": [
+    2,
+    0
+   ],
+   "Bengtsson-PalmeJ_2015": [
+    4,
+    0
+   ]
+  }
+ },
+ "adult_cohorts": {
+  "MehtaRS_2018": {
+   "donors": 300,
+   "indexed": 285,
+   "under18": 0,
+   "no_age": 0,
+   "rna": 43,
+   "adult_dna": 242,
+   "analysed": 241,
+   "contamination": 1,
+   "re_deposit": 0
+  },
+  "HMP_2019_ibdmdb": {
+   "donors": 111,
+   "indexed": 100,
+   "under18": 51,
+   "no_age": 1,
+   "rna": 0,
+   "adult_dna": 48,
+   "analysed": 48,
+   "contamination": 0,
+   "re_deposit": 0
+  },
+  "CosteaPI_2017": {
+   "donors": 107,
+   "indexed": 107,
+   "under18": 7,
+   "no_age": 9,
+   "rna": 0,
+   "adult_dna": 91,
+   "analysed": 84,
+   "contamination": 1,
+   "re_deposit": 6
+  },
+  "NielsenHB_2014": {
+   "donors": 78,
+   "indexed": 78,
+   "under18": 0,
+   "no_age": 0,
+   "rna": 0,
+   "adult_dna": 78,
+   "analysed": 0,
+   "contamination": 0,
+   "re_deposit": 0
+  },
+  "VincentC_2016": {
+   "donors": 69,
+   "indexed": 61,
+   "under18": 0,
+   "no_age": 0,
+   "rna": 0,
+   "adult_dna": 61,
+   "analysed": 0,
+   "contamination": 0,
+   "re_deposit": 0
+  },
+  "PehrssonE_2016": {
+   "donors": 59,
+   "indexed": 59,
+   "under18": 22,
+   "no_age": 0,
+   "rna": 0,
+   "adult_dna": 37,
+   "analysed": 0,
+   "contamination": 0,
+   "re_deposit": 0
+  },
+  "HansenLBS_2018": {
+   "donors": 52,
+   "indexed": 46,
+   "under18": 0,
+   "no_age": 0,
+   "rna": 0,
+   "adult_dna": 46,
+   "analysed": 44,
+   "contamination": 2,
+   "re_deposit": 0
+  },
+  "HMP_2012": {
+   "donors": 47,
+   "indexed": 0,
+   "under18": 0,
+   "no_age": 0,
+   "rna": 0,
+   "adult_dna": 0,
+   "analysed": 0,
+   "contamination": 0,
+   "re_deposit": 0
+  },
+  "Bengtsson-PalmeJ_2015": {
+   "donors": 35,
+   "indexed": 33,
+   "under18": 0,
+   "no_age": 0,
+   "rna": 0,
+   "adult_dna": 33,
+   "analysed": 29,
+   "contamination": 4,
+   "re_deposit": 0
+  },
+  "HMP_2019_t2d": {
+   "donors": 28,
+   "indexed": 0,
+   "under18": 0,
+   "no_age": 0,
+   "rna": 0,
+   "adult_dna": 0,
+   "analysed": 0,
+   "contamination": 0,
+   "re_deposit": 0
+  },
+  "RaymondF_2016": {
+   "donors": 24,
+   "indexed": 24,
+   "under18": 0,
+   "no_age": 0,
+   "rna": 0,
+   "adult_dna": 24,
+   "analysed": 24,
+   "contamination": 0,
+   "re_deposit": 0
+  },
+  "Heitz-BuschartA_2016": {
+   "donors": 20,
+   "indexed": 20,
+   "under18": 7,
+   "no_age": 0,
+   "rna": 0,
+   "adult_dna": 13,
+   "analysed": 13,
+   "contamination": 0,
+   "re_deposit": 0
+  },
+  "IjazUZ_2017": {
+   "donors": 12,
+   "indexed": 11,
+   "under18": 11,
+   "no_age": 0,
+   "rna": 0,
+   "adult_dna": 0,
+   "analysed": 0,
+   "contamination": 0,
+   "re_deposit": 0
+  },
+  "LiJ_2014": {
+   "donors": 7,
+   "indexed": 7,
+   "under18": 0,
+   "no_age": 0,
+   "rna": 0,
+   "adult_dna": 7,
+   "analysed": 0,
+   "contamination": 0,
+   "re_deposit": 0
+  }
+ },
+ "adult_totals": {
+  "donors": 949,
+  "indexed": 831,
+  "under18": 98,
+  "no_age": 10,
+  "rna": 43,
+  "adult_dna": 680,
+  "analysed": 483,
+  "contamination": 8,
+  "re_deposit": 6
+ },
+ "demographics": {
+  "by_cohort": {
+   "Bengtsson-PalmeJ_2015": {
+    "donors": 29,
+    "women": 23,
+    "men": 6,
+    "sex_not_recorded": 0,
+    "countries": {
+     "SWE": 29
+    }
+   },
+   "CosteaPI_2017": {
+    "donors": 84,
+    "women": 54,
+    "men": 30,
+    "sex_not_recorded": 0,
+    "countries": {
+     "KAZ": 84
+    }
+   },
+   "HMP_2019_ibdmdb": {
+    "donors": 48,
+    "women": 26,
+    "men": 22,
+    "sex_not_recorded": 0,
+    "countries": {
+     "USA": 48
+    }
+   },
+   "HansenLBS_2018": {
+    "donors": 44,
+    "women": 24,
+    "men": 20,
+    "sex_not_recorded": 0,
+    "countries": {
+     "DNK": 44
+    }
+   },
+   "Heitz-BuschartA_2016": {
+    "donors": 13,
+    "women": 9,
+    "men": 4,
+    "sex_not_recorded": 0,
+    "countries": {
+     "LUX": 13
+    }
+   },
+   "MehtaRS_2018": {
+    "donors": 241,
+    "women": 0,
+    "men": 241,
+    "sex_not_recorded": 0,
+    "countries": {
+     "USA": 241
+    }
+   },
+   "RaymondF_2016": {
+    "donors": 24,
+    "women": 13,
+    "men": 11,
+    "sex_not_recorded": 0,
+    "countries": {
+     "CAN": 24
+    }
+   }
+  },
+  "total": {
+   "donors": 483,
+   "women": 149,
+   "men": 334,
+   "sex_not_recorded": 0,
+   "countries": {
+    "USA": 289,
+    "KAZ": 84,
+    "DNK": 44,
+    "SWE": 29,
+    "CAN": 24,
+    "LUX": 13
+   }
+  }
+ },
+ "adult_by_recorded_age": 438,
+ "adult_by_design_dna": 242,
+ "ibd_rebuilt_pairs": 103,
+ "biosample_only_in_index": {
+  "MehtaRS_2018": 15
+ },
+ "rna_queries": {
+  "n": 43,
+  "linked": 20,
+  "mehta_dna_n": 242,
+  "mehta_dna_linked": 228
+ },
+ "analysed_interval": {
+  "n": 483,
+  "median": 90.0,
+  "q25": 2.0,
+  "q75": 180.0,
+  "same_day": 82,
+  "under_week": 126,
+  "same_day_cohorts": [
+   "MehtaRS_2018"
+  ]
+ },
+ "biosample_only_queried": {
+  "MehtaRS_2018": 8
+ },
+ "queried_outside_the_donors": {
+  "Bengtsson-PalmeJ_2015": 1,
+  "HansenLBS_2018": 5,
+  "IjazUZ_2017": 1,
+  "MehtaRS_2018": 8,
+  "VincentC_2016": 5
+ },
+ "mehta_second_run": {
+  "n": 241,
+  "with_second_indexed_run": 228,
+  "second_run_smaller": 228
+ },
+ "rna_other_samples": {
+  "first_sample": 3,
+  "first_sample_first_in_stock": 2,
+  "only_partner_30d": 3,
+  "only_partner_30d_first_in_stock": 3,
+  "donors": 3,
+  "same_donors": true
+ },
+ "ibd_pairs": {
+  "n": 48,
+  "query_not_last": 0,
+  "first_not_first": 1,
+  "curated_n": 48,
+  "curated_query_not_last": 3,
+  "curated_first_not_first": 31,
+  "curated_first_unresolved": 0,
+  "curated_samples": 1627,
+  "curated_samples_unresolved": 300,
+  "curated_first_not_first_earliest_unresolved": 31
+ },
+ "hmp_links_effect": {
+  "rank_any_narrow": 0,
+  "rank_v1_narrow": 8,
+  "rank_far_narrow": 1,
+  "first_alone_now_first": 3,
+  "first_alone_was_first": 0,
+  "studies": [
+   "HMP_2019_ibdmdb"
+  ]
+ },
+ "sample_arrangements": {
+  "max_samples_listed": 4,
+  "listed": [
+   {
+    "roles": [
+     "first_and_most_similar",
+     "query"
+    ],
+    "recovered": true,
+    "donors": 224
+   },
+   {
+    "roles": [
+     "first_and_most_similar",
+     "other",
+     "query"
+    ],
+    "recovered": true,
+    "donors": 28
+   },
+   {
+    "roles": [
+     "first",
+     "most_similar",
+     "query"
+    ],
+    "recovered": true,
+    "donors": 15
+   },
+   {
+    "roles": [
+     "first",
+     "other",
+     "most_similar",
+     "query"
+    ],
+    "recovered": true,
+    "donors": 104
+   },
+   {
+    "roles": [
+     "first",
+     "most_similar",
+     "other",
+     "query"
+    ],
+    "recovered": true,
+    "donors": 20
+   },
+   {
+    "roles": [
+     "first_and_most_similar",
+     "other",
+     "other",
+     "query"
+    ],
+    "recovered": true,
+    "donors": 16
+   },
+   {
+    "roles": [
+     "first_none_returned",
+     "query"
+    ],
+    "recovered": false,
+    "donors": 12
+   },
+   {
+    "roles": [
+     "first_and_most_similar",
+     "query"
+    ],
+    "recovered": false,
+    "donors": 10
+   },
+   {
+    "roles": [
+     "first_and_most_similar",
+     "other",
+     "query"
+    ],
+    "recovered": false,
+    "donors": 2
+   },
+   {
+    "roles": [
+     "first_none_returned",
+     "other",
+     "other",
+     "query"
+    ],
+    "recovered": false,
+    "donors": 2
+   },
+   {
+    "roles": [
+     "first",
+     "other",
+     "most_similar",
+     "query"
+    ],
+    "recovered": false,
+    "donors": 1
+   },
+   {
+    "roles": [
+     "first_and_most_similar",
+     "other",
+     "other",
+     "query"
+    ],
+    "recovered": false,
+    "donors": 1
+   }
+  ],
+  "more": [
+   {
+    "recovered": true,
+    "most_similar_returned": true,
+    "donors": 47,
+    "min_samples": 7,
+    "max_samples": 26,
+    "studies": [
+     "HMP_2019_ibdmdb"
+    ]
+   },
+   {
+    "recovered": false,
+    "most_similar_returned": false,
+    "donors": 1,
+    "min_samples": 25,
+    "max_samples": 25,
+    "studies": [
+     "HMP_2019_ibdmdb"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,6698 @@
+{
+"ERR1727283": {
+"hashes": 166496,
+"human_hashes": 17,
+"stat_human_hits": 144,
+"stat_species_hits": 2888261
+},
+"ERR1727294": {
+"hashes": 151246,
+"human_hashes": 8,
+"stat_human_hits": 65,
+"stat_species_hits": 2540109
+},
+"ERR1727296": {
+"hashes": 122565,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2784589
+},
+"ERR1727301": {
+"hashes": 111338,
+"human_hashes": 4,
+"stat_human_hits": 0,
+"stat_species_hits": 3067320
+},
+"ERR1727306": {
+"hashes": 129749,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 2725803
+},
+"ERR1727309": {
+"hashes": 133324,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 1490339
+},
+"ERR1727311": {
+"hashes": 118289,
+"human_hashes": 3,
+"stat_human_hits": 32,
+"stat_species_hits": 1550567
+},
+"ERR1727316": {
+"hashes": 169853,
+"human_hashes": 9,
+"stat_human_hits": 339,
+"stat_species_hits": 1235290
+},
+"ERR1727319": {
+"hashes": 101061,
+"human_hashes": 8,
+"stat_human_hits": 117,
+"stat_species_hits": 1994711
+},
+"ERR1727325": {
+"hashes": 135625,
+"human_hashes": 2,
+"stat_human_hits": 40,
+"stat_species_hits": 1422803
+},
+"ERR1727329": {
+"hashes": 134662,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 1773969
+},
+"ERR1727333": {
+"hashes": 85320,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2204880
+},
+"ERR1727340": {
+"hashes": 137486,
+"human_hashes": 13,
+"stat_human_hits": 82,
+"stat_species_hits": 1587024
+},
+"ERR1727348": {
+"hashes": 33848,
+"human_hashes": 7,
+"stat_human_hits": 19,
+"stat_species_hits": 499359
+},
+"ERR1727353": {
+"hashes": 132505,
+"human_hashes": 4,
+"stat_human_hits": 0,
+"stat_species_hits": 1504102
+},
+"ERR1727359": {
+"hashes": 128845,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1459951
+},
+"ERR1727370": {
+"hashes": 129491,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2798408
+},
+"ERR1727376": {
+"hashes": 61871,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1245354
+},
+"ERR1727380": {
+"hashes": 87879,
+"human_hashes": 6,
+"stat_human_hits": 46,
+"stat_species_hits": 2493919
+},
+"ERR1727386": {
+"hashes": 144319,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2862459
+},
+"ERR1727397": {
+"hashes": 126264,
+"human_hashes": 7,
+"stat_human_hits": 92,
+"stat_species_hits": 2129477
+},
+"ERR1727399": {
+"hashes": 141869,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 1884701
+},
+"ERR1727432": {
+"hashes": 102131,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1584467
+},
+"ERR1727439": {
+"hashes": 137830,
+"human_hashes": 18,
+"stat_human_hits": 276,
+"stat_species_hits": 1491760
+},
+"ERR1727441": {
+"hashes": 111867,
+"human_hashes": 0,
+"stat_human_hits": 20,
+"stat_species_hits": 1638825
+},
+"ERR1727446": {
+"hashes": 137843,
+"human_hashes": 8,
+"stat_human_hits": 0,
+"stat_species_hits": 1671530
+},
+"ERR1727452": {
+"hashes": 70310,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2402772
+},
+"ERR1727456": {
+"hashes": 93330,
+"human_hashes": 16,
+"stat_human_hits": 0,
+"stat_species_hits": 2023258
+},
+"ERR1727459": {
+"hashes": 82849,
+"human_hashes": 9,
+"stat_human_hits": 0,
+"stat_species_hits": 1441524
+},
+"ERR1727486": {
+"hashes": 100454,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 1530350
+},
+"ERR1727490": {
+"hashes": 93228,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 1766370
+},
+"ERR1727502": {
+"hashes": 135860,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 2137058
+},
+"ERR1727513": {
+"hashes": 127871,
+"human_hashes": 4,
+"stat_human_hits": 71,
+"stat_species_hits": 2004183
+},
+"ERR1727517": {
+"hashes": 123310,
+"human_hashes": 4,
+"stat_human_hits": 45,
+"stat_species_hits": 1947719
+},
+"ERR1727519": {
+"hashes": 143958,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 2968108
+},
+"ERR1727532": {
+"hashes": 141692,
+"human_hashes": 36,
+"stat_human_hits": 323,
+"stat_species_hits": 2028835
+},
+"ERR1727539": {
+"hashes": 135120,
+"human_hashes": 9,
+"stat_human_hits": 0,
+"stat_species_hits": 2398636
+},
+"ERR1727543": {
+"hashes": 115349,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1349747
+},
+"ERR1727546": {
+"hashes": 151565,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2127604
+},
+"ERR1727556": {
+"hashes": 156296,
+"human_hashes": 7,
+"stat_human_hits": 75,
+"stat_species_hits": 2096141
+},
+"ERR1727558": {
+"hashes": 120104,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2244262
+},
+"ERR1727568": {
+"hashes": 130861,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1784258
+},
+"ERR1727571": {
+"hashes": 145392,
+"human_hashes": 12,
+"stat_human_hits": 0,
+"stat_species_hits": 1131933
+},
+"ERR1727575": {
+"hashes": 83776,
+"human_hashes": 8,
+"stat_human_hits": 87,
+"stat_species_hits": 1864447
+},
+"ERR1727581": {
+"hashes": 127167,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 1992219
+},
+"ERR1727593": {
+"hashes": 113671,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 3221685
+},
+"ERR1727601": {
+"hashes": 147672,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 1624582
+},
+"ERR1727603": {
+"hashes": 96004,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1168137
+},
+"ERR1727615": {
+"hashes": 125766,
+"human_hashes": 41,
+"stat_human_hits": 185,
+"stat_species_hits": 960934
+},
+"ERR1727629": {
+"hashes": 143282,
+"human_hashes": 10,
+"stat_human_hits": 67,
+"stat_species_hits": 1505985
+},
+"ERR1727637": {
+"hashes": 94898,
+"human_hashes": 7,
+"stat_human_hits": 51,
+"stat_species_hits": 2442727
+},
+"ERR1727638": {
+"hashes": 106704,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2343186
+},
+"ERR1727645": {
+"hashes": 83518,
+"human_hashes": 39,
+"stat_human_hits": 747,
+"stat_species_hits": 7133558
+},
+"ERR1727647": {
+"hashes": 33962,
+"human_hashes": 230,
+"stat_human_hits": 2035,
+"stat_species_hits": 700929
+},
+"ERR1727660": {
+"hashes": 135200,
+"human_hashes": 10,
+"stat_human_hits": 179,
+"stat_species_hits": 1797940
+},
+"ERR1727662": {
+"hashes": 184263,
+"human_hashes": 4,
+"stat_human_hits": 0,
+"stat_species_hits": 3738758
+},
+"ERR1727663": {
+"hashes": 115003,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1843266
+},
+"ERR1727667": {
+"hashes": 221559,
+"human_hashes": 1,
+"stat_human_hits": 7,
+"stat_species_hits": 2720473
+},
+"ERR1727675": {
+"hashes": 129490,
+"human_hashes": 7,
+"stat_human_hits": 0,
+"stat_species_hits": 784066
+},
+"ERR1727679": {
+"hashes": 99668,
+"human_hashes": 21,
+"stat_human_hits": 0,
+"stat_species_hits": 1233131
+},
+"ERR1727684": {
+"hashes": 86172,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1846087
+},
+"ERR1727691": {
+"hashes": 94337,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2071168
+},
+"ERR1727693": {
+"hashes": 130003,
+"human_hashes": 2,
+"stat_human_hits": 6,
+"stat_species_hits": 2623263
+},
+"ERR1727699": {
+"hashes": 149824,
+"human_hashes": 62,
+"stat_human_hits": 798,
+"stat_species_hits": 1290296
+},
+"ERR1727703": {
+"hashes": 110616,
+"human_hashes": 40,
+"stat_human_hits": 563,
+"stat_species_hits": 3213808
+},
+"ERR1727704": {
+"hashes": 82268,
+"human_hashes": 5,
+"stat_human_hits": 45,
+"stat_species_hits": 1579458
+},
+"ERR1727708": {
+"hashes": 127660,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 1323635
+},
+"ERR1727714": {
+"hashes": 128206,
+"human_hashes": 14,
+"stat_human_hits": 161,
+"stat_species_hits": 2820952
+},
+"ERR1727716": {
+"hashes": 137862,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1919366
+},
+"ERR1727724": {
+"hashes": 79277,
+"human_hashes": 2,
+"stat_human_hits": 26,
+"stat_species_hits": 1071048
+},
+"ERR1727731": {
+"hashes": 178042,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 2326674
+},
+"ERR1727733": {
+"hashes": 143142,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 1814551
+},
+"ERR1727743": {
+"hashes": 131142,
+"human_hashes": 2,
+"stat_human_hits": 90,
+"stat_species_hits": 1138073
+},
+"ERR1727749": {
+"hashes": 158640,
+"human_hashes": 7,
+"stat_human_hits": 40,
+"stat_species_hits": 2647297
+},
+"ERR1727759": {
+"hashes": 137559,
+"human_hashes": 0,
+"stat_human_hits": 2,
+"stat_species_hits": 2663142
+},
+"ERR1727763": {
+"hashes": 119876,
+"human_hashes": 2,
+"stat_human_hits": 57,
+"stat_species_hits": 900507
+},
+"ERR1727775": {
+"hashes": 169929,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 2356011
+},
+"ERR1727777": {
+"hashes": 158151,
+"human_hashes": 24,
+"stat_human_hits": 150,
+"stat_species_hits": 3698692
+},
+"ERR1727789": {
+"hashes": 127585,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 2110991
+},
+"ERR1727797": {
+"hashes": 80689,
+"human_hashes": 0,
+"stat_human_hits": 20,
+"stat_species_hits": 1270793
+},
+"ERR1727810": {
+"hashes": 186668,
+"human_hashes": 14,
+"stat_human_hits": 81,
+"stat_species_hits": 3025318
+},
+"ERR1727814": {
+"hashes": 121829,
+"human_hashes": 5,
+"stat_human_hits": 72,
+"stat_species_hits": 1993531
+},
+"ERR1727816": {
+"hashes": 81693,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 978397
+},
+"ERR1727822": {
+"hashes": 143537,
+"human_hashes": 7,
+"stat_human_hits": 105,
+"stat_species_hits": 1411850
+},
+"ERR1727830": {
+"hashes": 56168,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 2901403
+},
+"ERR1727839": {
+"hashes": 148676,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1691410
+},
+"ERR1727843": {
+"hashes": 107425,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 1172781
+},
+"ERR1727846": {
+"hashes": 148029,
+"human_hashes": 59,
+"stat_human_hits": 901,
+"stat_species_hits": 2450757
+},
+"ERR1727851": {
+"hashes": 192675,
+"human_hashes": 2,
+"stat_human_hits": 11,
+"stat_species_hits": 1793022
+},
+"ERR1727853": {
+"hashes": 131832,
+"human_hashes": 2,
+"stat_human_hits": 41,
+"stat_species_hits": 1303156
+},
+"ERR1727865": {
+"hashes": 131115,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 1146117
+},
+"ERR1727871": {
+"hashes": 138169,
+"human_hashes": 2,
+"stat_human_hits": 16,
+"stat_species_hits": 2884971
+},
+"ERR1727872": {
+"hashes": 193873,
+"human_hashes": 1,
+"stat_human_hits": 23,
+"stat_species_hits": 2207342
+},
+"ERR1727877": {
+"hashes": 131737,
+"human_hashes": 32,
+"stat_human_hits": 196,
+"stat_species_hits": 1275794
+},
+"ERR1727880": {
+"hashes": 64618,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2864231
+},
+"ERR1727886": {
+"hashes": 72479,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 4531985
+},
+"ERR1727890": {
+"hashes": 67318,
+"human_hashes": 15,
+"stat_human_hits": 46,
+"stat_species_hits": 1914001
+},
+"ERR1727897": {
+"hashes": 93704,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2078737
+},
+"ERR1727902": {
+"hashes": 134947,
+"human_hashes": 5,
+"stat_human_hits": 51,
+"stat_species_hits": 4440804
+},
+"ERR1727904": {
+"hashes": 141009,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 1882958
+},
+"ERR1727912": {
+"hashes": 110082,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 1066363
+},
+"ERR1727923": {
+"hashes": 115496,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2165549
+},
+"ERR1727931": {
+"hashes": 88753,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1617831
+},
+"ERR1727935": {
+"hashes": 126727,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 1541447
+},
+"ERR1727937": {
+"hashes": 151809,
+"human_hashes": 0,
+"stat_human_hits": 9,
+"stat_species_hits": 2158796
+},
+"ERR1727949": {
+"hashes": 94681,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1804481
+},
+"ERR1727952": {
+"hashes": 25438,
+"human_hashes": 278,
+"stat_human_hits": 2657,
+"stat_species_hits": 3894755
+},
+"ERR1727957": {
+"hashes": 98325,
+"human_hashes": 5,
+"stat_human_hits": 61,
+"stat_species_hits": 1448272
+},
+"ERR1727963": {
+"hashes": 118414,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 1862779
+},
+"ERR1727967": {
+"hashes": 85464,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1980103
+},
+"ERR1727971": {
+"hashes": 116472,
+"human_hashes": 20,
+"stat_human_hits": 144,
+"stat_species_hits": 3400144
+},
+"ERR1727975": {
+"hashes": 105386,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1911257
+},
+"ERR1727980": {
+"hashes": 77181,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 3227952
+},
+"ERR1727986": {
+"hashes": 147566,
+"human_hashes": 6,
+"stat_human_hits": 57,
+"stat_species_hits": 2157364
+},
+"ERR1727992": {
+"hashes": 135454,
+"human_hashes": 67,
+"stat_human_hits": 790,
+"stat_species_hits": 2069160
+},
+"ERR1727998": {
+"hashes": 63921,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 935417
+},
+"ERR1728007": {
+"hashes": 150417,
+"human_hashes": 3,
+"stat_human_hits": 31,
+"stat_species_hits": 2263186
+},
+"ERR1728012": {
+"hashes": 134018,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1646261
+},
+"ERR1728019": {
+"hashes": 125613,
+"human_hashes": 8,
+"stat_human_hits": 111,
+"stat_species_hits": 1430368
+},
+"ERR1728021": {
+"hashes": 92287,
+"human_hashes": 3,
+"stat_human_hits": 65,
+"stat_species_hits": 3521582
+},
+"ERR1728026": {
+"hashes": 69427,
+"human_hashes": 11,
+"stat_human_hits": 62,
+"stat_species_hits": 2778747
+},
+"ERR1728031": {
+"hashes": 130904,
+"human_hashes": 20,
+"stat_human_hits": 85,
+"stat_species_hits": 1736850
+},
+"ERR1728033": {
+"hashes": 100099,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 1563715
+},
+"ERR1728046": {
+"hashes": 74053,
+"human_hashes": 1,
+"stat_human_hits": 13,
+"stat_species_hits": 2259427
+},
+"ERR1728053": {
+"hashes": 139599,
+"human_hashes": 36,
+"stat_human_hits": 259,
+"stat_species_hits": 2396200
+},
+"ERR1728054": {
+"hashes": 135995,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 960126
+},
+"ERR1728063": {
+"hashes": 184271,
+"human_hashes": 4,
+"stat_human_hits": 0,
+"stat_species_hits": 2408992
+},
+"ERR1728066": {
+"hashes": 120506,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 1166335
+},
+"ERR1728072": {
+"hashes": 140035,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 2072159
+},
+"ERR1728084": {
+"hashes": 132387,
+"human_hashes": 0,
+"stat_human_hits": 8,
+"stat_species_hits": 2213838
+},
+"ERR1728087": {
+"hashes": 94719,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1821962
+},
+"ERR1728093": {
+"hashes": 102449,
+"human_hashes": 34,
+"stat_human_hits": 352,
+"stat_species_hits": 3025190
+},
+"ERR1728096": {
+"hashes": 76612,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 1391577
+},
+"ERR1728098": {
+"hashes": 83130,
+"human_hashes": 2,
+"stat_human_hits": 144,
+"stat_species_hits": 1835433
+},
+"ERR1728122": {
+"hashes": 94449,
+"human_hashes": 8,
+"stat_human_hits": 29,
+"stat_species_hits": 2116429
+},
+"ERR1728133": {
+"hashes": 92464,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1316062
+},
+"ERR1728135": {
+"hashes": 129487,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2703727
+},
+"ERR1728145": {
+"hashes": 91879,
+"human_hashes": 1,
+"stat_human_hits": 6,
+"stat_species_hits": 2359229
+},
+"ERR1728157": {
+"hashes": 107069,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2416493
+},
+"ERR1728162": {
+"hashes": 131179,
+"human_hashes": 28,
+"stat_human_hits": 179,
+"stat_species_hits": 1717952
+},
+"ERR1728177": {
+"hashes": 196164,
+"human_hashes": 10,
+"stat_human_hits": 52,
+"stat_species_hits": 2139027
+},
+"ERR1728182": {
+"hashes": 120815,
+"human_hashes": 32,
+"stat_human_hits": 267,
+"stat_species_hits": 1640624
+},
+"ERR1728186": {
+"hashes": 98520,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 1296721
+},
+"ERR1728191": {
+"hashes": 123431,
+"human_hashes": 10,
+"stat_human_hits": 59,
+"stat_species_hits": 2137938
+},
+"ERR1728194": {
+"hashes": 102176,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1792578
+},
+"ERR1728199": {
+"hashes": 148140,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 3213750
+},
+"ERR1728203": {
+"hashes": 118663,
+"human_hashes": 2,
+"stat_human_hits": 20,
+"stat_species_hits": 1830672
+},
+"ERR1728204": {
+"hashes": 89815,
+"human_hashes": 1,
+"stat_human_hits": 13,
+"stat_species_hits": 2272647
+},
+"ERR1728208": {
+"hashes": 101235,
+"human_hashes": 30,
+"stat_human_hits": 222,
+"stat_species_hits": 1915885
+},
+"ERR1728219": {
+"hashes": 108568,
+"human_hashes": 7,
+"stat_human_hits": 34,
+"stat_species_hits": 3046830
+},
+"ERR1728220": {
+"hashes": 95796,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1512135
+},
+"ERR1728232": {
+"hashes": 101664,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2489025
+},
+"ERR1728234": {
+"hashes": 164007,
+"human_hashes": 20,
+"stat_human_hits": 0,
+"stat_species_hits": 1847360
+},
+"ERR1728239": {
+"hashes": 80221,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 1703837
+},
+"ERR1728242": {
+"hashes": 123235,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2666156
+},
+"ERR1728248": {
+"hashes": 76405,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 2111640
+},
+"ERR1728251": {
+"hashes": 136994,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 1743858
+},
+"ERR1728254": {
+"hashes": 128238,
+"human_hashes": 5,
+"stat_human_hits": 30,
+"stat_species_hits": 2741797
+},
+"ERR1728260": {
+"hashes": 138750,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 1058948
+},
+"ERR1728263": {
+"hashes": 124182,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 1834494
+},
+"ERR1728267": {
+"hashes": 116530,
+"human_hashes": 24,
+"stat_human_hits": 145,
+"stat_species_hits": 585180
+},
+"ERR1728273": {
+"hashes": 95154,
+"human_hashes": 9,
+"stat_human_hits": 221,
+"stat_species_hits": 1738941
+},
+"ERR1728290": {
+"hashes": 127846,
+"human_hashes": 2,
+"stat_human_hits": 33,
+"stat_species_hits": 1921806
+},
+"ERR1728294": {
+"hashes": 110224,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2566369
+},
+"ERR1728302": {
+"hashes": 102537,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 2590686
+},
+"ERR1728309": {
+"hashes": 97486,
+"human_hashes": 1,
+"stat_human_hits": 22,
+"stat_species_hits": 1621452
+},
+"ERR1728326": {
+"hashes": 118189,
+"human_hashes": 3,
+"stat_human_hits": 29,
+"stat_species_hits": 1474520
+},
+"ERR1728336": {
+"hashes": 122386,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2445915
+},
+"ERR1728352": {
+"hashes": 100912,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1379784
+},
+"ERR1728359": {
+"hashes": 115933,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1785447
+},
+"ERR1728364": {
+"hashes": 113326,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 2314961
+},
+"ERR1728369": {
+"hashes": 172272,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 2304156
+},
+"ERR1728384": {
+"hashes": 53303,
+"human_hashes": 5,
+"stat_human_hits": 28,
+"stat_species_hits": 648604
+},
+"ERR1728390": {
+"hashes": 119187,
+"human_hashes": 0,
+"stat_human_hits": 12,
+"stat_species_hits": 1324001
+},
+"ERR1728394": {
+"hashes": 107416,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 1734588
+},
+"ERR1728399": {
+"hashes": 119700,
+"human_hashes": 2,
+"stat_human_hits": 51,
+"stat_species_hits": 2075276
+},
+"ERR1728404": {
+"hashes": 97161,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 2608729
+},
+"ERR1728525": {
+"hashes": 6681,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 142714
+},
+"ERR1728550": {
+"hashes": 25366,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 376843
+},
+"ERR1728675": {
+"hashes": 6479,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 256025
+},
+"ERR1728805": {
+"hashes": 22774,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 946125
+},
+"ERR1728949": {
+"hashes": 11573,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 256117
+},
+"ERR636349": {
+"hashes": 481582,
+"human_hashes": 7,
+"stat_human_hits": 0,
+"stat_species_hits": 16966359
+},
+"ERR636350": {
+"hashes": 522632,
+"human_hashes": 5,
+"stat_human_hits": 43,
+"stat_species_hits": 33608659
+},
+"ERR636351": {
+"hashes": 423413,
+"human_hashes": 52,
+"stat_human_hits": 484,
+"stat_species_hits": 15149282
+},
+"ERR636352": {
+"hashes": 584448,
+"human_hashes": 147,
+"stat_human_hits": 1522,
+"stat_species_hits": 23146075
+},
+"ERR636353": {
+"hashes": 386296,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 40824466
+},
+"ERR636354": {
+"hashes": 493284,
+"human_hashes": 4,
+"stat_human_hits": 48,
+"stat_species_hits": 24854051
+},
+"ERR636355": {
+"hashes": 557796,
+"human_hashes": 819,
+"stat_human_hits": 17525,
+"stat_species_hits": 37621534
+},
+"ERR636356": {
+"hashes": 503788,
+"human_hashes": 35446,
+"stat_human_hits": 815245,
+"stat_species_hits": 21903031
+},
+"ERR636357": {
+"hashes": 576830,
+"human_hashes": 78,
+"stat_human_hits": 815,
+"stat_species_hits": 15127208
+},
+"ERR636358": {
+"hashes": 429698,
+"human_hashes": 28,
+"stat_human_hits": 425,
+"stat_species_hits": 13130410
+},
+"ERR636359": {
+"hashes": 562312,
+"human_hashes": 610,
+"stat_human_hits": 6934,
+"stat_species_hits": 15150520
+},
+"ERR636360": {
+"hashes": 455228,
+"human_hashes": 504,
+"stat_human_hits": 5131,
+"stat_species_hits": 9859361
+},
+"ERR636361": {
+"hashes": 444263,
+"human_hashes": 70,
+"stat_human_hits": 429,
+"stat_species_hits": 41240432
+},
+"ERR636362": {
+"hashes": 465280,
+"human_hashes": 174,
+"stat_human_hits": 2969,
+"stat_species_hits": 11954775
+},
+"ERR636363": {
+"hashes": 397944,
+"human_hashes": 816,
+"stat_human_hits": 14113,
+"stat_species_hits": 21354603
+},
+"ERR636364": {
+"hashes": 492583,
+"human_hashes": 674,
+"stat_human_hits": 14614,
+"stat_species_hits": 21388389
+},
+"ERR636367": {
+"hashes": 434734,
+"human_hashes": 25,
+"stat_human_hits": 159,
+"stat_species_hits": 27677359
+},
+"ERR636368": {
+"hashes": 373972,
+"human_hashes": 50,
+"stat_human_hits": 456,
+"stat_species_hits": 15598971
+},
+"ERR636369": {
+"hashes": 415596,
+"human_hashes": 9,
+"stat_human_hits": 25,
+"stat_species_hits": 30108832
+},
+"ERR636370": {
+"hashes": 532752,
+"human_hashes": 70,
+"stat_human_hits": 457,
+"stat_species_hits": 38117950
+},
+"ERR636371": {
+"hashes": 311844,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 31884017
+},
+"ERR636372": {
+"hashes": 354414,
+"human_hashes": 27,
+"stat_human_hits": 98,
+"stat_species_hits": 22444066
+},
+"ERR636373": {
+"hashes": 447965,
+"human_hashes": 95,
+"stat_human_hits": 1254,
+"stat_species_hits": 19267213
+},
+"ERR636374": {
+"hashes": 668411,
+"human_hashes": 184,
+"stat_human_hits": 2038,
+"stat_species_hits": 36662224
+},
+"ERR636375": {
+"hashes": 765080,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 46471808
+},
+"ERR636376": {
+"hashes": 486563,
+"human_hashes": 4,
+"stat_human_hits": 0,
+"stat_species_hits": 12571506
+},
+"ERR636377": {
+"hashes": 525964,
+"human_hashes": 544,
+"stat_human_hits": 5644,
+"stat_species_hits": 24076300
+},
+"ERR636378": {
+"hashes": 527706,
+"human_hashes": 2587,
+"stat_human_hits": 63220,
+"stat_species_hits": 23400286
+},
+"ERR636379": {
+"hashes": 431075,
+"human_hashes": 1497,
+"stat_human_hits": 27626,
+"stat_species_hits": 27403523
+},
+"ERR636380": {
+"hashes": 255660,
+"human_hashes": 34,
+"stat_human_hits": 726,
+"stat_species_hits": 18088385
+},
+"ERR636381": {
+"hashes": 356066,
+"human_hashes": 33,
+"stat_human_hits": 213,
+"stat_species_hits": 35244718
+},
+"ERR636382": {
+"hashes": 253119,
+"human_hashes": 27,
+"stat_human_hits": 236,
+"stat_species_hits": 15004875
+},
+"ERR636383": {
+"hashes": 472290,
+"human_hashes": 291,
+"stat_human_hits": 10001,
+"stat_species_hits": 19508145
+},
+"ERR636384": {
+"hashes": 515760,
+"human_hashes": 24,
+"stat_human_hits": 312,
+"stat_species_hits": 18499503
+},
+"ERR636385": {
+"hashes": 297137,
+"human_hashes": 450,
+"stat_human_hits": 5295,
+"stat_species_hits": 31251839
+},
+"ERR636386": {
+"hashes": 318646,
+"human_hashes": 172,
+"stat_human_hits": 976,
+"stat_species_hits": 32252694
+},
+"ERR636387": {
+"hashes": 647845,
+"human_hashes": 496,
+"stat_human_hits": 5598,
+"stat_species_hits": 28831478
+},
+"ERR636388": {
+"hashes": 530027,
+"human_hashes": 330,
+"stat_human_hits": 4204,
+"stat_species_hits": 28196946
+},
+"ERR636389": {
+"hashes": 440572,
+"human_hashes": 12,
+"stat_human_hits": 59,
+"stat_species_hits": 34436481
+},
+"ERR636390": {
+"hashes": 384469,
+"human_hashes": 36,
+"stat_human_hits": 420,
+"stat_species_hits": 23620156
+},
+"ERR636391": {
+"hashes": 274262,
+"human_hashes": 11,
+"stat_human_hits": 73,
+"stat_species_hits": 27730976
+},
+"ERR636392": {
+"hashes": 299428,
+"human_hashes": 26,
+"stat_human_hits": 198,
+"stat_species_hits": 49258528
+},
+"ERR636393": {
+"hashes": 578107,
+"human_hashes": 33,
+"stat_human_hits": 200,
+"stat_species_hits": 27581581
+},
+"ERR636394": {
+"hashes": 632567,
+"human_hashes": 47,
+"stat_human_hits": 383,
+"stat_species_hits": 26104843
+},
+"ERR636395": {
+"hashes": 482507,
+"human_hashes": 144,
+"stat_human_hits": 1495,
+"stat_species_hits": 23212378
+},
+"ERR636396": {
+"hashes": 591780,
+"human_hashes": 6,
+"stat_human_hits": 77,
+"stat_species_hits": 42629918
+},
+"ERR636399": {
+"hashes": 380715,
+"human_hashes": 12,
+"stat_human_hits": 0,
+"stat_species_hits": 17668735
+},
+"ERR636400": {
+"hashes": 256138,
+"human_hashes": 1053,
+"stat_human_hits": 12549,
+"stat_species_hits": 8588160
+},
+"ERR636401": {
+"hashes": 437898,
+"human_hashes": 65,
+"stat_human_hits": 581,
+"stat_species_hits": 39424970
+},
+"ERR636402": {
+"hashes": 357253,
+"human_hashes": 49,
+"stat_human_hits": 580,
+"stat_species_hits": 17538288
+},
+"ERR636403": {
+"hashes": 618701,
+"human_hashes": 30,
+"stat_human_hits": 189,
+"stat_species_hits": 31491070
+},
+"ERR636404": {
+"hashes": 460038,
+"human_hashes": 11,
+"stat_human_hits": 66,
+"stat_species_hits": 24753334
+},
+"ERR636405": {
+"hashes": 325935,
+"human_hashes": 242,
+"stat_human_hits": 1220,
+"stat_species_hits": 35520417
+},
+"ERR636406": {
+"hashes": 347398,
+"human_hashes": 55,
+"stat_human_hits": 407,
+"stat_species_hits": 32665389
+},
+"ERR636407": {
+"hashes": 393926,
+"human_hashes": 501,
+"stat_human_hits": 2818,
+"stat_species_hits": 27936033
+},
+"ERR636408": {
+"hashes": 598126,
+"human_hashes": 580,
+"stat_human_hits": 3949,
+"stat_species_hits": 29149021
+},
+"ERR636409": {
+"hashes": 428118,
+"human_hashes": 148,
+"stat_human_hits": 1713,
+"stat_species_hits": 47096210
+},
+"ERR636410": {
+"hashes": 421319,
+"human_hashes": 192,
+"stat_human_hits": 3911,
+"stat_species_hits": 31169933
+},
+"ERR636411": {
+"hashes": 431198,
+"human_hashes": 55,
+"stat_human_hits": 1378,
+"stat_species_hits": 11837384
+},
+"ERR636412": {
+"hashes": 209881,
+"human_hashes": 49,
+"stat_human_hits": 1330,
+"stat_species_hits": 5195823
+},
+"ERR636413": {
+"hashes": 241546,
+"human_hashes": 9,
+"stat_human_hits": 121,
+"stat_species_hits": 5175795
+},
+"ERR636414": {
+"hashes": 432481,
+"human_hashes": 162,
+"stat_human_hits": 2074,
+"stat_species_hits": 24141053
+},
+"ERR636415": {
+"hashes": 434953,
+"human_hashes": 31,
+"stat_human_hits": 142,
+"stat_species_hits": 27209265
+},
+"ERR636416": {
+"hashes": 423163,
+"human_hashes": 213,
+"stat_human_hits": 1711,
+"stat_species_hits": 46514230
+},
+"ERR636417": {
+"hashes": 453722,
+"human_hashes": 83,
+"stat_human_hits": 703,
+"stat_species_hits": 28528566
+},
+"ERR636418": {
+"hashes": 509220,
+"human_hashes": 13,
+"stat_human_hits": 0,
+"stat_species_hits": 35013837
+},
+"ERR719001": {
+"hashes": 74675,
+"human_hashes": 4,
+"stat_human_hits": 0,
+"stat_species_hits": 713481
+},
+"ERR719017": {
+"hashes": 63076,
+"human_hashes": 0,
+"stat_human_hits": 12,
+"stat_species_hits": 800230
+},
+"ERR719032": {
+"hashes": 45683,
+"human_hashes": 3,
+"stat_human_hits": 8,
+"stat_species_hits": 696177
+},
+"ERR719069": {
+"hashes": 28387,
+"human_hashes": 1,
+"stat_human_hits": 21,
+"stat_species_hits": 818884
+},
+"ERR719094": {
+"hashes": 48725,
+"human_hashes": 5,
+"stat_human_hits": 22,
+"stat_species_hits": 795568
+},
+"ERR719113": {
+"hashes": 75489,
+"human_hashes": 2,
+"stat_human_hits": 15,
+"stat_species_hits": 685348
+},
+"ERR719137": {
+"hashes": 89335,
+"human_hashes": 4,
+"stat_human_hits": 25,
+"stat_species_hits": 743066
+},
+"ERR719167": {
+"hashes": 39351,
+"human_hashes": 4,
+"stat_human_hits": 23,
+"stat_species_hits": 515556
+},
+"ERR719227": {
+"hashes": 44178,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 695784
+},
+"ERR719232": {
+"hashes": 92378,
+"human_hashes": 9,
+"stat_human_hits": 55,
+"stat_species_hits": 1100808
+},
+"ERR719268": {
+"hashes": 93775,
+"human_hashes": 11,
+"stat_human_hits": 0,
+"stat_species_hits": 1179585
+},
+"ERR719275": {
+"hashes": 65822,
+"human_hashes": 5,
+"stat_human_hits": 102,
+"stat_species_hits": 1369917
+},
+"ERR719309": {
+"hashes": 68197,
+"human_hashes": 11,
+"stat_human_hits": 26,
+"stat_species_hits": 1008128
+},
+"ERR719314": {
+"hashes": 30007,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 962199
+},
+"ERR719347": {
+"hashes": 36005,
+"human_hashes": 10,
+"stat_human_hits": 25,
+"stat_species_hits": 1034879
+},
+"ERR719362": {
+"hashes": 70283,
+"human_hashes": 4,
+"stat_human_hits": 16,
+"stat_species_hits": 1233637
+},
+"ERR719397": {
+"hashes": 85117,
+"human_hashes": 34,
+"stat_human_hits": 295,
+"stat_species_hits": 996511
+},
+"ERR719409": {
+"hashes": 77797,
+"human_hashes": 12,
+"stat_human_hits": 21,
+"stat_species_hits": 898336
+},
+"ERR719455": {
+"hashes": 83358,
+"human_hashes": 29,
+"stat_human_hits": 452,
+"stat_species_hits": 916942
+},
+"ERR719478": {
+"hashes": 56785,
+"human_hashes": 8,
+"stat_human_hits": 55,
+"stat_species_hits": 1301970
+},
+"ERR719513": {
+"hashes": 56107,
+"human_hashes": 8,
+"stat_human_hits": 15,
+"stat_species_hits": 1435835
+},
+"ERR719521": {
+"hashes": 75191,
+"human_hashes": 12,
+"stat_human_hits": 15,
+"stat_species_hits": 1327008
+},
+"ERR719549": {
+"hashes": 80161,
+"human_hashes": 7,
+"stat_human_hits": 0,
+"stat_species_hits": 1549726
+},
+"ERR719565": {
+"hashes": 78171,
+"human_hashes": 5,
+"stat_human_hits": 41,
+"stat_species_hits": 1203235
+},
+"ERR719618": {
+"hashes": 69237,
+"human_hashes": 13,
+"stat_human_hits": 36,
+"stat_species_hits": 1039618
+},
+"ERR719636": {
+"hashes": 95782,
+"human_hashes": 4,
+"stat_human_hits": 82,
+"stat_species_hits": 843998
+},
+"ERR719668": {
+"hashes": 74090,
+"human_hashes": 9,
+"stat_human_hits": 0,
+"stat_species_hits": 1211223
+},
+"ERR719685": {
+"hashes": 63938,
+"human_hashes": 2,
+"stat_human_hits": 18,
+"stat_species_hits": 558663
+},
+"ERR719702": {
+"hashes": 47212,
+"human_hashes": 14,
+"stat_human_hits": 86,
+"stat_species_hits": 1535518
+},
+"ERR719739": {
+"hashes": 42116,
+"human_hashes": 13,
+"stat_human_hits": 60,
+"stat_species_hits": 1859215
+},
+"ERR719749": {
+"hashes": 67604,
+"human_hashes": 11,
+"stat_human_hits": 17,
+"stat_species_hits": 1563958
+},
+"ERR719792": {
+"hashes": 78724,
+"human_hashes": 11,
+"stat_human_hits": 7,
+"stat_species_hits": 1156431
+},
+"ERR719801": {
+"hashes": 88415,
+"human_hashes": 3,
+"stat_human_hits": 10,
+"stat_species_hits": 1265330
+},
+"ERR719843": {
+"hashes": 76325,
+"human_hashes": 13,
+"stat_human_hits": 42,
+"stat_species_hits": 1502508
+},
+"ERR719864": {
+"hashes": 79678,
+"human_hashes": 13,
+"stat_human_hits": 19,
+"stat_species_hits": 1009361
+},
+"ERR719899": {
+"hashes": 66006,
+"human_hashes": 20,
+"stat_human_hits": 215,
+"stat_species_hits": 1198918
+},
+"ERR719906": {
+"hashes": 87457,
+"human_hashes": 5,
+"stat_human_hits": 47,
+"stat_species_hits": 1249575
+},
+"ERR719934": {
+"hashes": 81653,
+"human_hashes": 3,
+"stat_human_hits": 34,
+"stat_species_hits": 1231724
+},
+"ERR719951": {
+"hashes": 83418,
+"human_hashes": 16,
+"stat_human_hits": 0,
+"stat_species_hits": 1354244
+},
+"ERR719985": {
+"hashes": 94652,
+"human_hashes": 5,
+"stat_human_hits": 33,
+"stat_species_hits": 1176557
+},
+"ERR720041": {
+"hashes": 90004,
+"human_hashes": 11,
+"stat_human_hits": 67,
+"stat_species_hits": 1237079
+},
+"ERR720051": {
+"hashes": 52630,
+"human_hashes": 11,
+"stat_human_hits": 1,
+"stat_species_hits": 749954
+},
+"ERR720080": {
+"hashes": 30107,
+"human_hashes": 16,
+"stat_human_hits": 93,
+"stat_species_hits": 1598116
+},
+"ERR720126": {
+"hashes": 50832,
+"human_hashes": 15,
+"stat_human_hits": 14,
+"stat_species_hits": 1006892
+},
+"ERR720161": {
+"hashes": 74725,
+"human_hashes": 18,
+"stat_human_hits": 0,
+"stat_species_hits": 808861
+},
+"ERR720192": {
+"hashes": 82297,
+"human_hashes": 2,
+"stat_human_hits": 6,
+"stat_species_hits": 744178
+},
+"ERR720206": {
+"hashes": 65593,
+"human_hashes": 34,
+"stat_human_hits": 441,
+"stat_species_hits": 1490779
+},
+"ERR720237": {
+"hashes": 74866,
+"human_hashes": 15,
+"stat_human_hits": 34,
+"stat_species_hits": 1575982
+},
+"SRR2565535": {
+"hashes": 82595,
+"human_hashes": 417,
+"stat_human_hits": 11915,
+"stat_species_hits": 1172396
+},
+"SRR2565536": {
+"hashes": 224400,
+"human_hashes": 214591,
+"stat_human_hits": 3514360,
+"stat_species_hits": 3648993
+},
+"SRR2565540": {
+"hashes": 313591,
+"human_hashes": 276721,
+"stat_human_hits": 4854945,
+"stat_species_hits": 5390933
+},
+"SRR2565541": {
+"hashes": 105892,
+"human_hashes": 26599,
+"stat_human_hits": 592320,
+"stat_species_hits": 3820861
+},
+"SRR2565542": {
+"hashes": 162249,
+"human_hashes": 43551,
+"stat_human_hits": 882419,
+"stat_species_hits": 3419012
+},
+"SRR2565543": {
+"hashes": 55076,
+"human_hashes": 7845,
+"stat_human_hits": 234618,
+"stat_species_hits": 3455488
+},
+"SRR2565547": {
+"hashes": 158663,
+"human_hashes": 39346,
+"stat_human_hits": 707700,
+"stat_species_hits": 1892404
+},
+"SRR2565548": {
+"hashes": 472851,
+"human_hashes": 5912,
+"stat_human_hits": 95722,
+"stat_species_hits": 8827307
+},
+"SRR2565550": {
+"hashes": 95871,
+"human_hashes": 6461,
+"stat_human_hits": 237502,
+"stat_species_hits": 3637349
+},
+"SRR2565551": {
+"hashes": 100973,
+"human_hashes": 8193,
+"stat_human_hits": 282711,
+"stat_species_hits": 2456575
+},
+"SRR2565553": {
+"hashes": 188994,
+"human_hashes": 146953,
+"stat_human_hits": 2504836,
+"stat_species_hits": 3546255
+},
+"SRR2565554": {
+"hashes": 41102,
+"human_hashes": 231,
+"stat_human_hits": 8366,
+"stat_species_hits": 387672
+},
+"SRR2565557": {
+"hashes": 102433,
+"human_hashes": 12598,
+"stat_human_hits": 332695,
+"stat_species_hits": 4612462
+},
+"SRR2565579": {
+"hashes": 120821,
+"human_hashes": 78,
+"stat_human_hits": 5816,
+"stat_species_hits": 4977323
+},
+"SRR2565597": {
+"hashes": 116706,
+"human_hashes": 95,
+"stat_human_hits": 7477,
+"stat_species_hits": 3302627
+},
+"SRR2565647": {
+"hashes": 124625,
+"human_hashes": 16599,
+"stat_human_hits": 518722,
+"stat_species_hits": 4150330
+},
+"SRR2565811": {
+"hashes": 167171,
+"human_hashes": 123118,
+"stat_human_hits": 2143423,
+"stat_species_hits": 3031882
+},
+"SRR2565812": {
+"hashes": 346039,
+"human_hashes": 276938,
+"stat_human_hits": 5428308,
+"stat_species_hits": 6783388
+},
+"SRR2565813": {
+"hashes": 159171,
+"human_hashes": 4215,
+"stat_human_hits": 130158,
+"stat_species_hits": 5390200
+},
+"SRR2565814": {
+"hashes": 143327,
+"human_hashes": 96250,
+"stat_human_hits": 1930871,
+"stat_species_hits": 3252336
+},
+"SRR2565815": {
+"hashes": 121389,
+"human_hashes": 62128,
+"stat_human_hits": 1518609,
+"stat_species_hits": 3718286
+},
+"SRR2565817": {
+"hashes": 157401,
+"human_hashes": 142478,
+"stat_human_hits": 2833813,
+"stat_species_hits": 3034308
+},
+"SRR2565818": {
+"hashes": 172650,
+"human_hashes": 18715,
+"stat_human_hits": 706428,
+"stat_species_hits": 5586112
+},
+"SRR2565820": {
+"hashes": 301384,
+"human_hashes": 186217,
+"stat_human_hits": 2475530,
+"stat_species_hits": 6589558
+},
+"SRR2565826": {
+"hashes": 145000,
+"human_hashes": 3636,
+"stat_human_hits": 179463,
+"stat_species_hits": 7176854
+},
+"SRR2565827": {
+"hashes": 88217,
+"human_hashes": 1310,
+"stat_human_hits": 45252,
+"stat_species_hits": 1681479
+},
+"SRR2565829": {
+"hashes": 315704,
+"human_hashes": 272815,
+"stat_human_hits": 4455962,
+"stat_species_hits": 5025658
+},
+"SRR2565831": {
+"hashes": 215104,
+"human_hashes": 191391,
+"stat_human_hits": 3638987,
+"stat_species_hits": 4024731
+},
+"SRR2565832": {
+"hashes": 112914,
+"human_hashes": 75221,
+"stat_human_hits": 1437592,
+"stat_species_hits": 2339672
+},
+"SRR2565833": {
+"hashes": 65271,
+"human_hashes": 41063,
+"stat_human_hits": 640768,
+"stat_species_hits": 875742
+},
+"SRR2565835": {
+"hashes": 110842,
+"human_hashes": 90876,
+"stat_human_hits": 1867530,
+"stat_species_hits": 2186029
+},
+"SRR2565836": {
+"hashes": 190808,
+"human_hashes": 93843,
+"stat_human_hits": 1804832,
+"stat_species_hits": 3929620
+},
+"SRR2565839": {
+"hashes": 324351,
+"human_hashes": 299127,
+"stat_human_hits": 5563355,
+"stat_species_hits": 5880692
+},
+"SRR2565840": {
+"hashes": 88772,
+"human_hashes": 5788,
+"stat_human_hits": 199969,
+"stat_species_hits": 11337963
+},
+"SRR2565843": {
+"hashes": 154337,
+"human_hashes": 27299,
+"stat_human_hits": 380271,
+"stat_species_hits": 7303646
+},
+"SRR2565844": {
+"hashes": 60402,
+"human_hashes": 698,
+"stat_human_hits": 23070,
+"stat_species_hits": 2611735
+},
+"SRR2565845": {
+"hashes": 88058,
+"human_hashes": 106,
+"stat_human_hits": 6858,
+"stat_species_hits": 673445
+},
+"SRR2565923": {
+"hashes": 75260,
+"human_hashes": 418,
+"stat_human_hits": 46859,
+"stat_species_hits": 4347919
+},
+"SRR2565924": {
+"hashes": 93754,
+"human_hashes": 1193,
+"stat_human_hits": 40439,
+"stat_species_hits": 2540848
+},
+"SRR2565927": {
+"hashes": 178403,
+"human_hashes": 422,
+"stat_human_hits": 14730,
+"stat_species_hits": 4816897
+},
+"SRR2565930": {
+"hashes": 65266,
+"human_hashes": 10325,
+"stat_human_hits": 208624,
+"stat_species_hits": 6054378
+},
+"SRR2565932": {
+"hashes": 68903,
+"human_hashes": 1236,
+"stat_human_hits": 41427,
+"stat_species_hits": 2759198
+},
+"SRR2565933": {
+"hashes": 130705,
+"human_hashes": 49249,
+"stat_human_hits": 888432,
+"stat_species_hits": 2381800
+},
+"SRR2565934": {
+"hashes": 171315,
+"human_hashes": 123205,
+"stat_human_hits": 2004477,
+"stat_species_hits": 3338254
+},
+"SRR2565936": {
+"hashes": 380507,
+"human_hashes": 272340,
+"stat_human_hits": 5464804,
+"stat_species_hits": 12383433
+},
+"SRR2565937": {
+"hashes": 150125,
+"human_hashes": 95456,
+"stat_human_hits": 1884187,
+"stat_species_hits": 3082333
+},
+"SRR2565938": {
+"hashes": 209954,
+"human_hashes": 10900,
+"stat_human_hits": 241371,
+"stat_species_hits": 8561976
+},
+"SRR2565945": {
+"hashes": 104084,
+"human_hashes": 15270,
+"stat_human_hits": 564688,
+"stat_species_hits": 7056092
+},
+"SRR2565946": {
+"hashes": 17696,
+"human_hashes": 1943,
+"stat_human_hits": 119914,
+"stat_species_hits": 1693291
+},
+"SRR2565949": {
+"hashes": 68889,
+"human_hashes": 33346,
+"stat_human_hits": 714165,
+"stat_species_hits": 2045771
+},
+"SRR2565950": {
+"hashes": 237618,
+"human_hashes": 55107,
+"stat_human_hits": 1189032,
+"stat_species_hits": 7354227
+},
+"SRR2565951": {
+"hashes": 70294,
+"human_hashes": 561,
+"stat_human_hits": 12318,
+"stat_species_hits": 2268465
+},
+"SRR2565952": {
+"hashes": 74639,
+"human_hashes": 5424,
+"stat_human_hits": 213806,
+"stat_species_hits": 1447199
+},
+"SRR2565963": {
+"hashes": 47225,
+"human_hashes": 22038,
+"stat_human_hits": 742580,
+"stat_species_hits": 1459251
+},
+"SRR2565964": {
+"hashes": 57839,
+"human_hashes": 20017,
+"stat_human_hits": 362111,
+"stat_species_hits": 7476684
+},
+"SRR2565971": {
+"hashes": 93355,
+"human_hashes": 45869,
+"stat_human_hits": 649119,
+"stat_species_hits": 1168963
+},
+"SRR2565976": {
+"hashes": 196418,
+"human_hashes": 86,
+"stat_human_hits": 6712,
+"stat_species_hits": 3146276
+},
+"SRR2565977": {
+"hashes": 499107,
+"human_hashes": 413815,
+"stat_human_hits": 8309756,
+"stat_species_hits": 9433685
+},
+"SRR2565978": {
+"hashes": 186096,
+"human_hashes": 141891,
+"stat_human_hits": 2932822,
+"stat_species_hits": 3370044
+},
+"SRR2565979": {
+"hashes": 416358,
+"human_hashes": 354103,
+"stat_human_hits": 7794849,
+"stat_species_hits": 11840247
+},
+"SRR2565980": {
+"hashes": 134655,
+"human_hashes": 2009,
+"stat_human_hits": 69645,
+"stat_species_hits": 4897623
+},
+"SRR2565982": {
+"hashes": 70437,
+"human_hashes": 401,
+"stat_human_hits": 14855,
+"stat_species_hits": 1342554
+},
+"SRR2565984": {
+"hashes": 61113,
+"human_hashes": 2944,
+"stat_human_hits": 47345,
+"stat_species_hits": 1477970
+},
+"SRR2565985": {
+"hashes": 141861,
+"human_hashes": 1944,
+"stat_human_hits": 58935,
+"stat_species_hits": 3704750
+},
+"SRR2565987": {
+"hashes": 34147,
+"human_hashes": 915,
+"stat_human_hits": 19413,
+"stat_species_hits": 569081
+},
+"SRR2565988": {
+"hashes": 97987,
+"human_hashes": 9462,
+"stat_human_hits": 267027,
+"stat_species_hits": 1351211
+},
+"SRR2565991": {
+"hashes": 328424,
+"human_hashes": 201651,
+"stat_human_hits": 2661936,
+"stat_species_hits": 4468657
+},
+"SRR2565992": {
+"hashes": 156444,
+"human_hashes": 2550,
+"stat_human_hits": 168629,
+"stat_species_hits": 4592623
+},
+"SRR2565993": {
+"hashes": 259490,
+"human_hashes": 5722,
+"stat_human_hits": 106867,
+"stat_species_hits": 4948124
+},
+"SRR2565996": {
+"hashes": 108252,
+"human_hashes": 898,
+"stat_human_hits": 29297,
+"stat_species_hits": 2908474
+},
+"SRR2565999": {
+"hashes": 34315,
+"human_hashes": 1001,
+"stat_human_hits": 15285,
+"stat_species_hits": 756969
+},
+"SRR2566001": {
+"hashes": 149008,
+"human_hashes": 3717,
+"stat_human_hits": 132462,
+"stat_species_hits": 2317481
+},
+"SRR2566002": {
+"hashes": 107048,
+"human_hashes": 30002,
+"stat_human_hits": 685744,
+"stat_species_hits": 4027023
+},
+"SRR2566003": {
+"hashes": 111238,
+"human_hashes": 1601,
+"stat_human_hits": 49921,
+"stat_species_hits": 4267730
+},
+"SRR2566005": {
+"hashes": 135260,
+"human_hashes": 10914,
+"stat_human_hits": 341293,
+"stat_species_hits": 6635586
+},
+"SRR2566008": {
+"hashes": 81459,
+"human_hashes": 3299,
+"stat_human_hits": 69959,
+"stat_species_hits": 2124925
+},
+"SRR2566009": {
+"hashes": 164120,
+"human_hashes": 10130,
+"stat_human_hits": 266676,
+"stat_species_hits": 4261787
+},
+"SRR2566011": {
+"hashes": 202779,
+"human_hashes": 2245,
+"stat_human_hits": 92833,
+"stat_species_hits": 5316692
+},
+"SRR2566012": {
+"hashes": 202939,
+"human_hashes": 2834,
+"stat_human_hits": 65792,
+"stat_species_hits": 3769472
+},
+"SRR2566013": {
+"hashes": 114328,
+"human_hashes": 971,
+"stat_human_hits": 34937,
+"stat_species_hits": 2778162
+},
+"SRR2566014": {
+"hashes": 114672,
+"human_hashes": 6651,
+"stat_human_hits": 310472,
+"stat_species_hits": 4957600
+},
+"SRR2566015": {
+"hashes": 330434,
+"human_hashes": 169948,
+"stat_human_hits": 3016677,
+"stat_species_hits": 7494278
+},
+"SRR2566021": {
+"hashes": 139491,
+"human_hashes": 82777,
+"stat_human_hits": 1794024,
+"stat_species_hits": 2498449
+},
+"SRR2566022": {
+"hashes": 70583,
+"human_hashes": 8712,
+"stat_human_hits": 123253,
+"stat_species_hits": 977846
+},
+"SRR2566023": {
+"hashes": 195799,
+"human_hashes": 379,
+"stat_human_hits": 10315,
+"stat_species_hits": 5781740
+},
+"SRR2566025": {
+"hashes": 111284,
+"human_hashes": 3027,
+"stat_human_hits": 90923,
+"stat_species_hits": 4351247
+},
+"SRR2566026": {
+"hashes": 57560,
+"human_hashes": 46730,
+"stat_human_hits": 937627,
+"stat_species_hits": 1139893
+},
+"SRR2566027": {
+"hashes": 79250,
+"human_hashes": 38939,
+"stat_human_hits": 879084,
+"stat_species_hits": 1471647
+},
+"SRR2566028": {
+"hashes": 36928,
+"human_hashes": 5200,
+"stat_human_hits": 143907,
+"stat_species_hits": 755711
+},
+"SRR2566030": {
+"hashes": 208845,
+"human_hashes": 8991,
+"stat_human_hits": 300952,
+"stat_species_hits": 3157556
+},
+"SRR2566033": {
+"hashes": 180422,
+"human_hashes": 70796,
+"stat_human_hits": 1409660,
+"stat_species_hits": 3595391
+},
+"SRR2566037": {
+"hashes": 142379,
+"human_hashes": 4851,
+"stat_human_hits": 195170,
+"stat_species_hits": 3059176
+},
+"SRR2566038": {
+"hashes": 214704,
+"human_hashes": 33309,
+"stat_human_hits": 769892,
+"stat_species_hits": 5623789
+},
+"SRR2566039": {
+"hashes": 166740,
+"human_hashes": 97349,
+"stat_human_hits": 1868769,
+"stat_species_hits": 3359553
+},
+"SRR2566042": {
+"hashes": 178638,
+"human_hashes": 813,
+"stat_human_hits": 26519,
+"stat_species_hits": 3603529
+},
+"SRR2566043": {
+"hashes": 128151,
+"human_hashes": 999,
+"stat_human_hits": 80190,
+"stat_species_hits": 2059317
+},
+"SRR2566044": {
+"hashes": 83407,
+"human_hashes": 6974,
+"stat_human_hits": 177011,
+"stat_species_hits": 3224415
+},
+"SRR2566046": {
+"hashes": 245815,
+"human_hashes": 214129,
+"stat_human_hits": 4136486,
+"stat_species_hits": 4582140
+},
+"SRR2566047": {
+"hashes": 67183,
+"human_hashes": 10182,
+"stat_human_hits": 306498,
+"stat_species_hits": 1244659
+},
+"SRR2566049": {
+"hashes": 217355,
+"human_hashes": 187732,
+"stat_human_hits": 3372983,
+"stat_species_hits": 4436249
+},
+"SRR2566050": {
+"hashes": 451967,
+"human_hashes": 284195,
+"stat_human_hits": 3637911,
+"stat_species_hits": 5035187
+},
+"SRR2566052": {
+"hashes": 126529,
+"human_hashes": 14689,
+"stat_human_hits": 409420,
+"stat_species_hits": 3057994
+},
+"SRR2566053": {
+"hashes": 189360,
+"human_hashes": 137275,
+"stat_human_hits": 2743387,
+"stat_species_hits": 3813922
+},
+"SRR2566056": {
+"hashes": 92860,
+"human_hashes": 13749,
+"stat_human_hits": 317384,
+"stat_species_hits": 2910593
+},
+"SRR2566057": {
+"hashes": 108701,
+"human_hashes": 51591,
+"stat_human_hits": 1017941,
+"stat_species_hits": 1807225
+},
+"SRR2566058": {
+"hashes": 77096,
+"human_hashes": 5108,
+"stat_human_hits": 177888,
+"stat_species_hits": 3737945
+},
+"SRR2566059": {
+"hashes": 120807,
+"human_hashes": 11467,
+"stat_human_hits": 359554,
+"stat_species_hits": 4424013
+},
+"SRR2566060": {
+"hashes": 144255,
+"human_hashes": 5372,
+"stat_human_hits": 258543,
+"stat_species_hits": 9217050
+},
+"SRR2566061": {
+"hashes": 167937,
+"human_hashes": 21233,
+"stat_human_hits": 584944,
+"stat_species_hits": 2204946
+},
+"SRR2566062": {
+"hashes": 94558,
+"human_hashes": 2630,
+"stat_human_hits": 72811,
+"stat_species_hits": 1160471
+},
+"SRR2566063": {
+"hashes": 58289,
+"human_hashes": 5065,
+"stat_human_hits": 145803,
+"stat_species_hits": 2910305
+},
+"SRR2566064": {
+"hashes": 95041,
+"human_hashes": 1716,
+"stat_human_hits": 85381,
+"stat_species_hits": 1410997
+},
+"SRR2566065": {
+"hashes": 301625,
+"human_hashes": 268376,
+"stat_human_hits": 4462626,
+"stat_species_hits": 5210696
+},
+"SRR2566066": {
+"hashes": 314768,
+"human_hashes": 294418,
+"stat_human_hits": 4663193,
+"stat_species_hits": 4949305
+},
+"SRR2566067": {
+"hashes": 238005,
+"human_hashes": 193410,
+"stat_human_hits": 3745514,
+"stat_species_hits": 5059967
+},
+"SRR2566068": {
+"hashes": 445864,
+"human_hashes": 349134,
+"stat_human_hits": 7604647,
+"stat_species_hits": 9812440
+},
+"SRR2566069": {
+"hashes": 249725,
+"human_hashes": 193641,
+"stat_human_hits": 3366440,
+"stat_species_hits": 4205141
+},
+"SRR2583966": {
+"hashes": 84302,
+"human_hashes": 304,
+"stat_human_hits": 6952,
+"stat_species_hits": 1756268
+},
+"SRR2583970": {
+"hashes": 208444,
+"human_hashes": 112901,
+"stat_human_hits": 2224001,
+"stat_species_hits": 9708606
+},
+"SRR2583981": {
+"hashes": 212402,
+"human_hashes": 94285,
+"stat_human_hits": 2363859,
+"stat_species_hits": 4468928
+},
+"SRR2583985": {
+"hashes": 188642,
+"human_hashes": 129554,
+"stat_human_hits": 2563557,
+"stat_species_hits": 4135703
+},
+"SRR2583988": {
+"hashes": 73925,
+"human_hashes": 6,
+"stat_human_hits": 1688,
+"stat_species_hits": 1966830
+},
+"SRR3313034": {
+"hashes": 296082,
+"human_hashes": 9,
+"stat_human_hits": 118,
+"stat_species_hits": 4279521
+},
+"SRR3313037": {
+"hashes": 182948,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 6080341
+},
+"SRR3313041": {
+"hashes": 205859,
+"human_hashes": 7,
+"stat_human_hits": 100,
+"stat_species_hits": 5423320
+},
+"SRR3313042": {
+"hashes": 204946,
+"human_hashes": 12,
+"stat_human_hits": 169,
+"stat_species_hits": 6910034
+},
+"SRR3313044": {
+"hashes": 207885,
+"human_hashes": 46,
+"stat_human_hits": 985,
+"stat_species_hits": 4271646
+},
+"SRR3313045": {
+"hashes": 199574,
+"human_hashes": 11,
+"stat_human_hits": 150,
+"stat_species_hits": 5234566
+},
+"SRR3313046": {
+"hashes": 333013,
+"human_hashes": 6,
+"stat_human_hits": 0,
+"stat_species_hits": 4011899
+},
+"SRR3313048": {
+"hashes": 203105,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 4976650
+},
+"SRR3313049": {
+"hashes": 192539,
+"human_hashes": 2,
+"stat_human_hits": 37,
+"stat_species_hits": 5051482
+},
+"SRR3313050": {
+"hashes": 302030,
+"human_hashes": 23,
+"stat_human_hits": 382,
+"stat_species_hits": 4019951
+},
+"SRR3313052": {
+"hashes": 298282,
+"human_hashes": 34,
+"stat_human_hits": 699,
+"stat_species_hits": 4400961
+},
+"SRR3313053": {
+"hashes": 187618,
+"human_hashes": 9,
+"stat_human_hits": 113,
+"stat_species_hits": 4172695
+},
+"SRR3313054": {
+"hashes": 176609,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 4889225
+},
+"SRR3313055": {
+"hashes": 282979,
+"human_hashes": 12,
+"stat_human_hits": 340,
+"stat_species_hits": 4059821
+},
+"SRR3313056": {
+"hashes": 297050,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 4047201
+},
+"SRR3313057": {
+"hashes": 263515,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 7074234
+},
+"SRR3313064": {
+"hashes": 136981,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 5151552
+},
+"SRR3313065": {
+"hashes": 186517,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 6498921
+},
+"SRR3313066": {
+"hashes": 123129,
+"human_hashes": 19,
+"stat_human_hits": 308,
+"stat_species_hits": 7052077
+},
+"SRR3313067": {
+"hashes": 170555,
+"human_hashes": 134,
+"stat_human_hits": 2660,
+"stat_species_hits": 7718092
+},
+"SRR3313079": {
+"hashes": 266394,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 7807926
+},
+"SRR3313081": {
+"hashes": 182695,
+"human_hashes": 124,
+"stat_human_hits": 2277,
+"stat_species_hits": 6486787
+},
+"SRR3313082": {
+"hashes": 269697,
+"human_hashes": 7,
+"stat_human_hits": 0,
+"stat_species_hits": 4635134
+},
+"SRR3313090": {
+"hashes": 209833,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 4833774
+},
+"SRR3313113": {
+"hashes": 203200,
+"human_hashes": 3,
+"stat_human_hits": 55,
+"stat_species_hits": 6200505
+},
+"SRR3313123": {
+"hashes": 275181,
+"human_hashes": 8,
+"stat_human_hits": 129,
+"stat_species_hits": 4248462
+},
+"SRR5155752": {
+"hashes": 126710,
+"human_hashes": 6,
+"stat_human_hits": 192,
+"stat_species_hits": 2308461
+},
+"SRR5155753": {
+"hashes": 84995,
+"human_hashes": 25,
+"stat_human_hits": 623,
+"stat_species_hits": 904849
+},
+"SRR5155802": {
+"hashes": 112380,
+"human_hashes": 13,
+"stat_human_hits": 352,
+"stat_species_hits": 2981032
+},
+"SRR5155811": {
+"hashes": 75409,
+"human_hashes": 12857,
+"stat_human_hits": 299579,
+"stat_species_hits": 1214369
+},
+"SRR5155829": {
+"hashes": 81038,
+"human_hashes": 0,
+"stat_human_hits": 72,
+"stat_species_hits": 2541278
+},
+"SRR5155839": {
+"hashes": 73426,
+"human_hashes": 5,
+"stat_human_hits": 182,
+"stat_species_hits": 2214514
+},
+"SRR5155840": {
+"hashes": 131564,
+"human_hashes": 13,
+"stat_human_hits": 411,
+"stat_species_hits": 2745460
+},
+"SRR5155860": {
+"hashes": 121947,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 1782091
+},
+"SRR5155891": {
+"hashes": 83673,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 1668488
+},
+"SRR5155904": {
+"hashes": 82727,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 3250200
+},
+"SRR5155933": {
+"hashes": 105171,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 3082476
+},
+"SRR5155942": {
+"hashes": 166621,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 3018937
+},
+"SRR5155943": {
+"hashes": 115944,
+"human_hashes": 17,
+"stat_human_hits": 575,
+"stat_species_hits": 2261391
+},
+"SRR5155966": {
+"hashes": 118166,
+"human_hashes": 0,
+"stat_human_hits": 27,
+"stat_species_hits": 2253454
+},
+"SRR5155969": {
+"hashes": 109630,
+"human_hashes": 2,
+"stat_human_hits": 140,
+"stat_species_hits": 1203705
+},
+"SRR5155981": {
+"hashes": 124709,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2405699
+},
+"SRR5155989": {
+"hashes": 127884,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2619103
+},
+"SRR5155995": {
+"hashes": 115862,
+"human_hashes": 14,
+"stat_human_hits": 436,
+"stat_species_hits": 2406962
+},
+"SRR5156014": {
+"hashes": 90390,
+"human_hashes": 10,
+"stat_human_hits": 273,
+"stat_species_hits": 1358068
+},
+"SRR5156020": {
+"hashes": 90644,
+"human_hashes": 2,
+"stat_human_hits": 49,
+"stat_species_hits": 3713750
+},
+"SRR5156023": {
+"hashes": 104321,
+"human_hashes": 0,
+"stat_human_hits": 17,
+"stat_species_hits": 2246336
+},
+"SRR5156085": {
+"hashes": 119746,
+"human_hashes": 1,
+"stat_human_hits": 64,
+"stat_species_hits": 3053527
+},
+"SRR5156094": {
+"hashes": 118243,
+"human_hashes": 10,
+"stat_human_hits": 215,
+"stat_species_hits": 3713398
+},
+"SRR5156107": {
+"hashes": 139454,
+"human_hashes": 1,
+"stat_human_hits": 114,
+"stat_species_hits": 2052330
+},
+"SRR5156108": {
+"hashes": 103115,
+"human_hashes": 0,
+"stat_human_hits": 22,
+"stat_species_hits": 2403999
+},
+"SRR5156112": {
+"hashes": 61408,
+"human_hashes": 41,
+"stat_human_hits": 1742,
+"stat_species_hits": 1518626
+},
+"SRR5156127": {
+"hashes": 97161,
+"human_hashes": 4,
+"stat_human_hits": 0,
+"stat_species_hits": 3304666
+},
+"SRR5156148": {
+"hashes": 139506,
+"human_hashes": 15,
+"stat_human_hits": 489,
+"stat_species_hits": 2600574
+},
+"SRR5156153": {
+"hashes": 131951,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 2619075
+},
+"SRR5156155": {
+"hashes": 107768,
+"human_hashes": 11,
+"stat_human_hits": 321,
+"stat_species_hits": 2702345
+},
+"SRR5156158": {
+"hashes": 103280,
+"human_hashes": 0,
+"stat_human_hits": 49,
+"stat_species_hits": 1755332
+},
+"SRR5156161": {
+"hashes": 140951,
+"human_hashes": 4,
+"stat_human_hits": 0,
+"stat_species_hits": 4646085
+},
+"SRR5156164": {
+"hashes": 144798,
+"human_hashes": 78,
+"stat_human_hits": 1492,
+"stat_species_hits": 3175365
+},
+"SRR5156212": {
+"hashes": 157932,
+"human_hashes": 7,
+"stat_human_hits": 292,
+"stat_species_hits": 3051304
+},
+"SRR5156229": {
+"hashes": 150961,
+"human_hashes": 1066,
+"stat_human_hits": 23577,
+"stat_species_hits": 2683237
+},
+"SRR5164022": {
+"hashes": 167358,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2502715
+},
+"SRR5164116": {
+"hashes": 81653,
+"human_hashes": 2,
+"stat_human_hits": 189,
+"stat_species_hits": 1061006
+},
+"SRR5164249": {
+"hashes": 10240,
+"human_hashes": 2,
+"stat_human_hits": 128,
+"stat_species_hits": 911110
+},
+"SRR5164401": {
+"hashes": 102213,
+"human_hashes": 1,
+"stat_human_hits": 6,
+"stat_species_hits": 1347197
+},
+"SRR5165674": {
+"hashes": 129182,
+"human_hashes": 7,
+"stat_human_hits": 81,
+"stat_species_hits": 4182790
+},
+"SRR5165691": {
+"hashes": 140895,
+"human_hashes": 2,
+"stat_human_hits": 70,
+"stat_species_hits": 1757811
+},
+"SRR5165698": {
+"hashes": 122349,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 1890382
+},
+"SRR5165712": {
+"hashes": 96753,
+"human_hashes": 3,
+"stat_human_hits": 116,
+"stat_species_hits": 2014049
+},
+"SRR5165715": {
+"hashes": 72396,
+"human_hashes": 28,
+"stat_human_hits": 847,
+"stat_species_hits": 1037878
+},
+"SRR5165716": {
+"hashes": 107323,
+"human_hashes": 30,
+"stat_human_hits": 818,
+"stat_species_hits": 1948369
+},
+"SRR5165727": {
+"hashes": 59909,
+"human_hashes": 7,
+"stat_human_hits": 225,
+"stat_species_hits": 2395152
+},
+"SRR5165828": {
+"hashes": 89706,
+"human_hashes": 3,
+"stat_human_hits": 89,
+"stat_species_hits": 1603353
+},
+"SRR5165831": {
+"hashes": 77470,
+"human_hashes": 19,
+"stat_human_hits": 822,
+"stat_species_hits": 1789950
+},
+"SRR5165851": {
+"hashes": 110037,
+"human_hashes": 2,
+"stat_human_hits": 61,
+"stat_species_hits": 1746972
+},
+"SRR5165875": {
+"hashes": 85097,
+"human_hashes": 12,
+"stat_human_hits": 590,
+"stat_species_hits": 1917279
+},
+"SRR5165876": {
+"hashes": 57960,
+"human_hashes": 12,
+"stat_human_hits": 531,
+"stat_species_hits": 908966
+},
+"SRR5165885": {
+"hashes": 107332,
+"human_hashes": 4,
+"stat_human_hits": 97,
+"stat_species_hits": 3297955
+},
+"SRR5165943": {
+"hashes": 127162,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 2665927
+},
+"SRR5165952": {
+"hashes": 86870,
+"human_hashes": 9,
+"stat_human_hits": 374,
+"stat_species_hits": 2313050
+},
+"SRR5166004": {
+"hashes": 105132,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 2791425
+},
+"SRR5166006": {
+"hashes": 94757,
+"human_hashes": 0,
+"stat_human_hits": 17,
+"stat_species_hits": 1915673
+},
+"SRR5935748": {
+"hashes": 143094,
+"human_hashes": 67,
+"stat_human_hits": 264,
+"stat_species_hits": 4321734
+},
+"SRR5935753": {
+"hashes": 104257,
+"human_hashes": 10,
+"stat_human_hits": 0,
+"stat_species_hits": 3645975
+},
+"SRR5935763": {
+"hashes": 58328,
+"human_hashes": 1482,
+"stat_human_hits": 11225,
+"stat_species_hits": 2236538
+},
+"SRR5935787": {
+"hashes": 61726,
+"human_hashes": 105,
+"stat_human_hits": 415,
+"stat_species_hits": 2994260
+},
+"SRR5935796": {
+"hashes": 154458,
+"human_hashes": 138,
+"stat_human_hits": 639,
+"stat_species_hits": 5374647
+},
+"SRR5935808": {
+"hashes": 92312,
+"human_hashes": 12,
+"stat_human_hits": 0,
+"stat_species_hits": 3248739
+},
+"SRR5935812": {
+"hashes": 115304,
+"human_hashes": 315,
+"stat_human_hits": 1709,
+"stat_species_hits": 3203116
+},
+"SRR5935817": {
+"hashes": 100653,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 4420883
+},
+"SRR5935825": {
+"hashes": 158885,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 2614120
+},
+"SRR5935841": {
+"hashes": 55858,
+"human_hashes": 56,
+"stat_human_hits": 166,
+"stat_species_hits": 1909903
+},
+"SRR5935845": {
+"hashes": 124060,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 3626302
+},
+"SRR5935850": {
+"hashes": 117947,
+"human_hashes": 84,
+"stat_human_hits": 325,
+"stat_species_hits": 3862185
+},
+"SRR5935908": {
+"hashes": 76904,
+"human_hashes": 4,
+"stat_human_hits": 0,
+"stat_species_hits": 2299663
+},
+"SRR5935937": {
+"hashes": 93167,
+"human_hashes": 4,
+"stat_human_hits": 0,
+"stat_species_hits": 4496366
+},
+"SRR5935976": {
+"hashes": 100081,
+"human_hashes": 4,
+"stat_human_hits": 46,
+"stat_species_hits": 3348300
+},
+"SRR5935979": {
+"hashes": 78883,
+"human_hashes": 16,
+"stat_human_hits": 60,
+"stat_species_hits": 2709079
+},
+"SRR5935986": {
+"hashes": 111745,
+"human_hashes": 5,
+"stat_human_hits": 30,
+"stat_species_hits": 5175562
+},
+"SRR5936036": {
+"hashes": 111355,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 4960005
+},
+"SRR5936053": {
+"hashes": 60028,
+"human_hashes": 25,
+"stat_human_hits": 79,
+"stat_species_hits": 2920057
+},
+"SRR5936062": {
+"hashes": 68412,
+"human_hashes": 75,
+"stat_human_hits": 0,
+"stat_species_hits": 3192305
+},
+"SRR5936069": {
+"hashes": 40871,
+"human_hashes": 1682,
+"stat_human_hits": 13076,
+"stat_species_hits": 902058
+},
+"SRR5936072": {
+"hashes": 97747,
+"human_hashes": 24,
+"stat_human_hits": 0,
+"stat_species_hits": 4748988
+},
+"SRR5936119": {
+"hashes": 66431,
+"human_hashes": 14,
+"stat_human_hits": 37,
+"stat_species_hits": 1044833
+},
+"SRR5936185": {
+"hashes": 131006,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 3095051
+},
+"SRR5936190": {
+"hashes": 21700,
+"human_hashes": 2692,
+"stat_human_hits": 21457,
+"stat_species_hits": 245591
+},
+"SRR5936195": {
+"hashes": 182187,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 3304952
+},
+"SRR5936231": {
+"hashes": 169055,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 4354286
+},
+"SRR5936233": {
+"hashes": 128588,
+"human_hashes": 42,
+"stat_human_hits": 118,
+"stat_species_hits": 5704945
+},
+"SRR5946607": {
+"hashes": 71047,
+"human_hashes": 56,
+"stat_human_hits": 331,
+"stat_species_hits": 2787284
+},
+"SRR5946638": {
+"hashes": 104633,
+"human_hashes": 16,
+"stat_human_hits": 0,
+"stat_species_hits": 4475703
+},
+"SRR5946654": {
+"hashes": 90277,
+"human_hashes": 27,
+"stat_human_hits": 97,
+"stat_species_hits": 2249052
+},
+"SRR5946666": {
+"hashes": 81643,
+"human_hashes": 76,
+"stat_human_hits": 269,
+"stat_species_hits": 1545376
+},
+"SRR5946670": {
+"hashes": 111059,
+"human_hashes": 6,
+"stat_human_hits": 0,
+"stat_species_hits": 3222730
+},
+"SRR5946686": {
+"hashes": 65066,
+"human_hashes": 243,
+"stat_human_hits": 1195,
+"stat_species_hits": 1742104
+},
+"SRR5946693": {
+"hashes": 86213,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 3466678
+},
+"SRR5946706": {
+"hashes": 121401,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 3608897
+},
+"SRR5946707": {
+"hashes": 139232,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 3298249
+},
+"SRR5946709": {
+"hashes": 174692,
+"human_hashes": 40,
+"stat_human_hits": 161,
+"stat_species_hits": 3203566
+},
+"SRR5946711": {
+"hashes": 140575,
+"human_hashes": 3,
+"stat_human_hits": 0,
+"stat_species_hits": 2214321
+},
+"SRR5946713": {
+"hashes": 91649,
+"human_hashes": 21,
+"stat_human_hits": 0,
+"stat_species_hits": 1226140
+},
+"SRR5946714": {
+"hashes": 84170,
+"human_hashes": 361,
+"stat_human_hits": 2302,
+"stat_species_hits": 2438189
+},
+"SRR5946715": {
+"hashes": 53906,
+"human_hashes": 1231,
+"stat_human_hits": 8884,
+"stat_species_hits": 1340055
+},
+"SRR5946720": {
+"hashes": 8201,
+"human_hashes": 1477,
+"stat_human_hits": 10811,
+"stat_species_hits": 45545
+},
+"SRR5946776": {
+"hashes": 218905,
+"human_hashes": 8,
+"stat_human_hits": 0,
+"stat_species_hits": 6708786
+},
+"SRR5946803": {
+"hashes": 118952,
+"human_hashes": 104,
+"stat_human_hits": 357,
+"stat_species_hits": 2173320
+},
+"SRR5946823": {
+"hashes": 150921,
+"human_hashes": 78,
+"stat_human_hits": 406,
+"stat_species_hits": 3772510
+},
+"SRR5946831": {
+"hashes": 156948,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 4411631
+},
+"SRR5946848": {
+"hashes": 30738,
+"human_hashes": 2046,
+"stat_human_hits": 17440,
+"stat_species_hits": 738747
+},
+"SRR5946852": {
+"hashes": 135033,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 4809804
+},
+"SRR5946871": {
+"hashes": 88426,
+"human_hashes": 4,
+"stat_human_hits": 0,
+"stat_species_hits": 2429101
+},
+"SRR5946889": {
+"hashes": 193109,
+"human_hashes": 9,
+"stat_human_hits": 0,
+"stat_species_hits": 4362088
+},
+"SRR5946895": {
+"hashes": 98816,
+"human_hashes": 24,
+"stat_human_hits": 0,
+"stat_species_hits": 1122265
+},
+"SRR5946909": {
+"hashes": 58905,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 1734988
+},
+"SRR5946935": {
+"hashes": 73555,
+"human_hashes": 47,
+"stat_human_hits": 159,
+"stat_species_hits": 2156236
+},
+"SRR5946952": {
+"hashes": 104435,
+"human_hashes": 6,
+"stat_human_hits": 24,
+"stat_species_hits": 1894519
+},
+"SRR5946962": {
+"hashes": 100734,
+"human_hashes": 27,
+"stat_human_hits": 114,
+"stat_species_hits": 1664373
+},
+"SRR5946966": {
+"hashes": 154626,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 2393490
+},
+"SRR5946981": {
+"hashes": 198247,
+"human_hashes": 18,
+"stat_human_hits": 0,
+"stat_species_hits": 2778139
+},
+"SRR5947015": {
+"hashes": 101155,
+"human_hashes": 7,
+"stat_human_hits": 0,
+"stat_species_hits": 4174165
+},
+"SRR5947018": {
+"hashes": 194172,
+"human_hashes": 23,
+"stat_human_hits": 128,
+"stat_species_hits": 3787926
+},
+"SRR5947019": {
+"hashes": 128175,
+"human_hashes": 13,
+"stat_human_hits": 53,
+"stat_species_hits": 3264741
+},
+"SRR5947020": {
+"hashes": 96867,
+"human_hashes": 7,
+"stat_human_hits": 35,
+"stat_species_hits": 2263605
+},
+"SRR5947057": {
+"hashes": 89058,
+"human_hashes": 11,
+"stat_human_hits": 0,
+"stat_species_hits": 5021661
+},
+"SRR5947058": {
+"hashes": 80351,
+"human_hashes": 15,
+"stat_human_hits": 46,
+"stat_species_hits": 1354984
+},
+"SRR5947071": {
+"hashes": 103490,
+"human_hashes": 206,
+"stat_human_hits": 1106,
+"stat_species_hits": 4151441
+},
+"SRR5947081": {
+"hashes": 143189,
+"human_hashes": 24,
+"stat_human_hits": 96,
+"stat_species_hits": 7370544
+},
+"SRR5947088": {
+"hashes": 72151,
+"human_hashes": 13,
+"stat_human_hits": 0,
+"stat_species_hits": 2143096
+},
+"SRR5947100": {
+"hashes": 101246,
+"human_hashes": 27,
+"stat_human_hits": 74,
+"stat_species_hits": 2597403
+},
+"SRR5947103": {
+"hashes": 32912,
+"human_hashes": 2062,
+"stat_human_hits": 14928,
+"stat_species_hits": 347139
+},
+"SRR5950484": {
+"hashes": 81381,
+"human_hashes": 2,
+"stat_human_hits": 11,
+"stat_species_hits": 1355195
+},
+"SRR5950485": {
+"hashes": 62959,
+"human_hashes": 1068,
+"stat_human_hits": 7871,
+"stat_species_hits": 1074669
+},
+"SRR5950490": {
+"hashes": 95981,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 2898622
+},
+"SRR5950493": {
+"hashes": 29554,
+"human_hashes": 1586,
+"stat_human_hits": 10516,
+"stat_species_hits": 627019
+},
+"SRR5950509": {
+"hashes": 138369,
+"human_hashes": 8,
+"stat_human_hits": 45,
+"stat_species_hits": 3054083
+},
+"SRR5950520": {
+"hashes": 205015,
+"human_hashes": 22,
+"stat_human_hits": 32,
+"stat_species_hits": 5205717
+},
+"SRR5950538": {
+"hashes": 111701,
+"human_hashes": 101,
+"stat_human_hits": 399,
+"stat_species_hits": 1922620
+},
+"SRR5950539": {
+"hashes": 46686,
+"human_hashes": 79,
+"stat_human_hits": 385,
+"stat_species_hits": 1059215
+},
+"SRR5950541": {
+"hashes": 121657,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 2508303
+},
+"SRR5950543": {
+"hashes": 87901,
+"human_hashes": 6,
+"stat_human_hits": 0,
+"stat_species_hits": 2540882
+},
+"SRR5950551": {
+"hashes": 130241,
+"human_hashes": 26,
+"stat_human_hits": 0,
+"stat_species_hits": 3308777
+},
+"SRR5950564": {
+"hashes": 86346,
+"human_hashes": 9,
+"stat_human_hits": 25,
+"stat_species_hits": 1091895
+},
+"SRR5950593": {
+"hashes": 73962,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 1668904
+},
+"SRR5950594": {
+"hashes": 98435,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 2496388
+},
+"SRR5950612": {
+"hashes": 120648,
+"human_hashes": 9,
+"stat_human_hits": 33,
+"stat_species_hits": 5068852
+},
+"SRR5950618": {
+"hashes": 141734,
+"human_hashes": 12,
+"stat_human_hits": 0,
+"stat_species_hits": 5203764
+},
+"SRR5950626": {
+"hashes": 73484,
+"human_hashes": 12,
+"stat_human_hits": 0,
+"stat_species_hits": 2297932
+},
+"SRR5950686": {
+"hashes": 178630,
+"human_hashes": 4,
+"stat_human_hits": 29,
+"stat_species_hits": 3113083
+},
+"SRR5950750": {
+"hashes": 109720,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 2806241
+},
+"SRR5950756": {
+"hashes": 128534,
+"human_hashes": 1,
+"stat_human_hits": 0,
+"stat_species_hits": 2972833
+},
+"SRR5950760": {
+"hashes": 108938,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 1706064
+},
+"SRR5950766": {
+"hashes": 47887,
+"human_hashes": 2254,
+"stat_human_hits": 17105,
+"stat_species_hits": 524969
+},
+"SRR5950771": {
+"hashes": 97140,
+"human_hashes": 7,
+"stat_human_hits": 0,
+"stat_species_hits": 1587826
+},
+"SRR5950774": {
+"hashes": 48349,
+"human_hashes": 4,
+"stat_human_hits": 17,
+"stat_species_hits": 2092568
+},
+"SRR5950775": {
+"hashes": 145696,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 1752742
+},
+"SRR5950776": {
+"hashes": 25345,
+"human_hashes": 1529,
+"stat_human_hits": 10158,
+"stat_species_hits": 639172
+},
+"SRR5950790": {
+"hashes": 103723,
+"human_hashes": 23,
+"stat_human_hits": 171,
+"stat_species_hits": 3453815
+},
+"SRR6028164": {
+"hashes": 147866,
+"human_hashes": 19,
+"stat_human_hits": 74,
+"stat_species_hits": 2343518
+},
+"SRR6028166": {
+"hashes": 208218,
+"human_hashes": 87,
+"stat_human_hits": 650,
+"stat_species_hits": 2612106
+},
+"SRR6028171": {
+"hashes": 153292,
+"human_hashes": 171,
+"stat_human_hits": 1767,
+"stat_species_hits": 2252248
+},
+"SRR6028172": {
+"hashes": 208923,
+"human_hashes": 257,
+"stat_human_hits": 1758,
+"stat_species_hits": 3025030
+},
+"SRR6028173": {
+"hashes": 245935,
+"human_hashes": 37,
+"stat_human_hits": 0,
+"stat_species_hits": 3539120
+},
+"SRR6028174": {
+"hashes": 237937,
+"human_hashes": 53,
+"stat_human_hits": 288,
+"stat_species_hits": 2978296
+},
+"SRR6028175": {
+"hashes": 157774,
+"human_hashes": 47,
+"stat_human_hits": 318,
+"stat_species_hits": 2690120
+},
+"SRR6028178": {
+"hashes": 94878,
+"human_hashes": 25,
+"stat_human_hits": 0,
+"stat_species_hits": 1024732
+},
+"SRR6028179": {
+"hashes": 216601,
+"human_hashes": 135,
+"stat_human_hits": 822,
+"stat_species_hits": 3072254
+},
+"SRR6028182": {
+"hashes": 146743,
+"human_hashes": 30,
+"stat_human_hits": 130,
+"stat_species_hits": 1826530
+},
+"SRR6028185": {
+"hashes": 225616,
+"human_hashes": 238,
+"stat_human_hits": 1659,
+"stat_species_hits": 3421290
+},
+"SRR6028187": {
+"hashes": 215466,
+"human_hashes": 41,
+"stat_human_hits": 255,
+"stat_species_hits": 1936136
+},
+"SRR6028188": {
+"hashes": 201684,
+"human_hashes": 44,
+"stat_human_hits": 213,
+"stat_species_hits": 1945541
+},
+"SRR6028189": {
+"hashes": 197082,
+"human_hashes": 105,
+"stat_human_hits": 743,
+"stat_species_hits": 2635923
+},
+"SRR6028191": {
+"hashes": 208892,
+"human_hashes": 39,
+"stat_human_hits": 358,
+"stat_species_hits": 3829121
+},
+"SRR6028192": {
+"hashes": 176647,
+"human_hashes": 37,
+"stat_human_hits": 173,
+"stat_species_hits": 3140193
+},
+"SRR6028193": {
+"hashes": 120716,
+"human_hashes": 277,
+"stat_human_hits": 1846,
+"stat_species_hits": 3225297
+},
+"SRR6028195": {
+"hashes": 68282,
+"human_hashes": 215,
+"stat_human_hits": 2980,
+"stat_species_hits": 1000336
+},
+"SRR6028196": {
+"hashes": 102791,
+"human_hashes": 1522,
+"stat_human_hits": 9468,
+"stat_species_hits": 1852016
+},
+"SRR6028199": {
+"hashes": 175719,
+"human_hashes": 29,
+"stat_human_hits": 298,
+"stat_species_hits": 2272173
+},
+"SRR6028203": {
+"hashes": 156681,
+"human_hashes": 201,
+"stat_human_hits": 1618,
+"stat_species_hits": 1622286
+},
+"SRR6028204": {
+"hashes": 230986,
+"human_hashes": 3997,
+"stat_human_hits": 24046,
+"stat_species_hits": 2178215
+},
+"SRR6028206": {
+"hashes": 218097,
+"human_hashes": 416,
+"stat_human_hits": 1410,
+"stat_species_hits": 3071050
+},
+"SRR6028207": {
+"hashes": 236825,
+"human_hashes": 37,
+"stat_human_hits": 149,
+"stat_species_hits": 6114350
+},
+"SRR6028210": {
+"hashes": 258242,
+"human_hashes": 142,
+"stat_human_hits": 804,
+"stat_species_hits": 2934052
+},
+"SRR6028211": {
+"hashes": 171948,
+"human_hashes": 50,
+"stat_human_hits": 331,
+"stat_species_hits": 1900401
+},
+"SRR6028212": {
+"hashes": 173598,
+"human_hashes": 98,
+"stat_human_hits": 568,
+"stat_species_hits": 1738621
+},
+"SRR6028218": {
+"hashes": 210455,
+"human_hashes": 323,
+"stat_human_hits": 1789,
+"stat_species_hits": 4157533
+},
+"SRR6028219": {
+"hashes": 187459,
+"human_hashes": 352,
+"stat_human_hits": 2082,
+"stat_species_hits": 4676912
+},
+"SRR6028223": {
+"hashes": 53362,
+"human_hashes": 6,
+"stat_human_hits": 0,
+"stat_species_hits": 736122
+},
+"SRR6028226": {
+"hashes": 253147,
+"human_hashes": 65,
+"stat_human_hits": 386,
+"stat_species_hits": 3187171
+},
+"SRR6028227": {
+"hashes": 245912,
+"human_hashes": 31,
+"stat_human_hits": 79,
+"stat_species_hits": 3057925
+},
+"SRR6028228": {
+"hashes": 98011,
+"human_hashes": 10,
+"stat_human_hits": 67,
+"stat_species_hits": 1007863
+},
+"SRR6028232": {
+"hashes": 206052,
+"human_hashes": 45,
+"stat_human_hits": 204,
+"stat_species_hits": 3367867
+},
+"SRR6028234": {
+"hashes": 160967,
+"human_hashes": 296,
+"stat_human_hits": 1804,
+"stat_species_hits": 3020428
+},
+"SRR6028238": {
+"hashes": 195540,
+"human_hashes": 47,
+"stat_human_hits": 249,
+"stat_species_hits": 3185783
+},
+"SRR6028239": {
+"hashes": 173174,
+"human_hashes": 32,
+"stat_human_hits": 139,
+"stat_species_hits": 3039672
+},
+"SRR6028240": {
+"hashes": 277824,
+"human_hashes": 211,
+"stat_human_hits": 1499,
+"stat_species_hits": 3594845
+},
+"SRR6028241": {
+"hashes": 145662,
+"human_hashes": 115,
+"stat_human_hits": 1113,
+"stat_species_hits": 1664591
+},
+"SRR6028244": {
+"hashes": 231603,
+"human_hashes": 26,
+"stat_human_hits": 102,
+"stat_species_hits": 2357299
+},
+"SRR6028245": {
+"hashes": 193701,
+"human_hashes": 1005,
+"stat_human_hits": 9570,
+"stat_species_hits": 1952432
+},
+"SRR6028246": {
+"hashes": 132176,
+"human_hashes": 57,
+"stat_human_hits": 286,
+"stat_species_hits": 2684670
+},
+"SRR6028249": {
+"hashes": 157150,
+"human_hashes": 56,
+"stat_human_hits": 198,
+"stat_species_hits": 1306500
+},
+"SRR6028253": {
+"hashes": 169700,
+"human_hashes": 131,
+"stat_human_hits": 769,
+"stat_species_hits": 4126424
+},
+"SRR6028254": {
+"hashes": 168839,
+"human_hashes": 10,
+"stat_human_hits": 0,
+"stat_species_hits": 2633953
+},
+"SRR6028255": {
+"hashes": 82416,
+"human_hashes": 13981,
+"stat_human_hits": 72898,
+"stat_species_hits": 1161972
+},
+"SRR6028256": {
+"hashes": 135319,
+"human_hashes": 1375,
+"stat_human_hits": 15722,
+"stat_species_hits": 1683252
+},
+"SRR6028257": {
+"hashes": 179492,
+"human_hashes": 116,
+"stat_human_hits": 1054,
+"stat_species_hits": 2466258
+},
+"SRR6028258": {
+"hashes": 150854,
+"human_hashes": 38,
+"stat_human_hits": 271,
+"stat_species_hits": 975148
+},
+"SRR6028259": {
+"hashes": 153347,
+"human_hashes": 78,
+"stat_human_hits": 605,
+"stat_species_hits": 1015311
+},
+"SRR6028261": {
+"hashes": 95990,
+"human_hashes": 102,
+"stat_human_hits": 553,
+"stat_species_hits": 2076430
+},
+"SRR6028263": {
+"hashes": 194812,
+"human_hashes": 47,
+"stat_human_hits": 186,
+"stat_species_hits": 1587856
+},
+"SRR6028264": {
+"hashes": 169515,
+"human_hashes": 34,
+"stat_human_hits": 0,
+"stat_species_hits": 2449499
+},
+"SRR6028265": {
+"hashes": 162373,
+"human_hashes": 78,
+"stat_human_hits": 312,
+"stat_species_hits": 2349281
+},
+"SRR6028267": {
+"hashes": 156395,
+"human_hashes": 633,
+"stat_human_hits": 4829,
+"stat_species_hits": 1722576
+},
+"SRR6028268": {
+"hashes": 151089,
+"human_hashes": 68,
+"stat_human_hits": 353,
+"stat_species_hits": 5175293
+},
+"SRR6028269": {
+"hashes": 177213,
+"human_hashes": 48,
+"stat_human_hits": 307,
+"stat_species_hits": 2713727
+},
+"SRR6028270": {
+"hashes": 91265,
+"human_hashes": 82,
+"stat_human_hits": 376,
+"stat_species_hits": 1002547
+},
+"SRR6028271": {
+"hashes": 185820,
+"human_hashes": 41,
+"stat_human_hits": 310,
+"stat_species_hits": 2966984
+},
+"SRR6028273": {
+"hashes": 188054,
+"human_hashes": 1428,
+"stat_human_hits": 8831,
+"stat_species_hits": 2124045
+},
+"SRR6028274": {
+"hashes": 98274,
+"human_hashes": 94,
+"stat_human_hits": 809,
+"stat_species_hits": 1026678
+},
+"SRR6028275": {
+"hashes": 155265,
+"human_hashes": 94,
+"stat_human_hits": 691,
+"stat_species_hits": 1784828
+},
+"SRR6028276": {
+"hashes": 193023,
+"human_hashes": 102,
+"stat_human_hits": 509,
+"stat_species_hits": 2473660
+},
+"SRR6028278": {
+"hashes": 72055,
+"human_hashes": 113,
+"stat_human_hits": 503,
+"stat_species_hits": 656224
+},
+"SRR6028279": {
+"hashes": 67176,
+"human_hashes": 34,
+"stat_human_hits": 317,
+"stat_species_hits": 568044
+},
+"SRR6028283": {
+"hashes": 183684,
+"human_hashes": 44,
+"stat_human_hits": 246,
+"stat_species_hits": 1880061
+},
+"SRR6028284": {
+"hashes": 173580,
+"human_hashes": 109,
+"stat_human_hits": 729,
+"stat_species_hits": 2451275
+},
+"SRR6028285": {
+"hashes": 175815,
+"human_hashes": 20,
+"stat_human_hits": 157,
+"stat_species_hits": 2073176
+},
+"SRR6028286": {
+"hashes": 150304,
+"human_hashes": 10,
+"stat_human_hits": 75,
+"stat_species_hits": 2532059
+},
+"SRR6028287": {
+"hashes": 143968,
+"human_hashes": 53,
+"stat_human_hits": 251,
+"stat_species_hits": 1091009
+},
+"SRR6028289": {
+"hashes": 145741,
+"human_hashes": 41,
+"stat_human_hits": 300,
+"stat_species_hits": 1648365
+},
+"SRR6028290": {
+"hashes": 197041,
+"human_hashes": 135,
+"stat_human_hits": 926,
+"stat_species_hits": 3410128
+},
+"SRR6028291": {
+"hashes": 135489,
+"human_hashes": 20,
+"stat_human_hits": 112,
+"stat_species_hits": 1535114
+},
+"SRR6028293": {
+"hashes": 149783,
+"human_hashes": 48,
+"stat_human_hits": 362,
+"stat_species_hits": 1694263
+},
+"SRR6028294": {
+"hashes": 98842,
+"human_hashes": 26,
+"stat_human_hits": 235,
+"stat_species_hits": 1319033
+},
+"SRR6028302": {
+"hashes": 216107,
+"human_hashes": 28,
+"stat_human_hits": 95,
+"stat_species_hits": 3253168
+},
+"SRR6028303": {
+"hashes": 192784,
+"human_hashes": 16,
+"stat_human_hits": 0,
+"stat_species_hits": 2275069
+},
+"SRR6028304": {
+"hashes": 111099,
+"human_hashes": 47,
+"stat_human_hits": 376,
+"stat_species_hits": 3101439
+},
+"SRR6028306": {
+"hashes": 162891,
+"human_hashes": 45,
+"stat_human_hits": 174,
+"stat_species_hits": 2324734
+},
+"SRR6028307": {
+"hashes": 152198,
+"human_hashes": 101,
+"stat_human_hits": 453,
+"stat_species_hits": 1761892
+},
+"SRR6028308": {
+"hashes": 199071,
+"human_hashes": 41,
+"stat_human_hits": 196,
+"stat_species_hits": 2820190
+},
+"SRR6028309": {
+"hashes": 242731,
+"human_hashes": 31,
+"stat_human_hits": 0,
+"stat_species_hits": 2576706
+},
+"SRR6028310": {
+"hashes": 196818,
+"human_hashes": 16,
+"stat_human_hits": 72,
+"stat_species_hits": 2319433
+},
+"SRR6028312": {
+"hashes": 136480,
+"human_hashes": 73,
+"stat_human_hits": 313,
+"stat_species_hits": 1590024
+},
+"SRR6028316": {
+"hashes": 187679,
+"human_hashes": 341,
+"stat_human_hits": 2110,
+"stat_species_hits": 2308702
+},
+"SRR6028317": {
+"hashes": 76602,
+"human_hashes": 139,
+"stat_human_hits": 675,
+"stat_species_hits": 383131
+},
+"SRR6028321": {
+"hashes": 162031,
+"human_hashes": 79,
+"stat_human_hits": 458,
+"stat_species_hits": 1573117
+},
+"SRR6028322": {
+"hashes": 207542,
+"human_hashes": 85,
+"stat_human_hits": 702,
+"stat_species_hits": 2723014
+},
+"SRR6028323": {
+"hashes": 198560,
+"human_hashes": 332,
+"stat_human_hits": 1404,
+"stat_species_hits": 2381682
+},
+"SRR6028325": {
+"hashes": 182033,
+"human_hashes": 33,
+"stat_human_hits": 102,
+"stat_species_hits": 3431596
+},
+"SRR6028327": {
+"hashes": 238898,
+"human_hashes": 199,
+"stat_human_hits": 1023,
+"stat_species_hits": 3449896
+},
+"SRR6028328": {
+"hashes": 1292,
+"human_hashes": 4,
+"stat_human_hits": 0,
+"stat_species_hits": 23046
+},
+"SRR6028329": {
+"hashes": 213551,
+"human_hashes": 70,
+"stat_human_hits": 486,
+"stat_species_hits": 5435224
+},
+"SRR6028332": {
+"hashes": 169233,
+"human_hashes": 22,
+"stat_human_hits": 0,
+"stat_species_hits": 1502235
+},
+"SRR6028333": {
+"hashes": 148268,
+"human_hashes": 69,
+"stat_human_hits": 478,
+"stat_species_hits": 1664785
+},
+"SRR6028335": {
+"hashes": 93937,
+"human_hashes": 39,
+"stat_human_hits": 154,
+"stat_species_hits": 1042680
+},
+"SRR6028336": {
+"hashes": 245504,
+"human_hashes": 32,
+"stat_human_hits": 214,
+"stat_species_hits": 3088923
+},
+"SRR6028338": {
+"hashes": 196149,
+"human_hashes": 26,
+"stat_human_hits": 233,
+"stat_species_hits": 1799690
+},
+"SRR6028339": {
+"hashes": 159051,
+"human_hashes": 27,
+"stat_human_hits": 114,
+"stat_species_hits": 2048391
+},
+"SRR6028340": {
+"hashes": 175436,
+"human_hashes": 52,
+"stat_human_hits": 0,
+"stat_species_hits": 3169181
+},
+"SRR6028341": {
+"hashes": 26166,
+"human_hashes": 4,
+"stat_human_hits": 70,
+"stat_species_hits": 211938
+},
+"SRR6028343": {
+"hashes": 155480,
+"human_hashes": 62,
+"stat_human_hits": 304,
+"stat_species_hits": 2965722
+},
+"SRR6028344": {
+"hashes": 7901,
+"human_hashes": 2,
+"stat_human_hits": 0,
+"stat_species_hits": 54914
+},
+"SRR6028347": {
+"hashes": 181192,
+"human_hashes": 117,
+"stat_human_hits": 840,
+"stat_species_hits": 2210131
+},
+"SRR6028350": {
+"hashes": 26960,
+"human_hashes": 1737,
+"stat_human_hits": 9834,
+"stat_species_hits": 200116
+},
+"SRR6028353": {
+"hashes": 232084,
+"human_hashes": 215,
+"stat_human_hits": 1395,
+"stat_species_hits": 3586946
+},
+"SRR6028355": {
+"hashes": 7230,
+"human_hashes": 19,
+"stat_human_hits": 0,
+"stat_species_hits": 53079
+},
+"SRR6028358": {
+"hashes": 254746,
+"human_hashes": 658,
+"stat_human_hits": 4434,
+"stat_species_hits": 3038610
+},
+"SRR6028360": {
+"hashes": 119439,
+"human_hashes": 95,
+"stat_human_hits": 463,
+"stat_species_hits": 2053391
+},
+"SRR6028364": {
+"hashes": 68766,
+"human_hashes": 26,
+"stat_human_hits": 181,
+"stat_species_hits": 1095976
+},
+"SRR6028365": {
+"hashes": 181017,
+"human_hashes": 1699,
+"stat_human_hits": 11237,
+"stat_species_hits": 1881077
+},
+"SRR6028370": {
+"hashes": 201600,
+"human_hashes": 89,
+"stat_human_hits": 695,
+"stat_species_hits": 3158773
+},
+"SRR6028371": {
+"hashes": 164743,
+"human_hashes": 29,
+"stat_human_hits": 0,
+"stat_species_hits": 1876778
+},
+"SRR6028372": {
+"hashes": 83760,
+"human_hashes": 23,
+"stat_human_hits": 0,
+"stat_species_hits": 717303
+},
+"SRR6028374": {
+"hashes": 266104,
+"human_hashes": 137,
+"stat_human_hits": 965,
+"stat_species_hits": 5553837
+},
+"SRR6028375": {
+"hashes": 215548,
+"human_hashes": 95,
+"stat_human_hits": 714,
+"stat_species_hits": 4092659
+},
+"SRR6028376": {
+"hashes": 221340,
+"human_hashes": 123,
+"stat_human_hits": 651,
+"stat_species_hits": 2798041
+},
+"SRR6028377": {
+"hashes": 307825,
+"human_hashes": 83,
+"stat_human_hits": 437,
+"stat_species_hits": 3935799
+},
+"SRR6028380": {
+"hashes": 79552,
+"human_hashes": 36,
+"stat_human_hits": 147,
+"stat_species_hits": 642575
+},
+"SRR6028381": {
+"hashes": 159316,
+"human_hashes": 32,
+"stat_human_hits": 119,
+"stat_species_hits": 1525741
+},
+"SRR6028382": {
+"hashes": 161743,
+"human_hashes": 9,
+"stat_human_hits": 31,
+"stat_species_hits": 2238862
+},
+"SRR6028383": {
+"hashes": 175724,
+"human_hashes": 11,
+"stat_human_hits": 0,
+"stat_species_hits": 2098224
+},
+"SRR6028386": {
+"hashes": 162947,
+"human_hashes": 29,
+"stat_human_hits": 0,
+"stat_species_hits": 1872900
+},
+"SRR6028387": {
+"hashes": 160402,
+"human_hashes": 18,
+"stat_human_hits": 0,
+"stat_species_hits": 2247102
+},
+"SRR6028389": {
+"hashes": 173841,
+"human_hashes": 22,
+"stat_human_hits": 0,
+"stat_species_hits": 2167065
+},
+"SRR6028390": {
+"hashes": 197607,
+"human_hashes": 33916,
+"stat_human_hits": 238595,
+"stat_species_hits": 1986547
+},
+"SRR6028391": {
+"hashes": 214997,
+"human_hashes": 460,
+"stat_human_hits": 3339,
+"stat_species_hits": 4157922
+},
+"SRR6028392": {
+"hashes": 149119,
+"human_hashes": 5,
+"stat_human_hits": 37,
+"stat_species_hits": 1599714
+},
+"SRR6028393": {
+"hashes": 252666,
+"human_hashes": 134829,
+"stat_human_hits": 874339,
+"stat_species_hits": 1725348
+},
+"SRR6028394": {
+"hashes": 172662,
+"human_hashes": 28,
+"stat_human_hits": 0,
+"stat_species_hits": 2570857
+},
+"SRR6028399": {
+"hashes": 179614,
+"human_hashes": 34,
+"stat_human_hits": 173,
+"stat_species_hits": 4362509
+},
+"SRR6028400": {
+"hashes": 158394,
+"human_hashes": 13,
+"stat_human_hits": 89,
+"stat_species_hits": 3469552
+},
+"SRR6028403": {
+"hashes": 156485,
+"human_hashes": 32,
+"stat_human_hits": 260,
+"stat_species_hits": 1861105
+},
+"SRR6028404": {
+"hashes": 202769,
+"human_hashes": 46,
+"stat_human_hits": 245,
+"stat_species_hits": 2992718
+},
+"SRR6028405": {
+"hashes": 153489,
+"human_hashes": 50,
+"stat_human_hits": 192,
+"stat_species_hits": 1955438
+},
+"SRR6028406": {
+"hashes": 180942,
+"human_hashes": 46,
+"stat_human_hits": 311,
+"stat_species_hits": 2252265
+},
+"SRR6028407": {
+"hashes": 207758,
+"human_hashes": 10,
+"stat_human_hits": 81,
+"stat_species_hits": 3273140
+},
+"SRR6028410": {
+"hashes": 149747,
+"human_hashes": 31,
+"stat_human_hits": 133,
+"stat_species_hits": 2241793
+},
+"SRR6028411": {
+"hashes": 298952,
+"human_hashes": 110,
+"stat_human_hits": 724,
+"stat_species_hits": 3604969
+},
+"SRR6028414": {
+"hashes": 222166,
+"human_hashes": 85,
+"stat_human_hits": 318,
+"stat_species_hits": 2568115
+},
+"SRR6028416": {
+"hashes": 164415,
+"human_hashes": 45,
+"stat_human_hits": 225,
+"stat_species_hits": 1977877
+},
+"SRR6028417": {
+"hashes": 5004,
+"human_hashes": 10,
+"stat_human_hits": 0,
+"stat_species_hits": 30780
+},
+"SRR6028418": {
+"hashes": 52187,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 527847
+},
+"SRR6028420": {
+"hashes": 172487,
+"human_hashes": 29,
+"stat_human_hits": 139,
+"stat_species_hits": 3801818
+},
+"SRR6028423": {
+"hashes": 145759,
+"human_hashes": 14,
+"stat_human_hits": 87,
+"stat_species_hits": 2935801
+},
+"SRR6028424": {
+"hashes": 137395,
+"human_hashes": 36,
+"stat_human_hits": 202,
+"stat_species_hits": 2019939
+},
+"SRR6028425": {
+"hashes": 168971,
+"human_hashes": 84,
+"stat_human_hits": 596,
+"stat_species_hits": 3984889
+},
+"SRR6028426": {
+"hashes": 163920,
+"human_hashes": 24,
+"stat_human_hits": 99,
+"stat_species_hits": 2912048
+},
+"SRR6028427": {
+"hashes": 234004,
+"human_hashes": 11,
+"stat_human_hits": 65,
+"stat_species_hits": 3626977
+},
+"SRR6028429": {
+"hashes": 171884,
+"human_hashes": 422,
+"stat_human_hits": 2839,
+"stat_species_hits": 4105047
+},
+"SRR6028431": {
+"hashes": 185293,
+"human_hashes": 28,
+"stat_human_hits": 98,
+"stat_species_hits": 2929050
+},
+"SRR6028432": {
+"hashes": 203994,
+"human_hashes": 1257,
+"stat_human_hits": 12509,
+"stat_species_hits": 3242631
+},
+"SRR6028433": {
+"hashes": 146358,
+"human_hashes": 65,
+"stat_human_hits": 419,
+"stat_species_hits": 2591621
+},
+"SRR6028434": {
+"hashes": 113601,
+"human_hashes": 81,
+"stat_human_hits": 472,
+"stat_species_hits": 1649214
+},
+"SRR6028435": {
+"hashes": 81494,
+"human_hashes": 4,
+"stat_human_hits": 51,
+"stat_species_hits": 1021298
+},
+"SRR6028437": {
+"hashes": 197024,
+"human_hashes": 187,
+"stat_human_hits": 1008,
+"stat_species_hits": 2263567
+},
+"SRR6028439": {
+"hashes": 100880,
+"human_hashes": 26,
+"stat_human_hits": 111,
+"stat_species_hits": 2496093
+},
+"SRR6028440": {
+"hashes": 62931,
+"human_hashes": 6,
+"stat_human_hits": 0,
+"stat_species_hits": 445231
+},
+"SRR6028441": {
+"hashes": 6815,
+"human_hashes": 0,
+"stat_human_hits": 0,
+"stat_species_hits": 116625
+},
+"SRR6028442": {
+"hashes": 95860,
+"human_hashes": 162,
+"stat_human_hits": 1334,
+"stat_species_hits": 1935067
+},
+"SRR6028445": {
+"hashes": 52014,
+"human_hashes": 8,
+"stat_human_hits": 38,
+"stat_species_hits": 392435
+},
+"SRR6028446": {
+"hashes": 179363,
+"human_hashes": 37,
+"stat_human_hits": 0,
+"stat_species_hits": 1672586
+},
+"SRR6028447": {
+"hashes": 277827,
+"human_hashes": 40,
+"stat_human_hits": 129,
+"stat_species_hits": 3045496
+},
+"SRR6028448": {
+"hashes": 221140,
+"human_hashes": 93,
+"stat_human_hits": 750,
+"stat_species_hits": 2064816
+},
+"SRR6028449": {
+"hashes": 154271,
+"human_hashes": 10,
+"stat_human_hits": 0,
+"stat_species_hits": 2470624
+},
+"SRR6028450": {
+"hashes": 157396,
+"human_hashes": 13,
+"stat_human_hits": 114,
+"stat_species_hits": 1639491
+},
+"SRR6028451": {
+"hashes": 228216,
+"human_hashes": 18,
+"stat_human_hits": 139,
+"stat_species_hits": 2860906
+},
+"SRR6028453": {
+"hashes": 166057,
+"human_hashes": 12,
+"stat_human_hits": 0,
+"stat_species_hits": 1628814
+},
+"SRR6028454": {
+"hashes": 218653,
+"human_hashes": 318,
+"stat_human_hits": 1575,
+"stat_species_hits": 2658566
+},
+"SRR6028455": {
+"hashes": 177829,
+"human_hashes": 14,
+"stat_human_hits": 53,
+"stat_species_hits": 2483833
+},
+"SRR6028456": {
+"hashes": 164975,
+"human_hashes": 11,
+"stat_human_hits": 0,
+"stat_species_hits": 3381380
+},
+"SRR6028458": {
+"hashes": 169693,
+"human_hashes": 144,
+"stat_human_hits": 905,
+"stat_species_hits": 2799124
+},
+"SRR6028459": {
+"hashes": 190474,
+"human_hashes": 34,
+"stat_human_hits": 107,
+"stat_species_hits": 3367583
+},
+"SRR6028460": {
+"hashes": 148294,
+"human_hashes": 423,
+"stat_human_hits": 3393,
+"stat_species_hits": 1821277
+},
+"SRR6028462": {
+"hashes": 190467,
+"human_hashes": 28,
+"stat_human_hits": 0,
+"stat_species_hits": 3163553
+},
+"SRR6028464": {
+"hashes": 173795,
+"human_hashes": 27,
+"stat_human_hits": 218,
+"stat_species_hits": 2040232
+},
+"SRR6028466": {
+"hashes": 229436,
+"human_hashes": 113,
+"stat_human_hits": 1041,
+"stat_species_hits": 3056127
+},
+"SRR6028467": {
+"hashes": 223535,
+"human_hashes": 38,
+"stat_human_hits": 173,
+"stat_species_hits": 1846730
+},
+"SRR6028471": {
+"hashes": 87994,
+"human_hashes": 972,
+"stat_human_hits": 14942,
+"stat_species_hits": 1301340
+},
+"SRR6028473": {
+"hashes": 155190,
+"human_hashes": 57,
+"stat_human_hits": 299,
+"stat_species_hits": 3081881
+},
+"SRR6028474": {
+"hashes": 147525,
+"human_hashes": 44,
+"stat_human_hits": 237,
+"stat_species_hits": 3943417
+},
+"SRR6028475": {
+"hashes": 105434,
+"human_hashes": 460,
+"stat_human_hits": 2475,
+"stat_species_hits": 1044673
+},
+"SRR6028480": {
+"hashes": 193312,
+"human_hashes": 17,
+"stat_human_hits": 0,
+"stat_species_hits": 2626890
+},
+"SRR6028482": {
+"hashes": 131631,
+"human_hashes": 88,
+"stat_human_hits": 534,
+"stat_species_hits": 2963411
+},
+"SRR6028485": {
+"hashes": 144398,
+"human_hashes": 7,
+"stat_human_hits": 0,
+"stat_species_hits": 1696211
+},
+"SRR6028486": {
+"hashes": 197796,
+"human_hashes": 30,
+"stat_human_hits": 92,
+"stat_species_hits": 3647109
+},
+"SRR6028487": {
+"hashes": 135029,
+"human_hashes": 32,
+"stat_human_hits": 183,
+"stat_species_hits": 1670895
+},
+"SRR6028489": {
+"hashes": 140206,
+"human_hashes": 31,
+"stat_human_hits": 132,
+"stat_species_hits": 3375097
+},
+"SRR6028493": {
+"hashes": 233104,
+"human_hashes": 28,
+"stat_human_hits": 0,
+"stat_species_hits": 4259882
+},
+"SRR6028496": {
+"hashes": 227874,
+"human_hashes": 32,
+"stat_human_hits": 124,
+"stat_species_hits": 4166823
+},
+"SRR6028498": {
+"hashes": 154952,
+"human_hashes": 141,
+"stat_human_hits": 852,
+"stat_species_hits": 1627460
+},
+"SRR6028499": {
+"hashes": 129771,
+"human_hashes": 61,
+"stat_human_hits": 307,
+"stat_species_hits": 2101392
+},
+"SRR6028500": {
+"hashes": 137824,
+"human_hashes": 90,
+"stat_human_hits": 694,
+"stat_species_hits": 3396619
+},
+"SRR6028501": {
+"hashes": 163522,
+"human_hashes": 39,
+"stat_human_hits": 175,
+"stat_species_hits": 1867566
+},
+"SRR6028502": {
+"hashes": 186777,
+"human_hashes": 91,
+"stat_human_hits": 691,
+"stat_species_hits": 2131798
+},
+"SRR6028506": {
+"hashes": 142528,
+"human_hashes": 45,
+"stat_human_hits": 300,
+"stat_species_hits": 1894550
+},
+"SRR6028508": {
+"hashes": 202946,
+"human_hashes": 50,
+"stat_human_hits": 299,
+"stat_species_hits": 2885215
+},
+"SRR6028509": {
+"hashes": 184755,
+"human_hashes": 11,
+"stat_human_hits": 70,
+"stat_species_hits": 2270641
+},
+"SRR6028511": {
+"hashes": 166272,
+"human_hashes": 28,
+"stat_human_hits": 137,
+"stat_species_hits": 1991452
+},
+"SRR6028512": {
+"hashes": 153684,
+"human_hashes": 327,
+"stat_human_hits": 3897,
+"stat_species_hits": 1341906
+},
+"SRR6028513": {
+"hashes": 189834,
+"human_hashes": 17,
+"stat_human_hits": 48,
+"stat_species_hits": 3555910
+},
+"SRR6028516": {
+"hashes": 184550,
+"human_hashes": 50,
+"stat_human_hits": 0,
+"stat_species_hits": 3908472
+},
+"SRR6028517": {
+"hashes": 207557,
+"human_hashes": 38,
+"stat_human_hits": 213,
+"stat_species_hits": 2385672
+},
+"SRR6028523": {
+"hashes": 181024,
+"human_hashes": 574,
+"stat_human_hits": 3785,
+"stat_species_hits": 2258328
+},
+"SRR6028525": {
+"hashes": 154797,
+"human_hashes": 21,
+"stat_human_hits": 113,
+"stat_species_hits": 1512870
+},
+"SRR6028527": {
+"hashes": 203125,
+"human_hashes": 819,
+"stat_human_hits": 3992,
+"stat_species_hits": 3358490
+},
+"SRR6028530": {
+"hashes": 140356,
+"human_hashes": 18,
+"stat_human_hits": 92,
+"stat_species_hits": 1751610
+},
+"SRR6028534": {
+"hashes": 237188,
+"human_hashes": 35,
+"stat_human_hits": 166,
+"stat_species_hits": 1117283
+},
+"SRR6028536": {
+"hashes": 165867,
+"human_hashes": 181,
+"stat_human_hits": 1263,
+"stat_species_hits": 3009238
+},
+"SRR6028537": {
+"hashes": 157870,
+"human_hashes": 31,
+"stat_human_hits": 103,
+"stat_species_hits": 1871116
+},
+"SRR6028538": {
+"hashes": 184839,
+"human_hashes": 50,
+"stat_human_hits": 303,
+"stat_species_hits": 3714899
+},
+"SRR6028540": {
+"hashes": 151316,
+"human_hashes": 11,
+"stat_human_hits": 82,
+"stat_species_hits": 1816094
+},
+"SRR6028541": {
+"hashes": 235130,
+"human_hashes": 258,
+"stat_human_hits": 1718,
+"stat_species_hits": 4198655
+},
+"SRR6028542": {
+"hashes": 255184,
+"human_hashes": 136,
+"stat_human_hits": 668,
+"stat_species_hits": 4953795
+},
+"SRR6028543": {
+"hashes": 185097,
+"human_hashes": 421,
+"stat_human_hits": 1878,
+"stat_species_hits": 3041820
+},
+"SRR6028545": {
+"hashes": 142828,
+"human_hashes": 24,
+"stat_human_hits": 241,
+"stat_species_hits": 3193758
+},
+"SRR6028546": {
+"hashes": 196669,
+"human_hashes": 697,
+"stat_human_hits": 3719,
+"stat_species_hits": 1740064
+},
+"SRR6028547": {
+"hashes": 147302,
+"human_hashes": 36,
+"stat_human_hits": 138,
+"stat_species_hits": 1736357
+},
+"SRR6028548": {
+"hashes": 126349,
+"human_hashes": 51,
+"stat_human_hits": 298,
+"stat_species_hits": 1381027
+},
+"SRR6028549": {
+"hashes": 243253,
+"human_hashes": 33,
+"stat_human_hits": 0,
+"stat_species_hits": 3298676
+},
+"SRR6028550": {
+"hashes": 238749,
+"human_hashes": 43,
+"stat_human_hits": 303,
+"stat_species_hits": 3151751
+},
+"SRR6028553": {
+"hashes": 172172,
+"human_hashes": 10,
+"stat_human_hits": 0,
+"stat_species_hits": 2751992
+},
+"SRR6028554": {
+"hashes": 128805,
+"human_hashes": 67,
+"stat_human_hits": 449,
+"stat_species_hits": 2147334
+},
+"SRR6028557": {
+"hashes": 153760,
+"human_hashes": 25,
+"stat_human_hits": 159,
+"stat_species_hits": 3052525
+},
+"SRR6028558": {
+"hashes": 150376,
+"human_hashes": 45,
+"stat_human_hits": 196,
+"stat_species_hits": 3207971
+},
+"SRR6028559": {
+"hashes": 139943,
+"human_hashes": 8673,
+"stat_human_hits": 78279,
+"stat_species_hits": 1879327
+},
+"SRR6028560": {
+"hashes": 115628,
+"human_hashes": 49,
+"stat_human_hits": 353,
+"stat_species_hits": 2382473
+},
+"SRR6028563": {
+"hashes": 208351,
+"human_hashes": 35,
+"stat_human_hits": 165,
+"stat_species_hits": 2085744
+},
+"SRR6028564": {
+"hashes": 164113,
+"human_hashes": 22,
+"stat_human_hits": 69,
+"stat_species_hits": 1737171
+},
+"SRR6028567": {
+"hashes": 82603,
+"human_hashes": 20,
+"stat_human_hits": 238,
+"stat_species_hits": 1267581
+},
+"SRR6028571": {
+"hashes": 162346,
+"human_hashes": 5,
+"stat_human_hits": 43,
+"stat_species_hits": 2099558
+},
+"SRR6028574": {
+"hashes": 138252,
+"human_hashes": 49,
+"stat_human_hits": 0,
+"stat_species_hits": 2137136
+},
+"SRR6028575": {
+"hashes": 156705,
+"human_hashes": 19103,
+"stat_human_hits": 119845,
+"stat_species_hits": 1779314
+},
+"SRR6028578": {
+"hashes": 163442,
+"human_hashes": 13,
+"stat_human_hits": 56,
+"stat_species_hits": 3822849
+},
+"SRR6028579": {
+"hashes": 184278,
+"human_hashes": 27,
+"stat_human_hits": 106,
+"stat_species_hits": 4479926
+},
+"SRR6028580": {
+"hashes": 145011,
+"human_hashes": 18,
+"stat_human_hits": 52,
+"stat_species_hits": 2176128
+},
+"SRR6028585": {
+"hashes": 173306,
+"human_hashes": 141,
+"stat_human_hits": 789,
+"stat_species_hits": 2068495
+},
+"SRR6028588": {
+"hashes": 235825,
+"human_hashes": 338,
+"stat_human_hits": 2669,
+"stat_species_hits": 4563767
+},
+"SRR6028589": {
+"hashes": 203066,
+"human_hashes": 702,
+"stat_human_hits": 5082,
+"stat_species_hits": 3252101
+},
+"SRR6028591": {
+"hashes": 196011,
+"human_hashes": 17,
+"stat_human_hits": 70,
+"stat_species_hits": 2654107
+},
+"SRR6028595": {
+"hashes": 140516,
+"human_hashes": 40,
+"stat_human_hits": 152,
+"stat_species_hits": 2415498
+},
+"SRR6028596": {
+"hashes": 123696,
+"human_hashes": 56,
+"stat_human_hits": 366,
+"stat_species_hits": 2422028
+},
+"SRR6028599": {
+"hashes": 166427,
+"human_hashes": 159,
+"stat_human_hits": 1116,
+"stat_species_hits": 2746155
+},
+"SRR6028600": {
+"hashes": 227358,
+"human_hashes": 92,
+"stat_human_hits": 443,
+"stat_species_hits": 3491418
+},
+"SRR6028603": {
+"hashes": 195292,
+"human_hashes": 47,
+"stat_human_hits": 194,
+"stat_species_hits": 2277976
+},
+"SRR6028604": {
+"hashes": 146496,
+"human_hashes": 58,
+"stat_human_hits": 408,
+"stat_species_hits": 2004525
+},
+"SRR6028605": {
+"hashes": 138520,
+"human_hashes": 49,
+"stat_human_hits": 279,
+"stat_species_hits": 2829903
+},
+"SRR6028607": {
+"hashes": 128485,
+"human_hashes": 22,
+"stat_human_hits": 67,
+"stat_species_hits": 2166567
+},
+"SRR6028608": {
+"hashes": 155192,
+"human_hashes": 28,
+"stat_human_hits": 175,
+"stat_species_hits": 3870423
+},
+"SRR6028610": {
+"hashes": 143818,
+"human_hashes": 30,
+"stat_human_hits": 182,
+"stat_species_hits": 2809317
+},
+"SRR6028612": {
+"hashes": 232308,
+"human_hashes": 103,
+"stat_human_hits": 873,
+"stat_species_hits": 5168280
+},
+"SRR6028614": {
+"hashes": 146300,
+"human_hashes": 60,
+"stat_human_hits": 305,
+"stat_species_hits": 3943445
+},
+"SRR6028615": {
+"hashes": 180497,
+"human_hashes": 19,
+"stat_human_hits": 0,
+"stat_species_hits": 3043004
+},
+"SRR6028616": {
+"hashes": 232107,
+"human_hashes": 83,
+"stat_human_hits": 351,
+"stat_species_hits": 3728947
+},
+"SRR6028617": {
+"hashes": 156403,
+"human_hashes": 14,
+"stat_human_hits": 0,
+"stat_species_hits": 2950836
+},
+"SRR6028620": {
+"hashes": 171007,
+"human_hashes": 374,
+"stat_human_hits": 2927,
+"stat_species_hits": 3974138
+},
+"SRR6028621": {
+"hashes": 131169,
+"human_hashes": 41,
+"stat_human_hits": 280,
+"stat_species_hits": 1647211
+},
+"SRR6028623": {
+"hashes": 151779,
+"human_hashes": 127,
+"stat_human_hits": 837,
+"stat_species_hits": 2552169
+},
+"SRR6028624": {
+"hashes": 142046,
+"human_hashes": 68,
+"stat_human_hits": 595,
+"stat_species_hits": 1633311
+},
+"SRR6028626": {
+"hashes": 228021,
+"human_hashes": 165,
+"stat_human_hits": 858,
+"stat_species_hits": 3143433
+},
+"SRR6028628": {
+"hashes": 175680,
+"human_hashes": 26,
+"stat_human_hits": 92,
+"stat_species_hits": 2583563
+},
+"SRR6028629": {
+"hashes": 184716,
+"human_hashes": 18,
+"stat_human_hits": 94,
+"stat_species_hits": 3374097
+},
+"SRR6028630": {
+"hashes": 168003,
+"human_hashes": 34,
+"stat_human_hits": 378,
+"stat_species_hits": 3008530
+},
+"SRR6028631": {
+"hashes": 201342,
+"human_hashes": 298,
+"stat_human_hits": 1624,
+"stat_species_hits": 2790279
+},
+"SRR6028634": {
+"hashes": 141206,
+"human_hashes": 13,
+"stat_human_hits": 0,
+"stat_species_hits": 1651074
+},
+"SRR6028635": {
+"hashes": 182713,
+"human_hashes": 70,
+"stat_human_hits": 475,
+"stat_species_hits": 2253998
+},
+"SRR6028639": {
+"hashes": 193109,
+"human_hashes": 11,
+"stat_human_hits": 37,
+"stat_species_hits": 3419300
+},
+"SRR6028640": {
+"hashes": 184703,
+"human_hashes": 4674,
+"stat_human_hits": 26247,
+"stat_species_hits": 2239155
+},
+"SRR6028642": {
+"hashes": 211288,
+"human_hashes": 351,
+"stat_human_hits": 2121,
+"stat_species_hits": 6511478
+},
+"SRR6028643": {
+"hashes": 201355,
+"human_hashes": 667,
+"stat_human_hits": 6213,
+"stat_species_hits": 5249659
+},
+"SRR6028645": {
+"hashes": 241371,
+"human_hashes": 81,
+"stat_human_hits": 457,
+"stat_species_hits": 5107396
+},
+"SRR6028648": {
+"hashes": 126859,
+"human_hashes": 61,
+"stat_human_hits": 371,
+"stat_species_hits": 1170128
+},
+"SRR6028649": {
+"hashes": 192948,
+"human_hashes": 67,
+"stat_human_hits": 335,
+"stat_species_hits": 1939166
+},
+"SRR6028650": {
+"hashes": 83295,
+"human_hashes": 56,
+"stat_human_hits": 190,
+"stat_species_hits": 926708
+},
+"SRR6028651": {
+"hashes": 66220,
+"human_hashes": 241,
+"stat_human_hits": 1033,
+"stat_species_hits": 529602
+},
+"SRR6028652": {
+"hashes": 167527,
+"human_hashes": 24,
+"stat_human_hits": 140,
+"stat_species_hits": 3165005
+},
+"SRR6028654": {
+"hashes": 185470,
+"human_hashes": 145,
+"stat_human_hits": 935,
+"stat_species_hits": 2649480
+},
+"SRR6028655": {
+"hashes": 168049,
+"human_hashes": 281,
+"stat_human_hits": 1808,
+"stat_species_hits": 1320331
+},
+"SRR6028656": {
+"hashes": 152399,
+"human_hashes": 9,
+"stat_human_hits": 51,
+"stat_species_hits": 1619790
+},
+"SRR6028657": {
+"hashes": 184201,
+"human_hashes": 53,
+"stat_human_hits": 277,
+"stat_species_hits": 4229922
+},
+"SRR6028658": {
+"hashes": 223407,
+"human_hashes": 12,
+"stat_human_hits": 82,
+"stat_species_hits": 2951866
+},
+"SRR6028659": {
+"hashes": 143555,
+"human_hashes": 165,
+"stat_human_hits": 998,
+"stat_species_hits": 2065040
+},
+"SRR6028660": {
+"hashes": 204818,
+"human_hashes": 15,
+"stat_human_hits": 0,
+"stat_species_hits": 3145374
+},
+"SRR6054420": {
+"hashes": 123627,
+"human_hashes": 13,
+"stat_human_hits": 75,
+"stat_species_hits": 1560549
+},
+"SRR6054429": {
+"hashes": 179078,
+"human_hashes": 201,
+"stat_human_hits": 1584,
+"stat_species_hits": 3938595
+},
+"SRR6054430": {
+"hashes": 187277,
+"human_hashes": 525,
+"stat_human_hits": 3699,
+"stat_species_hits": 3375060
+},
+"SRR6054432": {
+"hashes": 172491,
+"human_hashes": 57,
+"stat_human_hits": 224,
+"stat_species_hits": 1813613
+},
+"SRR6054437": {
+"hashes": 14568,
+"human_hashes": 2,
+"stat_human_hits": 31,
+"stat_species_hits": 183665
+},
+"SRR6054443": {
+"hashes": 220590,
+"human_hashes": 51,
+"stat_human_hits": 243,
+"stat_species_hits": 2816291
+},
+"SRR6054444": {
+"hashes": 177885,
+"human_hashes": 11,
+"stat_human_hits": 0,
+"stat_species_hits": 2217575
+},
+"SRR6054448": {
+"hashes": 169212,
+"human_hashes": 11,
+"stat_human_hits": 0,
+"stat_species_hits": 3328332
+},
+"SRR6054449": {
+"hashes": 147443,
+"human_hashes": 131,
+"stat_human_hits": 708,
+"stat_species_hits": 2054949
+},
+"SRR6054455": {
+"hashes": 145884,
+"human_hashes": 17,
+"stat_human_hits": 0,
+"stat_species_hits": 2539624
+},
+"SRR6054456": {
+"hashes": 164209,
+"human_hashes": 26,
+"stat_human_hits": 127,
+"stat_species_hits": 2885621
+},
+"SRR6054459": {
+"hashes": 184049,
+"human_hashes": 46,
+"stat_human_hits": 308,
+"stat_species_hits": 2512757
+},
+"SRR6054460": {
+"hashes": 188049,
+"human_hashes": 82,
+"stat_human_hits": 565,
+"stat_species_hits": 2675720
+},
+"SRR6054461": {
+"hashes": 80138,
+"human_hashes": 41,
+"stat_human_hits": 135,
+"stat_species_hits": 727850
+},
+"SRR6054463": {
+"hashes": 186346,
+"human_hashes": 24,
+"stat_human_hits": 156,
+"stat_species_hits": 2623706
+},
+"SRR6054464": {
+"hashes": 183213,
+"human_hashes": 175,
+"stat_human_hits": 1591,
+"stat_species_hits": 2111050
+},
+"SRR6054469": {
+"hashes": 210474,
+"human_hashes": 25,
+"stat_human_hits": 117,
+"stat_species_hits": 2313158
+},
+"SRR6054470": {
+"hashes": 211552,
+"human_hashes": 18,
+"stat_human_hits": 75,
+"stat_species_hits": 3062272
+},
+"SRR6054474": {
+"hashes": 231032,
+"human_hashes": 77,
+"stat_human_hits": 676,
+"stat_species_hits": 3155648
+},
+"SRR6054476": {
+"hashes": 185220,
+"human_hashes": 410,
+"stat_human_hits": 3094,
+"stat_species_hits": 3194565
+},
+"SRR6054483": {
+"hashes": 224069,
+"human_hashes": 670,
+"stat_human_hits": 4616,
+"stat_species_hits": 4879899
+},
+"SRR6054484": {
+"hashes": 146837,
+"human_hashes": 45,
+"stat_human_hits": 264,
+"stat_species_hits": 1463740
+},
+"SRR6054486": {
+"hashes": 167464,
+"human_hashes": 108,
+"stat_human_hits": 889,
+"stat_species_hits": 2525564
+},
+"SRR6054487": {
+"hashes": 211058,
+"human_hashes": 156,
+"stat_human_hits": 1318,
+"stat_species_hits": 1782237
+},
+"SRR6054488": {
+"hashes": 183545,
+"human_hashes": 378,
+"stat_human_hits": 2857,
+"stat_species_hits": 2813370
+},
+"SRR6054491": {
+"hashes": 77620,
+"human_hashes": 7,
+"stat_human_hits": 89,
+"stat_species_hits": 776552
+},
+"SRR6054492": {
+"hashes": 155062,
+"human_hashes": 67,
+"stat_human_hits": 401,
+"stat_species_hits": 1865708
+},
+"SRR6054495": {
+"hashes": 172024,
+"human_hashes": 7,
+"stat_human_hits": 0,
+"stat_species_hits": 2312359
+},
+"SRR6054496": {
+"hashes": 139943,
+"human_hashes": 230,
+"stat_human_hits": 1234,
+"stat_species_hits": 1611176
+},
+"SRR6054497": {
+"hashes": 155454,
+"human_hashes": 251,
+"stat_human_hits": 1313,
+"stat_species_hits": 2712576
+},
+"SRR6054501": {
+"hashes": 124885,
+"human_hashes": 18,
+"stat_human_hits": 105,
+"stat_species_hits": 2231489
+},
+"SRR6054502": {
+"hashes": 108830,
+"human_hashes": 133,
+"stat_human_hits": 899,
+"stat_species_hits": 2562788
+},
+"SRR6054503": {
+"hashes": 132136,
+"human_hashes": 124,
+"stat_human_hits": 671,
+"stat_species_hits": 2133541
+},
+"SRR6054504": {
+"hashes": 120419,
+"human_hashes": 68,
+"stat_human_hits": 0,
+"stat_species_hits": 1918826
+},
+"SRR6054508": {
+"hashes": 158237,
+"human_hashes": 42,
+"stat_human_hits": 206,
+"stat_species_hits": 3245876
+},
+"SRR6054509": {
+"hashes": 143731,
+"human_hashes": 59,
+"stat_human_hits": 469,
+"stat_species_hits": 2344353
+},
+"SRR6054520": {
+"hashes": 120152,
+"human_hashes": 28,
+"stat_human_hits": 136,
+"stat_species_hits": 1055934
+},
+"SRR6054523": {
+"hashes": 142073,
+"human_hashes": 156,
+"stat_human_hits": 914,
+"stat_species_hits": 1323797
+},
+"SRR6054524": {
+"hashes": 167527,
+"human_hashes": 294,
+"stat_human_hits": 1619,
+"stat_species_hits": 3440155
+},
+"SRR6054527": {
+"hashes": 204965,
+"human_hashes": 53,
+"stat_human_hits": 252,
+"stat_species_hits": 2312417
+},
+"SRR6054528": {
+"hashes": 156367,
+"human_hashes": 49,
+"stat_human_hits": 311,
+"stat_species_hits": 2852505
+},
+"SRR6054529": {
+"hashes": 142921,
+"human_hashes": 43,
+"stat_human_hits": 212,
+"stat_species_hits": 2248808
+},
+"SRR6054532": {
+"hashes": 218204,
+"human_hashes": 83,
+"stat_human_hits": 356,
+"stat_species_hits": 1999373
+},
+"SRR6054533": {
+"hashes": 168366,
+"human_hashes": 94,
+"stat_human_hits": 517,
+"stat_species_hits": 2069760
+},
+"SRR6054539": {
+"hashes": 165662,
+"human_hashes": 27,
+"stat_human_hits": 0,
+"stat_species_hits": 1704707
+},
+"SRR6054540": {
+"hashes": 134137,
+"human_hashes": 46,
+"stat_human_hits": 237,
+"stat_species_hits": 2133811
+},
+"SRR6054549": {
+"hashes": 136934,
+"human_hashes": 1346,
+"stat_human_hits": 8523,
+"stat_species_hits": 1703877
+},
+"SRR6054550": {
+"hashes": 165714,
+"human_hashes": 659,
+"stat_human_hits": 4570,
+"stat_species_hits": 2014567
+},
+"SRR6054553": {
+"hashes": 95925,
+"human_hashes": 209,
+"stat_human_hits": 1173,
+"stat_species_hits": 3583198
+},
+"SRR6054554": {
+"hashes": 126049,
+"human_hashes": 54,
+"stat_human_hits": 356,
+"stat_species_hits": 2885090
+},
+"SRR6054562": {
+"hashes": 139585,
+"human_hashes": 26,
+"stat_human_hits": 154,
+"stat_species_hits": 3880200
+},
+"SRR6054564": {
+"hashes": 134576,
+"human_hashes": 338,
+"stat_human_hits": 2263,
+"stat_species_hits": 2898540
+},
+"SRR6054565": {
+"hashes": 173927,
+"human_hashes": 11,
+"stat_human_hits": 68,
+"stat_species_hits": 2953484
+},
+"SRR6054569": {
+"hashes": 103898,
+"human_hashes": 16,
+"stat_human_hits": 113,
+"stat_species_hits": 2345235
+},
+"SRR6054571": {
+"hashes": 175625,
+"human_hashes": 27,
+"stat_human_hits": 145,
+"stat_species_hits": 2433474
+},
+"SRR6054572": {
+"hashes": 148681,
+"human_hashes": 16,
+"stat_human_hits": 89,
+"stat_species_hits": 1967906
+},
+"SRR6054587": {
+"hashes": 181172,
+"human_hashes": 71,
+"stat_human_hits": 0,
+"stat_species_hits": 2747584
+},
+"SRR6054592": {
+"hashes": 217603,
+"human_hashes": 120,
+"stat_human_hits": 819,
+"stat_species_hits": 2792650
+},
+"SRR6054595": {
+"hashes": 217985,
+"human_hashes": 380,
+"stat_human_hits": 3169,
+"stat_species_hits": 3546759
+},
+"SRR6054598": {
+"hashes": 207039,
+"human_hashes": 11,
+"stat_human_hits": 0,
+"stat_species_hits": 1695367
+},
+"SRR6054599": {
+"hashes": 225437,
+"human_hashes": 36,
+"stat_human_hits": 150,
+"stat_species_hits": 2186571
+},
+"SRR6054604": {
+"hashes": 49010,
+"human_hashes": 43,
+"stat_human_hits": 222,
+"stat_species_hits": 364537
+},
+"SRR6054606": {
+"hashes": 73878,
+"human_hashes": 11,
+"stat_human_hits": 110,
+"stat_species_hits": 1063406
+},
+"SRR6054607": {
+"hashes": 177396,
+"human_hashes": 82,
+"stat_human_hits": 482,
+"stat_species_hits": 3795837
+},
+"SRR6054608": {
+"hashes": 180122,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 2128539
+},
+"SRR6054609": {
+"hashes": 178399,
+"human_hashes": 83,
+"stat_human_hits": 713,
+"stat_species_hits": 3247458
+},
+"SRR6054610": {
+"hashes": 207514,
+"human_hashes": 236,
+"stat_human_hits": 1967,
+"stat_species_hits": 3195968
+},
+"SRR6054611": {
+"hashes": 268501,
+"human_hashes": 52,
+"stat_human_hits": 179,
+"stat_species_hits": 5481455
+},
+"SRR6054615": {
+"hashes": 268001,
+"human_hashes": 74,
+"stat_human_hits": 478,
+"stat_species_hits": 4172716
+},
+"SRR6054621": {
+"hashes": 196145,
+"human_hashes": 12,
+"stat_human_hits": 95,
+"stat_species_hits": 2801580
+},
+"SRR6054625": {
+"hashes": 138755,
+"human_hashes": 212,
+"stat_human_hits": 2392,
+"stat_species_hits": 1743146
+},
+"SRR6054626": {
+"hashes": 196787,
+"human_hashes": 36,
+"stat_human_hits": 221,
+"stat_species_hits": 2806538
+},
+"SRR6054638": {
+"hashes": 179877,
+"human_hashes": 28,
+"stat_human_hits": 0,
+"stat_species_hits": 2208289
+},
+"SRR6054643": {
+"hashes": 162529,
+"human_hashes": 18,
+"stat_human_hits": 0,
+"stat_species_hits": 3019926
+},
+"SRR6054646": {
+"hashes": 201407,
+"human_hashes": 144,
+"stat_human_hits": 790,
+"stat_species_hits": 2352743
+},
+"SRR6054647": {
+"hashes": 262424,
+"human_hashes": 15599,
+"stat_human_hits": 115439,
+"stat_species_hits": 3258756
+},
+"SRR6054655": {
+"hashes": 147591,
+"human_hashes": 38,
+"stat_human_hits": 118,
+"stat_species_hits": 1335210
+},
+"SRR6054656": {
+"hashes": 211877,
+"human_hashes": 24,
+"stat_human_hits": 86,
+"stat_species_hits": 2632877
+},
+"SRR6054657": {
+"hashes": 162594,
+"human_hashes": 164,
+"stat_human_hits": 1192,
+"stat_species_hits": 2752281
+},
+"SRR6054658": {
+"hashes": 168338,
+"human_hashes": 122,
+"stat_human_hits": 550,
+"stat_species_hits": 2502992
+},
+"SRR6054660": {
+"hashes": 277636,
+"human_hashes": 39,
+"stat_human_hits": 187,
+"stat_species_hits": 3003312
+},
+"SRR6054661": {
+"hashes": 252009,
+"human_hashes": 85,
+"stat_human_hits": 457,
+"stat_species_hits": 2347561
+},
+"SRR6054662": {
+"hashes": 202165,
+"human_hashes": 38,
+"stat_human_hits": 187,
+"stat_species_hits": 3174224
+},
+"SRR6054663": {
+"hashes": 187959,
+"human_hashes": 46,
+"stat_human_hits": 223,
+"stat_species_hits": 2686520
+},
+"SRR6054664": {
+"hashes": 94397,
+"human_hashes": 25,
+"stat_human_hits": 0,
+"stat_species_hits": 1128388
+},
+"SRR6054665": {
+"hashes": 99360,
+"human_hashes": 24,
+"stat_human_hits": 0,
+"stat_species_hits": 1899880
+},
+"SRR6054670": {
+"hashes": 171066,
+"human_hashes": 450,
+"stat_human_hits": 3322,
+"stat_species_hits": 2484722
+},
+"SRR6054671": {
+"hashes": 125705,
+"human_hashes": 109,
+"stat_human_hits": 781,
+"stat_species_hits": 1472073
+},
+"SRR6054677": {
+"hashes": 225339,
+"human_hashes": 603,
+"stat_human_hits": 2198,
+"stat_species_hits": 2840426
+},
+"SRR6054678": {
+"hashes": 153779,
+"human_hashes": 18,
+"stat_human_hits": 75,
+"stat_species_hits": 1465183
+},
+"SRR6054679": {
+"hashes": 163891,
+"human_hashes": 32,
+"stat_human_hits": 245,
+"stat_species_hits": 2288809
+},
+"SRR6054682": {
+"hashes": 125547,
+"human_hashes": 24,
+"stat_human_hits": 134,
+"stat_species_hits": 1592546
+},
+"SRR6054688": {
+"hashes": 200189,
+"human_hashes": 61,
+"stat_human_hits": 348,
+"stat_species_hits": 2288830
+},
+"SRR6054689": {
+"hashes": 207583,
+"human_hashes": 89,
+"stat_human_hits": 414,
+"stat_species_hits": 2330902
+},
+"SRR6054690": {
+"hashes": 209822,
+"human_hashes": 23,
+"stat_human_hits": 126,
+"stat_species_hits": 3121772
+},
+"SRR6054691": {
+"hashes": 202435,
+"human_hashes": 65,
+"stat_human_hits": 485,
+"stat_species_hits": 2821516
+},
+"SRR6054693": {
+"hashes": 156293,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 1926157
+},
+"SRR6054697": {
+"hashes": 197793,
+"human_hashes": 59,
+"stat_human_hits": 357,
+"stat_species_hits": 2324586
+},
+"SRR6054698": {
+"hashes": 152471,
+"human_hashes": 61,
+"stat_human_hits": 404,
+"stat_species_hits": 1356771
+},
+"SRR6054700": {
+"hashes": 163267,
+"human_hashes": 40,
+"stat_human_hits": 236,
+"stat_species_hits": 2721740
+},
+"SRR6054706": {
+"hashes": 121569,
+"human_hashes": 27,
+"stat_human_hits": 153,
+"stat_species_hits": 1631356
+},
+"SRR6451714": {
+"hashes": 102747,
+"human_hashes": 18,
+"stat_human_hits": 0,
+"stat_species_hits": 1830576
+},
+"SRR6451715": {
+"hashes": 97301,
+"human_hashes": 57,
+"stat_human_hits": 428,
+"stat_species_hits": 1400482
+},
+"SRR6451717": {
+"hashes": 200586,
+"human_hashes": 750,
+"stat_human_hits": 4551,
+"stat_species_hits": 2444314
+},
+"SRR6451722": {
+"hashes": 143744,
+"human_hashes": 2545,
+"stat_human_hits": 15369,
+"stat_species_hits": 1465060
+},
+"SRR6451724": {
+"hashes": 133828,
+"human_hashes": 22,
+"stat_human_hits": 95,
+"stat_species_hits": 1293537
+},
+"SRR6451725": {
+"hashes": 120515,
+"human_hashes": 44,
+"stat_human_hits": 256,
+"stat_species_hits": 1339732
+},
+"SRR6451727": {
+"hashes": 170637,
+"human_hashes": 38,
+"stat_human_hits": 0,
+"stat_species_hits": 1899628
+},
+"SRR6451738": {
+"hashes": 179993,
+"human_hashes": 65,
+"stat_human_hits": 368,
+"stat_species_hits": 4620776
+},
+"SRR6451741": {
+"hashes": 156090,
+"human_hashes": 50,
+"stat_human_hits": 307,
+"stat_species_hits": 2955243
+},
+"SRR6451745": {
+"hashes": 180157,
+"human_hashes": 212,
+"stat_human_hits": 1240,
+"stat_species_hits": 1939144
+},
+"SRR6451748": {
+"hashes": 187588,
+"human_hashes": 58,
+"stat_human_hits": 329,
+"stat_species_hits": 3533172
+},
+"SRR6451749": {
+"hashes": 148020,
+"human_hashes": 13623,
+"stat_human_hits": 118175,
+"stat_species_hits": 2395233
+},
+"SRR6451750": {
+"hashes": 143148,
+"human_hashes": 354,
+"stat_human_hits": 2062,
+"stat_species_hits": 1790825
+},
+"SRR6451751": {
+"hashes": 173218,
+"human_hashes": 346,
+"stat_human_hits": 2127,
+"stat_species_hits": 2775176
+},
+"SRR6451754": {
+"hashes": 130813,
+"human_hashes": 89,
+"stat_human_hits": 516,
+"stat_species_hits": 1683397
+},
+"SRR6451755": {
+"hashes": 215231,
+"human_hashes": 51,
+"stat_human_hits": 0,
+"stat_species_hits": 3989058
+},
+"SRR6451757": {
+"hashes": 211339,
+"human_hashes": 142,
+"stat_human_hits": 599,
+"stat_species_hits": 2812007
+},
+"SRR6451763": {
+"hashes": 231207,
+"human_hashes": 146,
+"stat_human_hits": 467,
+"stat_species_hits": 3439965
+},
+"SRR6451764": {
+"hashes": 251416,
+"human_hashes": 237,
+"stat_human_hits": 1129,
+"stat_species_hits": 3378112
+},
+"SRR6451765": {
+"hashes": 196466,
+"human_hashes": 150,
+"stat_human_hits": 688,
+"stat_species_hits": 2240782
+},
+"SRR6451766": {
+"hashes": 246559,
+"human_hashes": 299,
+"stat_human_hits": 1848,
+"stat_species_hits": 6046743
+},
+"SRR6451767": {
+"hashes": 274467,
+"human_hashes": 149,
+"stat_human_hits": 633,
+"stat_species_hits": 6319752
+},
+"SRR6451774": {
+"hashes": 135724,
+"human_hashes": 33,
+"stat_human_hits": 157,
+"stat_species_hits": 1233712
+},
+"SRR6451775": {
+"hashes": 156666,
+"human_hashes": 49,
+"stat_human_hits": 321,
+"stat_species_hits": 2025979
+},
+"SRR6451780": {
+"hashes": 129005,
+"human_hashes": 37,
+"stat_human_hits": 0,
+"stat_species_hits": 1031043
+},
+"SRR6451781": {
+"hashes": 115022,
+"human_hashes": 29,
+"stat_human_hits": 176,
+"stat_species_hits": 856064
+},
+"SRR6451795": {
+"hashes": 190722,
+"human_hashes": 231,
+"stat_human_hits": 1409,
+"stat_species_hits": 3716228
+},
+"SRR6451798": {
+"hashes": 129993,
+"human_hashes": 46,
+"stat_human_hits": 354,
+"stat_species_hits": 2126867
+},
+"SRR6451800": {
+"hashes": 91259,
+"human_hashes": 5,
+"stat_human_hits": 0,
+"stat_species_hits": 1227253
+},
+"SRR6451801": {
+"hashes": 176464,
+"human_hashes": 75,
+"stat_human_hits": 409,
+"stat_species_hits": 2852783
+},
+"SRR6451802": {
+"hashes": 198333,
+"human_hashes": 57,
+"stat_human_hits": 202,
+"stat_species_hits": 3618888
+},
+"SRR6451803": {
+"hashes": 223087,
+"human_hashes": 48,
+"stat_human_hits": 292,
+"stat_species_hits": 4889464
+},
+"SRR6451808": {
+"hashes": 186560,
+"human_hashes": 90,
+"stat_human_hits": 447,
+"stat_species_hits": 1846080
+},
+"SRR6451814": {
+"hashes": 174626,
+"human_hashes": 79,
+"stat_human_hits": 404,
+"stat_species_hits": 2205986
+},
+"SRR6451815": {
+"hashes": 204709,
+"human_hashes": 392,
+"stat_human_hits": 2346,
+"stat_species_hits": 3235614
+},
+"SRR6451817": {
+"hashes": 121867,
+"human_hashes": 11,
+"stat_human_hits": 0,
+"stat_species_hits": 1326199
+},
+"SRR6451818": {
+"hashes": 165615,
+"human_hashes": 119,
+"stat_human_hits": 542,
+"stat_species_hits": 1923774
+},
+"SRR6451825": {
+"hashes": 130863,
+"human_hashes": 789,
+"stat_human_hits": 6152,
+"stat_species_hits": 4261634
+},
+"SRR6451828": {
+"hashes": 172945,
+"human_hashes": 15,
+"stat_human_hits": 62,
+"stat_species_hits": 2581010
+},
+"SRR6451831": {
+"hashes": 234384,
+"human_hashes": 9180,
+"stat_human_hits": 65515,
+"stat_species_hits": 4104874
+},
+"SRR6451832": {
+"hashes": 237884,
+"human_hashes": 84,
+"stat_human_hits": 471,
+"stat_species_hits": 3911566
+},
+"SRR6451835": {
+"hashes": 232520,
+"human_hashes": 360,
+"stat_human_hits": 2058,
+"stat_species_hits": 2062757
+},
+"SRR6451836": {
+"hashes": 165438,
+"human_hashes": 207,
+"stat_human_hits": 1227,
+"stat_species_hits": 1508449
+},
+"SRR6451837": {
+"hashes": 177714,
+"human_hashes": 190,
+"stat_human_hits": 948,
+"stat_species_hits": 4705634
+},
+"SRR7989812": {
+"hashes": 394891,
+"human_hashes": 725,
+"stat_human_hits": 11009,
+"stat_species_hits": 4882758
+},
+"SRR7989813": {
+"hashes": 364100,
+"human_hashes": 568,
+"stat_human_hits": 7437,
+"stat_species_hits": 4419638
+},
+"SRR7989816": {
+"hashes": 415671,
+"human_hashes": 692,
+"stat_human_hits": 5137,
+"stat_species_hits": 17398416
+},
+"SRR7989817": {
+"hashes": 424947,
+"human_hashes": 5869,
+"stat_human_hits": 70429,
+"stat_species_hits": 12193848
+},
+"SRR7989819": {
+"hashes": 523097,
+"human_hashes": 4291,
+"stat_human_hits": 36077,
+"stat_species_hits": 18614239
+},
+"SRR7989820": {
+"hashes": 492934,
+"human_hashes": 2397,
+"stat_human_hits": 19832,
+"stat_species_hits": 21986499
+},
+"SRR7989826": {
+"hashes": 227050,
+"human_hashes": 2113,
+"stat_human_hits": 10880,
+"stat_species_hits": 5041791
+},
+"SRR7989828": {
+"hashes": 218146,
+"human_hashes": 996,
+"stat_human_hits": 5283,
+"stat_species_hits": 5477035
+},
+"SRR7989831": {
+"hashes": 361094,
+"human_hashes": 1439,
+"stat_human_hits": 7395,
+"stat_species_hits": 6240625
+},
+"SRR7989832": {
+"hashes": 463255,
+"human_hashes": 8764,
+"stat_human_hits": 41393,
+"stat_species_hits": 7527176
+},
+"SRR7989833": {
+"hashes": 307152,
+"human_hashes": 1176,
+"stat_human_hits": 6234,
+"stat_species_hits": 7194653
+},
+"SRR7989836": {
+"hashes": 382888,
+"human_hashes": 5794,
+"stat_human_hits": 45166,
+"stat_species_hits": 8789438
+},
+"SRR7989838": {
+"hashes": 345960,
+"human_hashes": 5976,
+"stat_human_hits": 39613,
+"stat_species_hits": 11792910
+},
+"SRR7989841": {
+"hashes": 313319,
+"human_hashes": 8536,
+"stat_human_hits": 44301,
+"stat_species_hits": 15643095
+},
+"SRR7989842": {
+"hashes": 258735,
+"human_hashes": 1941,
+"stat_human_hits": 13492,
+"stat_species_hits": 10386024
+},
+"SRR7989845": {
+"hashes": 366991,
+"human_hashes": 4477,
+"stat_human_hits": 27250,
+"stat_species_hits": 8137137
+},
+"SRR7989846": {
+"hashes": 375472,
+"human_hashes": 237,
+"stat_human_hits": 2993,
+"stat_species_hits": 14001579
+},
+"SRR7989847": {
+"hashes": 377435,
+"human_hashes": 356,
+"stat_human_hits": 3793,
+"stat_species_hits": 13462452
+},
+"SRR7989850": {
+"hashes": 428363,
+"human_hashes": 954,
+"stat_human_hits": 9106,
+"stat_species_hits": 11009844
+},
+"SRR7989851": {
+"hashes": 450164,
+"human_hashes": 2177,
+"stat_human_hits": 14444,
+"stat_species_hits": 13188348
+},
+"SRR7989854": {
+"hashes": 548548,
+"human_hashes": 4027,
+"stat_human_hits": 40510,
+"stat_species_hits": 15689954
+},
+"SRR7989855": {
+"hashes": 530111,
+"human_hashes": 4590,
+"stat_human_hits": 32404,
+"stat_species_hits": 13754938
+},
+"SRR7989859": {
+"hashes": 426966,
+"human_hashes": 5345,
+"stat_human_hits": 40583,
+"stat_species_hits": 14035551
+},
+"SRR7989860": {
+"hashes": 394403,
+"human_hashes": 1326,
+"stat_human_hits": 12236,
+"stat_species_hits": 16376603
+},
+"SRR7989863": {
+"hashes": 628411,
+"human_hashes": 10418,
+"stat_human_hits": 161580,
+"stat_species_hits": 14113949
+},
+"SRR7989864": {
+"hashes": 495207,
+"human_hashes": 1153,
+"stat_human_hits": 8780,
+"stat_species_hits": 7825240
+},
+"SRR7989867": {
+"hashes": 470085,
+"human_hashes": 10965,
+"stat_human_hits": 68991,
+"stat_species_hits": 13895227
+},
+"SRR7989868": {
+"hashes": 537113,
+"human_hashes": 6065,
+"stat_human_hits": 45915,
+"stat_species_hits": 13766115
+},
+"SRR7989871": {
+"hashes": 359135,
+"human_hashes": 2058,
+"stat_human_hits": 12946,
+"stat_species_hits": 9795047
+},
+"SRR7989872": {
+"hashes": 468386,
+"human_hashes": 3677,
+"stat_human_hits": 21367,
+"stat_species_hits": 12582033
+},
+"SRR7989873": {
+"hashes": 244088,
+"human_hashes": 108,
+"stat_human_hits": 613,
+"stat_species_hits": 10362455
+},
+"SRR7989875": {
+"hashes": 225548,
+"human_hashes": 171,
+"stat_human_hits": 917,
+"stat_species_hits": 8556924
+},
+"SRR7989877": {
+"hashes": 471789,
+"human_hashes": 2198,
+"stat_human_hits": 13035,
+"stat_species_hits": 14380281
+},
+"SRR7989878": {
+"hashes": 406298,
+"human_hashes": 1974,
+"stat_human_hits": 10562,
+"stat_species_hits": 12236134
+},
+"SRR7989882": {
+"hashes": 395295,
+"human_hashes": 24783,
+"stat_human_hits": 149674,
+"stat_species_hits": 8796295
+},
+"SRR7989884": {
+"hashes": 438609,
+"human_hashes": 3753,
+"stat_human_hits": 23523,
+"stat_species_hits": 11286086
+},
+"SRR7989889": {
+"hashes": 302183,
+"human_hashes": 739,
+"stat_human_hits": 4221,
+"stat_species_hits": 12229348
+},
+"SRR7989891": {
+"hashes": 393200,
+"human_hashes": 671,
+"stat_human_hits": 3985,
+"stat_species_hits": 5943757
+},
+"SRR7989893": {
+"hashes": 495423,
+"human_hashes": 7949,
+"stat_human_hits": 51343,
+"stat_species_hits": 14446451
+},
+"SRR7989894": {
+"hashes": 455729,
+"human_hashes": 2267,
+"stat_human_hits": 13434,
+"stat_species_hits": 6549886
+},
+"SRR7989895": {
+"hashes": 511212,
+"human_hashes": 3105,
+"stat_human_hits": 25395,
+"stat_species_hits": 11329966
+},
+"SRR7989897": {
+"hashes": 521006,
+"human_hashes": 910,
+"stat_human_hits": 5977,
+"stat_species_hits": 13437362
+},
+"SRR7989898": {
+"hashes": 570300,
+"human_hashes": 1349,
+"stat_human_hits": 6733,
+"stat_species_hits": 12457486
+},
+"SRR7989901": {
+"hashes": 370273,
+"human_hashes": 658,
+"stat_human_hits": 5176,
+"stat_species_hits": 8375981
+},
+"SRR7989902": {
+"hashes": 365062,
+"human_hashes": 663,
+"stat_human_hits": 5307,
+"stat_species_hits": 6523440
+},
+"SRR7989904": {
+"hashes": 376518,
+"human_hashes": 113,
+"stat_human_hits": 525,
+"stat_species_hits": 4228536
+},
+"SRR7989905": {
+"hashes": 314980,
+"human_hashes": 9412,
+"stat_human_hits": 63431,
+"stat_species_hits": 12691418
+},
+"SRR7989906": {
+"hashes": 319851,
+"human_hashes": 4046,
+"stat_human_hits": 26295,
+"stat_species_hits": 10162891
+},
+"SRR7989912": {
+"hashes": 507462,
+"human_hashes": 422,
+"stat_human_hits": 2123,
+"stat_species_hits": 14128773
+},
+"SRR7989914": {
+"hashes": 478315,
+"human_hashes": 400,
+"stat_human_hits": 1674,
+"stat_species_hits": 18691113
+},
+"SRR7989917": {
+"hashes": 340969,
+"human_hashes": 500,
+"stat_human_hits": 4189,
+"stat_species_hits": 7276821
+},
+"SRR7989918": {
+"hashes": 271877,
+"human_hashes": 187,
+"stat_human_hits": 2333,
+"stat_species_hits": 5161959
+},
+"SRR7989920": {
+"hashes": 412337,
+"human_hashes": 1004,
+"stat_human_hits": 6849,
+"stat_species_hits": 9196909
+},
+"SRR7989922": {
+"hashes": 472766,
+"human_hashes": 1236,
+"stat_human_hits": 8267,
+"stat_species_hits": 11167721
+},
+"SRR7989924": {
+"hashes": 365628,
+"human_hashes": 1460,
+"stat_human_hits": 7579,
+"stat_species_hits": 8461304
+},
+"SRR7989926": {
+"hashes": 430871,
+"human_hashes": 2161,
+"stat_human_hits": 16174,
+"stat_species_hits": 10645011
+},
+"SRR7989927": {
+"hashes": 472814,
+"human_hashes": 3380,
+"stat_human_hits": 22452,
+"stat_species_hits": 8703823
+},
+"SRR7989932": {
+"hashes": 419877,
+"human_hashes": 255,
+"stat_human_hits": 975,
+"stat_species_hits": 6600005
+},
+"SRR7989933": {
+"hashes": 304556,
+"human_hashes": 5403,
+"stat_human_hits": 26692,
+"stat_species_hits": 7292256
+},
+"SRR7989935": {
+"hashes": 395836,
+"human_hashes": 1508,
+"stat_human_hits": 13472,
+"stat_species_hits": 5852965
+},
+"SRR7989936": {
+"hashes": 385727,
+"human_hashes": 15211,
+"stat_human_hits": 123887,
+"stat_species_hits": 8285188
+},
+"SRR7989937": {
+"hashes": 233273,
+"human_hashes": 137,
+"stat_human_hits": 640,
+"stat_species_hits": 4878936
+},
+"SRR7989940": {
+"hashes": 375517,
+"human_hashes": 2349,
+"stat_human_hits": 11796,
+"stat_species_hits": 11700148
+},
+"SRR7989942": {
+"hashes": 601875,
+"human_hashes": 9032,
+"stat_human_hits": 77219,
+"stat_species_hits": 11587019
+},
+"SRR7989943": {
+"hashes": 497065,
+"human_hashes": 1015,
+"stat_human_hits": 5865,
+"stat_species_hits": 16918574
+},
+"SRR7989946": {
+"hashes": 375528,
+"human_hashes": 1086,
+"stat_human_hits": 4635,
+"stat_species_hits": 12419128
+},
+"SRR7989947": {
+"hashes": 398539,
+"human_hashes": 1536,
+"stat_human_hits": 6662,
+"stat_species_hits": 14930921
+},
+"SRR7989950": {
+"hashes": 593321,
+"human_hashes": 8383,
+"stat_human_hits": 72849,
+"stat_species_hits": 11297671
+},
+"SRR7989952": {
+"hashes": 275859,
+"human_hashes": 9203,
+"stat_human_hits": 91221,
+"stat_species_hits": 9348102
+},
+"SRR7989953": {
+"hashes": 261500,
+"human_hashes": 94,
+"stat_human_hits": 632,
+"stat_species_hits": 5279392
+},
+"SRR7989954": {
+"hashes": 359836,
+"human_hashes": 178,
+"stat_human_hits": 1419,
+"stat_species_hits": 9808729
+},
+"SRR7989955": {
+"hashes": 238378,
+"human_hashes": 2060,
+"stat_human_hits": 13061,
+"stat_species_hits": 5184028
+},
+"SRR7989956": {
+"hashes": 224970,
+"human_hashes": 3594,
+"stat_human_hits": 25979,
+"stat_species_hits": 12472049
+},
+"SRR7989961": {
+"hashes": 601163,
+"human_hashes": 5505,
+"stat_human_hits": 35909,
+"stat_species_hits": 15844814
+},
+"SRR7989962": {
+"hashes": 310009,
+"human_hashes": 1103,
+"stat_human_hits": 8717,
+"stat_species_hits": 6549839
+},
+"SRR7989965": {
+"hashes": 319748,
+"human_hashes": 968,
+"stat_human_hits": 14793,
+"stat_species_hits": 6547732
+},
+"SRR7989966": {
+"hashes": 371831,
+"human_hashes": 2024,
+"stat_human_hits": 13766,
+"stat_species_hits": 7585764
+},
+"SRR7989967": {
+"hashes": 472692,
+"human_hashes": 1969,
+"stat_human_hits": 30683,
+"stat_species_hits": 13420265
+},
+"SRR7989972": {
+"hashes": 555994,
+"human_hashes": 9731,
+"stat_human_hits": 89757,
+"stat_species_hits": 7113673
+},
+"SRR7989974": {
+"hashes": 501330,
+"human_hashes": 9204,
+"stat_human_hits": 121201,
+"stat_species_hits": 5106214
+},
+"SRR7989976": {
+"hashes": 530358,
+"human_hashes": 1421,
+"stat_human_hits": 16282,
+"stat_species_hits": 8052563
+},
+"SRR7989978": {
+"hashes": 546295,
+"human_hashes": 52076,
+"stat_human_hits": 512504,
+"stat_species_hits": 9637608
+},
+"SRR7989988": {
+"hashes": 293013,
+"human_hashes": 58,
+"stat_human_hits": 500,
+"stat_species_hits": 10045601
+},
+"SRR7989989": {
+"hashes": 348812,
+"human_hashes": 207,
+"stat_human_hits": 2032,
+"stat_species_hits": 10060089
+},
+"SRR7989994": {
+"hashes": 332351,
+"human_hashes": 257,
+"stat_human_hits": 2067,
+"stat_species_hits": 6282203
+},
+"SRR7989997": {
+"hashes": 369131,
+"human_hashes": 860,
+"stat_human_hits": 9451,
+"stat_species_hits": 10183154
+},
+"SRR7989998": {
+"hashes": 160631,
+"human_hashes": 49,
+"stat_human_hits": 177,
+"stat_species_hits": 6315855
+},
+"SRR7989999": {
+"hashes": 177836,
+"human_hashes": 1009,
+"stat_human_hits": 11775,
+"stat_species_hits": 5699624
+},
+"SRR7990000": {
+"hashes": 304957,
+"human_hashes": 1874,
+"stat_human_hits": 17250,
+"stat_species_hits": 10114077
+},
+"SRR7990001": {
+"hashes": 288931,
+"human_hashes": 1895,
+"stat_human_hits": 12775,
+"stat_species_hits": 7287310
+},
+"SRR8097415": {
+"hashes": 172640,
+"human_hashes": 1691,
+"stat_human_hits": 10450,
+"stat_species_hits": 2074760
+},
+"SRR8097422": {
+"hashes": 154738,
+"human_hashes": 1694,
+"stat_human_hits": 14957,
+"stat_species_hits": 2598822
+}
+}

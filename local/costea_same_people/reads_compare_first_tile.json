@@ -1,0 +1,149 @@
+[
+ {
+  "subject": "DEU1",
+  "same_tile": true,
+  "tile_q": [
+   "D3FCO8P1",
+   "5",
+   "1101"
+  ],
+  "tile_n": [
+   "D3FCO8P1",
+   "5",
+   "1101"
+  ],
+  "reads_q": 48917,
+  "reads_n": 54475,
+  "common": 48240,
+  "identical": 0,
+  "contained": 48240,
+  "median_len_q": 93,
+  "median_len_n": 94
+ },
+ {
+  "subject": "DEU7",
+  "same_tile": true,
+  "tile_q": [
+   "HWI-ST1146",
+   "5",
+   "1101"
+  ],
+  "tile_n": [
+   "HWI-ST1146",
+   "5",
+   "1101"
+  ],
+  "reads_q": 92897,
+  "reads_n": 117078,
+  "common": 92872,
+  "identical": 0,
+  "contained": 92872,
+  "median_len_q": 90,
+  "median_len_n": 94
+ },
+ {
+  "subject": "DEU8",
+  "same_tile": true,
+  "tile_q": [
+   "HWI-ST1146",
+   "7",
+   "1101"
+  ],
+  "tile_n": [
+   "HWI-ST1146",
+   "7",
+   "1101"
+  ],
+  "reads_q": 71319,
+  "reads_n": 89030,
+  "common": 71307,
+  "identical": 0,
+  "contained": 71307,
+  "median_len_q": 90,
+  "median_len_n": 94
+ },
+ {
+  "subject": "DEU13",
+  "same_tile": true,
+  "tile_q": [
+   "HWI-ST999",
+   "1",
+   "1101"
+  ],
+  "tile_n": [
+   "HWI-ST999",
+   "1",
+   "1101"
+  ],
+  "reads_q": 76245,
+  "reads_n": 89545,
+  "common": 76227,
+  "identical": 0,
+  "contained": 76227,
+  "median_len_q": 90,
+  "median_len_n": 94
+ },
+ {
+  "subject": "DEU14",
+  "same_tile": true,
+  "tile_q": [
+   "D3FCO8P1",
+   "7",
+   "1101"
+  ],
+  "tile_n": [
+   "D3FCO8P1",
+   "7",
+   "1101"
+  ],
+  "reads_q": 18270,
+  "reads_n": 24782,
+  "common": 18269,
+  "identical": 0,
+  "contained": 18269,
+  "median_len_q": 93,
+  "median_len_n": 94
+ },
+ {
+  "subject": "DEU18",
+  "same_tile": true,
+  "tile_q": [
+   "D3FCO8P1",
+   "5",
+   "1101"
+  ],
+  "tile_n": [
+   "D3FCO8P1",
+   "5",
+   "1101"
+  ],
+  "reads_q": 49988,
+  "reads_n": 56273,
+  "common": 49740,
+  "identical": 0,
+  "contained": 49740,
+  "median_len_q": 90,
+  "median_len_n": 94
+ },
+ {
+  "subject": "DEU22",
+  "same_tile": true,
+  "tile_q": [
+   "D3FCO8P1",
+   "6",
+   "1101"
+  ],
+  "tile_n": [
+   "D3FCO8P1",
+   "6",
+   "1101"
+  ],
+  "reads_q": 86089,
+  "reads_n": 106830,
+  "common": 86075,
+  "identical": 0,
+  "contained": 86075,
+  "median_len_q": 91,
+  "median_len_n": 94
+ }
+]

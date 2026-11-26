@@ -1,0 +1,71 @@
+{
+ "vincent": {
+  "n": 61,
+  "linked_stock": 23,
+  "share_median": 48.405405797732584,
+  "share_max": 95.62878787878788,
+  "n_over5": 50,
+  "n_over50": 28,
+  "discordant": 12,
+  "discordant_linked": 0,
+  "pool_all": 27,
+  "pool_removed": 34
+ },
+ "others": {
+  "n": 497,
+  "share_median": 0.03266245683889632,
+  "n_over5": 13,
+  "n_over5_linked": 11,
+  "linked_stock": 457
+ },
+ "strata": [
+  {
+   "label": "below 0.5",
+   "donors": 441,
+   "linked": 408
+  },
+  {
+   "label": "0.5 to 5",
+   "donors": 54,
+   "linked": 45
+  },
+  {
+   "label": "5 to 50",
+   "donors": 34,
+   "linked": 23
+  },
+  {
+   "label": "50 or more",
+   "donors": 29,
+   "linked": 4
+  }
+ ],
+ "pool": {
+  "rich_donors": 63,
+  "rich_all": {
+   "n": 63,
+   "top1": 32,
+   "percent": 50.79365079365079
+  },
+  "rich_removed": {
+   "n": 63,
+   "top1": 39,
+   "percent": 61.904761904761905
+  },
+  "poor_all": {
+   "n": 495,
+   "top1": 468,
+   "percent": 94.54545454545455
+  },
+  "poor_removed": {
+   "n": 495,
+   "top1": 468,
+   "percent": 94.54545454545455
+  },
+  "pool_runs": 1116,
+  "pool_donors": 558,
+  "others_all": 473,
+  "others_removed": 473,
+  "others_n": 497
+ }
+}
