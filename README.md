@@ -83,7 +83,7 @@ Python 3.11.13, numpy 1.26.4, scipy 1.14.0, matplotlib 3.10.8, Pillow 11.0.0 (`e
 
 The code, the tables computed here and the text are released under the GNU General Public License, version 3 or any later version (`LICENSE`; `GPL-3.0-or-later`), unless a file says otherwise. The fonts keep their own licences. The tables of `local/` taken from curatedMetagenomicData (`sm.rda`, `cmd_meta/cmd_meta.tsv` and `crocodeel_valles/matrices/`) remain under the licence of that package, Artistic-2.0; `code/upstream/01_cohort_tables/extract_all.R` shows how the tables of `matrices/` are cut from it. The other files of `local/` copied from the ENA, the NCBI and the similarity service, the run accessions and the public metadata keep the terms of use of their sources. `.gitignore` keeps `output/` and the files that `prepare_local.sh` writes out of git.
 
-**Repository.** https://github.com/ggautreau/gut_microbiomes_privacy [DOI of the archived release: to be added at submission].
+**Repository.** https://github.com/ggautreau/gut_microbiomes_privacy.
 
 **Citation.** The paper above (in preparation); metadata in `CITATION.cff`.
 
