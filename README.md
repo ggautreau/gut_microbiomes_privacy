@@ -19,7 +19,7 @@ ALL INDEPENDENT CHECKS PASSED
 
 The seven figures come out with identical pixels, the seven files of numbers with the same numbers, and `supplementary.tex` byte for byte. On another machine a figure can differ by a few grey levels on a few pixels (another FreeType or matplotlib), and a number by its last digits (another Python or numpy moves the optimum of a fit, by about 1e-9 relative); `check_reproduction.py` then says `NEAR` when the numbers are equal to 3 decimals, and the file counts as reproduced.
 
-`python3 -I rerun_upstream.py` (about 35 minutes, no network) goes one step back. In a scratch copy it re-runs the upstream steps from the files of `local/` and compares what they write with the files of the package. It ends with `35 of 35 steps identical; 1 not run`; the step left out reads a table that is not here (below). As in `check_reproduction.py`, a file of numbers whose floats are equal only to 3 decimals counts as identical, and its step is marked `equal to 3 decimals` in the table.
+`python3 -I rerun_upstream.py` (about 5 hours and 20 minutes on 32 cores, of which 4 hours and 55 minutes for `evt_model.py`; about 16 minutes with `--fast`, which leaves out the three slow extrapolation steps; no network) goes one step back. In a scratch copy it re-runs the upstream steps from the files of `local/` and compares what they write with the files of the package. It ends with `35 of 35 steps identical; 1 not run`; the step left out reads a table that is not here (below). As in `check_reproduction.py`, a file of numbers whose floats are equal only to 3 decimals counts as identical, and its step is marked `equal to 3 decimals` in the table.
 
 ## What the paper measures
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Re-runs the steps of code/upstream/ from the files of local/, in a scratch copy of the reproduction package, and compares what they write with the files of the package (local/, data/, aggregates/, reference/).
 
-    python3 -I rerun_upstream.py [--fast] [--extra DIR] [--table OUT.md] [SCRATCH_DIR]          # from the root of the package; about 30 minutes
+    python3 -I rerun_upstream.py [--fast] [--extra DIR] [--table OUT.md] [SCRATCH_DIR]          # from the root of the package; about 5 h 20 min on 32 cores, 16 min with --fast
 
 SCRATCH_DIR   the copy is made there (default: a temporary folder, removed at the end)
 --fast        leaves out extrapolation_tables.py, extrapolation_bootstrap.py and evt_model.py (the slow extrapolation steps)
